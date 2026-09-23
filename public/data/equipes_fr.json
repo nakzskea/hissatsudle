@@ -1,0 +1,345 @@
+{
+ "Inazuma National": {
+  "fr": "Inazuma Japon",
+  "alias": [
+   "Inazuma Japan"
+  ]
+ },
+ "Inazuma Another National": {
+  "fr": "Néo Inazuma Japon"
+ },
+ "Neo National": {
+  "fr": "Néo Japon"
+ },
+ "Brainwashing": {
+  "fr": "Cybertech"
+ },
+ "Earth Eleven": {
+  "fr": "Onze Terrestre"
+ },
+ "Revolutionary Raimon": {
+  "fr": "Raimon (GO)"
+ },
+ "Inazuma National War God": {
+  "fr": "Inazuma Japon (Orion)"
+ },
+ "Backwater Raimon": {
+  "fr": "Raimon (Arès)"
+ },
+ "South Cirrus": {
+  "fr": "Nagumohara"
+ },
+ "Protocol Omega": {
+  "fr": "Protocole Omega",
+  "alias": [
+   "Protocole Omega 2.0",
+   "Protocole Omega 3.0"
+  ]
+ },
+ "Ixar Fleet": {
+  "fr": "Armada Ixar",
+  "alias": [
+   "Ixaal Fleet",
+   "Armada Ixaal"
+  ]
+ },
+ "Super Triple C": {
+  "fr": "Triple C",
+  "alias": [
+   "Académie des trois C"
+  ]
+ },
+ "Dark Emperors": {
+  "fr": "Empereurs Noirs"
+ },
+ "Occult": {
+  "fr": "Occulte"
+ },
+ "The Despairadoes": {
+  "fr": "Roses du Désespoir"
+ },
+ "Secret Service": {
+  "fr": "Services Secrets"
+ },
+ "Perfect Cascade": {
+  "fr": "Excellence"
+ },
+ "Magmavia Eleven": {
+  "fr": "Onze de Magmavia"
+ },
+ "Silica Eleven": {
+  "fr": "Onze de Silica"
+ },
+ "Mister Yi's Team": {
+  "fr": "Équipe de Monsieur Yi"
+ },
+ "Team Ogre": {
+  "fr": "Ogres"
+ },
+ "Farm": {
+  "fr": "Terria"
+ },
+ "Ragnah": {
+  "fr": "Ragna"
+ },
+ "Zanark's Domain": {
+  "fr": "Zanark Domination"
+ },
+ "Fertilia Eleven": {
+  "fr": "Onze de Fertilia"
+ },
+ "Polestar": {
+  "fr": "École Polaris"
+ },
+ "Unicorn": {
+  "fr": "Licornes"
+ },
+ "Gemini Storm": {
+  "fr": "Tempête des Gémeaux"
+ },
+ "Lunar Sea": {
+  "fr": "Mers Lunaires"
+ },
+ "Almighty Faith": {
+  "alias": [
+   "Foi Toute Puissante"
+  ],
+  "fr": "Foi Toute-Puissante"
+ },
+ "Ancient Darkness": {
+  "fr": "Ombre Ancestrale"
+ },
+ "Mirage": {
+  "fr": "Collège des Mirages"
+ },
+ "Naiadi Eleven": {
+  "fr": "Onze de Naiadi"
+ },
+ "Raimon Kings": {
+  "fr": "Raimon"
+ },
+ "Fire Dragon": {
+  "fr": "Dragons de Feu"
+ },
+ "Queen's Knights": {
+  "fr": "Knights of Queen"
+ },
+ "Orpheus": {
+  "fr": "Orphée"
+ },
+ "The Empire": {
+  "fr": "Les Empereurs"
+ },
+ "Mary Times": {
+  "alias": [
+   "Mary Times Memorial"
+  ]
+ },
+ "Alpine (GO)": {
+  "fr": "Alpin (GO)"
+ },
+ "The Sherwinds": {
+  "fr": "Les Sherwinds"
+ },
+ "Team Zero": {
+  "fr": "Équipe Zero",
+  "alias": [
+   "Zero"
+  ]
+ },
+ "Alpine (Ares)": {
+  "fr": "Alpin (Arès)"
+ },
+ "Guardians of the Queen": {
+  "fr": "Gardiens de la Reine"
+ },
+ "Royal Academy Redux": {
+  "fr": "Nouvelle Royal Academy"
+ },
+ "Apostles from the Sky": {
+  "fr": "Sky Team"
+ },
+ "Devil Army Z": {
+  "fr": "Dark Team"
+ },
+ "The Kingdom": {
+  "fr": "Rois du Football"
+ },
+ "Team Zoolan": {
+  "alias": [
+   "Équipe Zoolan"
+  ],
+  "fr": "Zoolan Team"
+ },
+ "Cloister Divinity": {
+  "fr": "Cloître Sacré"
+ },
+ "Prodigy Grammar": {
+  "fr": "Surdoués",
+  "alias": [
+   "Les Surdoués"
+  ]
+ },
+ "Mount Olympus": {
+  "fr": "Mont Olympe"
+ },
+ "Lunar Howl": {
+  "fr": "Enfants Sauvages"
+ },
+ "White Deer": {
+  "fr": "Bande du Cerf Blanc"
+ },
+ "Inazuma Legend National": {
+  "fr": "Inazuma Japon Évolution"
+ },
+ "Muay Tigers": {
+  "fr": "Tigres de Thaïlande"
+ },
+ "Storm Wolves": {
+  "fr": "Loups d'Ouzbekistan"
+ },
+ "Raging Bulls": {
+  "fr": "Taureaux Enragés"
+ },
+ "The Sambassadors": {
+  "fr": "Les Embassableurs"
+ },
+ "Eastwind International": {
+  "fr": "Institut International Eastwind"
+ },
+ "Tactical Royal": {
+  "fr": "Royal Academy (VR)"
+ },
+ "West Manor": {
+  "alias": [
+   "West Manor Academy"
+  ]
+ },
+ "Lunar Prime": {
+  "fr": "Sélène"
+ },
+ "Avenging Acrobats": {
+  "fr": "Acrobates Vengeurs"
+ },
+ "Alpine": {
+  "fr": "Alpin"
+ },
+ "Red Matador": {
+  "fr": "Toreros Rouges"
+ },
+ "Desert Lions": {
+  "fr": "Lions du Désert"
+ },
+ "Pirates Cove": {
+  "fr": "Baie des Pirates"
+ },
+ "Eternal Light": {
+  "fr": "Lumière Éternelle"
+ },
+ "Universal": {
+  "fr": "Collège Universel"
+ },
+ "Dragon Link": {
+  "fr": "Alliance du Dragon"
+ },
+ "The Terracotta Army": {
+  "fr": "Statues d'Argile",
+  "alias": [
+   "Soldats de Terre Cuite",
+   "Statues de Terre Cuite",
+   "Soldats d'Argile"
+  ]
+ },
+ "El Dorado 01": {
+  "fr": "El Dorado"
+ },
+ "Shamshir": {
+  "fr": "Sabres Arides"
+ },
+ "Pitch Perfectionists": {
+  "fr": "Perfect Spark"
+ },
+ "Orion Eclipse": {
+  "fr": "L'Ombre d'Orion"
+ },
+ "Rampart": {
+  "fr": "Bastion"
+ },
+ "Alia Academy": {
+  "fr": "École Alia",
+  "alias": [
+   "Alius"
+  ]
+ },
+ "Arabian Firebirds": {
+  "fr": "Phénix d'Arabie"
+ },
+ "Milky Way": {
+  "fr": "Voie Lactée"
+ },
+ "Nosfanatica": {
+  "fr": "Traqueurs Nocturnes"
+ },
+ "Fire Dragon (GO 3)": {
+  "fr": "Dragons de Feu (GX)"
+ },
+ "Big Waves (GO 3)": {
+  "fr": "Big Waves (GX)"
+ },
+ "Ace Invaders": {
+  "fr": "Navy Invaders"
+ },
+ "Zeus (Ares)": {
+  "fr": "Zeus (Arès)"
+ },
+ "Everytown": {
+  "fr": "Lambda"
+ },
+ "Fallen Angels": {
+  "fr": "Anges Déchus"
+ },
+ "Eternal Dancers": {
+  "fr": "Danceurs Éternels"
+ },
+ "Inazuma Kids FC": {
+  "fr": "Inazuma KFT",
+  "alias": [
+   "KFC"
+  ]
+ },
+ "Team D": {
+  "fr": "Équipe D"
+ },
+ "Dark Angels": {
+  "fr": "Dark Sky",
+  "alias": [
+   "Anges Noirs"
+  ]
+ },
+ "Young Inazuma": {
+  "fr": "Jeunes Inazuma"
+ },
+ "Brocken Brigade": {
+  "fr": "Brocken Bogue"
+ },
+ "Rose Griffons": {
+  "fr": "Rose Griffon"
+ },
+ "Black Templars": {
+  "fr": "Chevaliers Noirs"
+ },
+ "Footballbots": {
+  "alias": [
+   "Soccer Robots"
+  ]
+ },
+ "Children of the Night": {
+  "fr": "Enfants de la Nuit"
+ },
+ "Space Rankers": {
+  "fr": "Classés Galactiques"
+ },
+ "Royal Academy (Ares)": {
+  "fr": "Royal Academy (Arès)"
+ }
+}

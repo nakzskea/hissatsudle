@@ -1,0 +1,30 @@
+{
+ "element": {
+  "Fire": "/icones/fire.png",
+  "Mountain": "/icones/earth.png",
+  "Forest": "/icones/wood.png",
+  "Wind": "/icones/wind.png",
+  "Void": "/icones/void.png"
+ },
+ "type": {
+  "Shoot": "/icones/shoot.png",
+  "Catch": "/icones/save.png",
+  "Dribble": "/icones/dribble.png",
+  "Block": "/icones/block.png"
+ },
+  "characteristic": {
+  "Block": "/icones/carac-block.png",
+  "Long": "/icones/carac-long.png",
+  "Punch": "/icones/carac-punch.png",
+  "Chain": "/icones/carac-chain.png"
+ },
+  "game": {
+  "IE": "/icones/ie.png",
+  "IE2": "/icones/ie2.png",
+  "IE3": "/icones/ie3.png",
+  "GO": "/icones/go.png",
+  "CS": "/icones/cs.png",
+  "GX": "/icones/gx.png",
+  "VR": "/icones/vr.png"
+ }
+}
