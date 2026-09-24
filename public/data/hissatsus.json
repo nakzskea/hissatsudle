@@ -1341,7 +1341,7 @@
   "type": "Shoot",
   "element": "Forest",
   "users": 2,
-  "debut": "IE",
+  "debut": "IE2",
   "tp": 66,
   "characteristic": null,
   "exclusive": false,
@@ -2505,7 +2505,7 @@
   "element": "Wind",
   "users": 1,
   "debut": "IE2",
-  "tp": 64,
+  "tp": 53,
   "characteristic": [
    "Long"
   ],
@@ -14303,7 +14303,7 @@
   "exclusive": false,
   "image": "https://static.wikia.nocookie.net/inazuma-eleven/images/5/51/%28CS%29_Gear_Drive_6.png/revision/latest?cb=20160820185456",
   "user": [
-   "Terracotta Warrior 11"
+   "Terracotta Warrior 1"
   ],
   "user2": [],
   "description": {

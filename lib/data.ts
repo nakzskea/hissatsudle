@@ -54,9 +54,9 @@ export const t = (lang: Lang, key: string) => LABELS[lang][key] ?? key;
 export const fold = (s: string) => s.normalize("NFD").replace(/\p{Diacritic}/gu, "").toLowerCase();
 
 export const COLUMNS: Record<Lang, string[]> = {
-  fr: ["Technique", "Type", "Élément", "Carac.", "Joueurs", "Utilisateurs", "2nds", "Équipe", "Exclusif", "Jeu", "PT / Tension"],
-  en: ["Technique", "Type", "Element", "Trait", "Players", "Users", "2nd", "Team", "Game only", "Game", "TP / Tension"],
-  jp: ["Technique", "Type", "Element", "Trait", "Players", "Users", "2nd", "Team", "Game only", "Game", "TP / Tension"],
+  fr: ["Technique", "Type", "Élément", "Carac.", "Joueurs", "Utilisateurs", "2nds", "Équipe", "Exclusif", "Jeu", "PT"],
+  en: ["Technique", "Type", "Element", "Trait", "Players", "Users", "2nd", "Team", "Game only", "Game", "TP"],
+  jp: ["Technique", "Type", "Element", "Trait", "Players", "Users", "2nd", "Team", "Game only", "Game", "TP"],
 };
 
 export async function loadData(): Promise<Data> {
@@ -97,7 +97,7 @@ export type Cell =
   | { kind: "icons"; field: string; values: string[]; labels: string[]; state: CellState; fallback?: string; arrow?: string }
   | { kind: "sprites"; names: string[]; state: CellState }
   | { kind: "emblems"; names: string[]; state: CellState }
-  | { kind: "text"; text: string; state: CellState; arrow?: string; big?: boolean };
+  | { kind: "text"; text: string; state: CellState; arrow?: string; big?: boolean; unit?: "pt" | "t" };
 
 // Familles d'équipes : Revolutionary Raimon, Raimon Kings, Zeus (Ares) et Inazuma National War God valent
 // leur équipe d'origine ; Royal Academy Redux reste distincte.
@@ -131,7 +131,8 @@ export function compare(g: Hissatsu, target: Hissatsu, lang: Lang): Cell[] {
     { kind: "text", text: g.exclusive ? "✓" : "✗", state: g.exclusive === target.exclusive ? "ok" : "no", big: true },
     { ...(num(GAMES.indexOf(g.debut), GAMES.indexOf(target.debut)) as { arrow?: string; state: CellState }),
       kind: "icons", field: "game", values: [g.debut], labels: [g.debut] } as Cell,
-    num(g.tp, target.tp),
+    // Victory Road compte en Tension (T), les autres jeux en PT
+    { ...num(g.tp, target.tp), unit: g.debut === "VR" ? "t" : "pt" } as Cell,
   ];
 }
 

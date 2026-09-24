@@ -60,6 +60,7 @@ export function CellView({ cell, data, lang, empty }: { cell: Cell; data: Data; 
   return (
     <>
       <span className={cell.big ? "big" : ""}>{cell.text}</span>
+      {cell.unit && cell.text !== "—" && <img className="unit" src={`/icones/${cell.unit}.png`} alt={cell.unit.toUpperCase()} />}
       {cell.arrow && <span className="arrow">{cell.arrow}</span>}
     </>
   );

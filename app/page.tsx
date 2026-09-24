@@ -1,12 +1,13 @@
 "use client";
-import { useEffect, useMemo, useRef, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
 import Banner from "@/components/Banner";
-import { CellView } from "@/components/Cells";
-import { COLUMNS, EMOJI, type Cell, type Hissatsu, compare, desc, fold, label, searchText, t } from "@/lib/data";
+import { CellView, Icon } from "@/components/Cells";
+import { COLUMNS, EMOJI, GAMES, type Cell, type Hissatsu, compare, desc, fold, label, searchText, t } from "@/lib/data";
 import { useData, useLang } from "@/lib/useData";
 
-const HINT_AFTER = 5;
+const REVEAL_AFTER = 3; // révéler une catégorie au hasard
+const DESC_AFTER = 5; // dévoiler la description
 const today = () => new Date().toLocaleDateString("fr-CA");
 
 function dailyIndex(len: number) {
@@ -41,43 +42,79 @@ export default function Game() {
   const [query, setQuery] = useState("");
   const [copied, setCopied] = useState(false);
   const [open, setOpen] = useState(false); // liste déroulante visible
-  const animated = useRef(new Set<string>());
+  const [games, setGames] = useState<string[]>(GAMES); // mode infini : jeux inclus dans le tirage
+  const [gamesOpen, setGamesOpen] = useState(false);
+  const [showHint, setShowHint] = useState(false);
+  const [revealed, setRevealed] = useState<number[]>([]); // colonnes déjà dévoilées
+  const [animating, setAnimating] = useState(""); // nom de la technique dont la ligne s'anime
 
   const done = !!target && guesses[0] === target;
 
+  // En infini, le tirage et la recherche se limitent aux jeux cochés
+  const pool = useMemo(() => {
+    if (!data) return [];
+    if (mode !== "endless" || games.length === GAMES.length) return data.list;
+    return data.list.filter((h) => games.includes(h.debut));
+  }, [data, mode, games]);
+  const random = () => pool[Math.floor(Math.random() * pool.length)];
+
   // Cible du jour (identique pour tout le monde) ou tirage au hasard, avec reprise du daily en cours
   useEffect(() => {
-    if (!data) return;
+    if (!data || !pool.length) return;
     if (mode === "daily") {
       const tgt = data.list[dailyIndex(data.list.length)];
       const saved: string[] = JSON.parse(localStorage.getItem(`daily:${today()}`) || "[]");
       setTarget(tgt);
       setGuesses(saved.map((n) => data.list.find((h) => h.name === n)!).filter(Boolean));
     } else {
-      setTarget(data.list[Math.floor(Math.random() * data.list.length)]);
+      setTarget(pool[Math.floor(Math.random() * pool.length)]);
       setGuesses([]);
     }
     setQuery("");
     setCopied(false);
-  }, [data, mode]);
+    setRevealed([]);
+    setShowHint(false);
+  }, [data, mode, pool]);
+
+  useEffect(() => {
+    const saved = localStorage.getItem("games");
+    if (saved) setGames(JSON.parse(saved));
+  }, []);
+  function toggleGame(g: string) {
+    const next = games.includes(g) ? games.filter((x) => x !== g) : [...games, g];
+    if (!next.length) return; // au moins un jeu
+    setGames(next);
+    localStorage.setItem("games", JSON.stringify(next));
+  }
 
   // Liste complète, filtrée au fil de la saisie : nom de la technique d'abord, puis joueurs et équipes
   const matches = useMemo(() => {
     if (!data) return [];
     const q = fold(query.trim());
     if (q.length < 3) return []; // la liste n'apparaît qu'à partir de 3 lettres
-    const hits = data.list.filter((h) => !guesses.includes(h) && searchText(h, data.teamsFr).includes(q));
+    const hits = pool.filter((h) => !guesses.includes(h) && searchText(h, data.teamsFr).includes(q));
     hits.sort((a, b) => Number(fold(label(b, lang)).includes(q)) - Number(fold(label(a, lang)).includes(q)));
     return hits;
-  }, [data, query, guesses, lang]);
+  }, [data, pool, query, guesses, lang]);
 
   function play(h: Hissatsu) {
     if (done || guesses.includes(h)) return;
     const next = [h, ...guesses];
     setGuesses(next);
+    setAnimating(h.name);
     setQuery("");
     setOpen(false);
     if (mode === "daily") localStorage.setItem(`daily:${today()}`, JSON.stringify(next.map((x) => x.name)));
+  }
+
+  const rows = target ? guesses.map((g) => compare(g, target, lang)) : [];
+
+  // Dévoile une seule case, tirée parmi celles qu'aucun essai n'a encore mises au vert
+  function reveal() {
+    const known = rows.length ? rows[0].map((_, i) => rows.some((r) => r[i].state === "ok")) : Array(10).fill(false);
+    const left = [...Array(10).keys()].filter((i) => !known[i]);
+    if (!left.length || revealed.length) return;
+    setRevealed([left[Math.floor(Math.random() * left.length)]]);
   }
 
   function share() {
@@ -88,7 +125,6 @@ export default function Game() {
   }
 
   if (!data || !target) return <p className="loading">…</p>;
-  const rows = guesses.map((g) => compare(g, target, lang));
   const grid = { gridTemplateColumns: columns(rows) };
   const misses = guesses.length - (done ? 1 : 0);
   const empty = t(lang, "noUser");
@@ -118,9 +154,47 @@ export default function Game() {
 
       <main>
         <section className="panel">
-          <p className="hint">
-            {done ? "" : misses >= HINT_AFTER ? <em>{desc(target, lang)}</em> : `Indice après ${HINT_AFTER - misses} essai${HINT_AFTER - misses > 1 ? "s" : ""}`}
-          </p>
+          <div className="hint-row">
+            <p className="hint">
+              {done ? "" : showHint ? <em>{desc(target, lang)}</em> : `${misses} essai${misses > 1 ? "s" : ""}`}
+            </p>
+            {!done && (
+              <>
+                <button
+                  className={`badge ${misses >= REVEAL_AFTER && !revealed.length ? "on" : ""}`}
+                  disabled={misses < REVEAL_AFTER || revealed.length > 0}
+                  onClick={reveal}
+                >
+                  <span>Révéler une case {misses < REVEAL_AFTER ? `(${REVEAL_AFTER - misses})` : ""}</span>
+                </button>
+                <button
+                  className={`badge ${misses >= DESC_AFTER ? "on" : ""}`}
+                  disabled={misses < DESC_AFTER}
+                  onClick={() => setShowHint(!showHint)}
+                >
+                  <span>{showHint ? "Masquer la description" : `Description ${misses < DESC_AFTER ? `(${DESC_AFTER - misses})` : ""}`}</span>
+                </button>
+              </>
+            )}
+            {!done && mode === "endless" && (
+              <button className="badge on" onClick={() => setGamesOpen(!gamesOpen)}>
+                <span>{t(lang, "game")} {games.length < GAMES.length ? `(${games.length})` : ""} ▾</span>
+              </button>
+            )}
+          </div>
+
+          {mode === "endless" && gamesOpen && (
+            <div className="games-picker">
+              <p>Jeux inclus dans le tirage et la recherche :</p>
+              <div className="games">
+                {GAMES.map((g) => (
+                  <button key={g} className={games.includes(g) ? "" : "off"} onClick={() => toggleGame(g)} title={g}>
+                    <Icon icons={data.icons} field="game" value={g} label={g} lang={lang} />
+                  </button>
+                ))}
+              </div>
+            </div>
+          )}
           {!done && (
             <div className="tips">
               {!target.user.length && <span className="tip">{t(lang, "noUser")}</span>}
@@ -173,7 +247,7 @@ export default function Game() {
                 {mode === "endless" && (
                   <button
                     onClick={() => {
-                      setTarget(data.list[Math.floor(Math.random() * data.list.length)]);
+                      setTarget(random());
                       setGuesses([]);
                       setCopied(false);
                     }}
@@ -192,9 +266,26 @@ export default function Game() {
               <div key={c}>{c}</div>
             ))}
           </div>
+          {revealed.length > 0 && (
+            <div className="row hints" style={grid}>
+              <div className="cell name">
+                <span>Indices</span>
+              </div>
+              {compare(target, target, lang).map((cell, ci) =>
+                revealed.includes(ci) ? (
+                  <div key={ci} className="cell ok">
+                    <CellView cell={cell} data={data} lang={lang} empty={empty} />
+                  </div>
+                ) : (
+                  <div key={ci} className="cell hidden-cell">
+                    ?
+                  </div>
+                )
+              )}
+            </div>
+          )}
           {guesses.map((g, gi) => {
-            const fresh = gi === 0 && !animated.current.has(g.name);
-            if (fresh) animated.current.add(g.name); // seule la ligne qui vient d'arriver s'anime
+            const fresh = gi === 0 && g.name === animating; // seule la ligne qui vient d'arriver s'anime
             return (
               <div className="row" key={g.name} style={grid}>
                 <div className={`cell name${fresh ? " fresh" : ""}`} style={{ ["--i" as string]: -1 }}>

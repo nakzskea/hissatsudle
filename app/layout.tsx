@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Footer from "@/components/Footer";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -11,7 +12,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html lang="fr">
       <body>
         {children}
-        <footer>Projet de fan, sans lien avec Level-5. Données issues du wiki Inazuma Eleven (CC BY-SA) et du zukan officiel.</footer>
+        <Footer />
       </body>
     </html>
   );

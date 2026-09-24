@@ -1,5 +1,5 @@
 "use client";
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import Banner, { HomeLink } from "@/components/Banner";
 import { Emblem, Icon, Sprite } from "@/components/Cells";
 import { ELEMENTS, GAMES, TYPES, desc, fold, label, searchText, t } from "@/lib/data";
@@ -12,6 +12,8 @@ export default function Techniques() {
   const [type, setType] = useState("");
   const [element, setElement] = useState("");
   const [game, setGame] = useState("");
+  const [shown, setShown] = useState(40); // affichage progressif
+  const sentinel = useRef<HTMLDivElement>(null);
 
   const rows = useMemo(() => {
     if (!data) return [];
@@ -24,6 +26,17 @@ export default function Techniques() {
         (!game || h.debut === game)
     );
   }, [data, q, type, element, game]);
+
+  // Charge 40 cartes de plus dès que le bas de la liste approche
+  useEffect(() => {
+    const el = sentinel.current;
+    if (!el) return;
+    const io = new IntersectionObserver((entries) => entries[0].isIntersecting && setShown((n) => n + 40));
+    io.observe(el);
+    return () => io.disconnect();
+  }, [data]);
+
+  useEffect(() => setShown(40), [q, type, element, game]);
 
   if (!data) return <p className="loading">…</p>;
 
@@ -55,7 +68,7 @@ export default function Techniques() {
         </section>
 
         <div className="rows">
-          {rows.map((h) => (
+          {rows.slice(0, shown).map((h) => (
             <article className="tech" key={h.name}>
               <img className="shot" src={h.image} alt="" loading="lazy" />
               <div className="body">
@@ -76,14 +89,15 @@ export default function Techniques() {
                   ))}
                 </div>
                 <div className="users">
-                  {[...h.user, ...(h.user2 ?? [])].map((n) => (
-                    <Sprite key={n} name={n} chars={data.chars} />
+                  {[...h.user, ...(h.user2 ?? [])].map((n, i) => (
+                    <Sprite key={`${n}-${i}`} name={n} chars={data.chars} />
                   ))}
                 </div>
               </div>
             </article>
           ))}
         </div>
+        <div ref={sentinel} />
       </main>
     </>
   );
