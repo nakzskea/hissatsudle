@@ -38,36 +38,10 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 TODO :
 
-Modifier README.md  
-AGENTS.md, CLAUDE.md ??  
-
-voir quels sont les fichiers inutiles (svg), favicon.ico?
-
 voir quels icones / logos faire
 
 trouver une image de fond
 
-
-erreur next dev : 
-```
-## Error Type
-Console Error
-
-## Error Message
-Encountered two children with the same key, Jude Sharp. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version.
-
-Next.js version: 16.3.6 (Turbopack)
-```
-
-autre chose aussi : faire les fleches un peu plus grosses a coté des jeux
-
-
-dans un second temps, une page admin avec les descriptions qui sont pas en francais pour que je les rajoute
-
-filtre par jeux pour le endless
-
-cartes qui s'affichent petit a petit
-
-bouton pour afficher ou non l'indice, rajouter des indices supplémentaires?
-
-si jeu = victory road, icone T apres les PT/tension sinon icone TP/PT
+fix bug avec lors du "rejouer". les indices restent  
+ajouter une case a cocher "anime only" pour exclure les exlusivité jeux  
+icones utilisateurs + grand (un peu illisible ici)
