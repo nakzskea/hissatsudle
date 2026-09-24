@@ -39,6 +39,9 @@ const FR: Record<string, string> = {
   none: "Aucune", noTeam: "Pas d'équipe", noUser: "Aucun", search: "Nom de la technique",
   searchAll: "Rechercher une technique, un joueur, une équipe", guess: "Deviner", replay: "Rejouer",
   share: "Partager", copied: "Copié ✓", techniques: "Techniques", game: "Jeu", daily: "Daily", endless: "Infini",
+  try: "essai", tries: "essais", reveal: "Révéler une case", description: "Description",
+  hideDescription: "Masquer la description", hints: "Indices", noUser2: "Pas de second utilisateur",
+  gamesPicker: "Jeux inclus dans le tirage et la recherche :", found: "Trouvé en",
 };
 const EN: Record<string, string> = {
   Shoot: "Shoot", Dribble: "Dribble", Block: "Block", Catch: "Catch",
@@ -47,6 +50,9 @@ const EN: Record<string, string> = {
   none: "None", noTeam: "No team", noUser: "None", search: "Technique name",
   searchAll: "Search a technique, a player, a team", guess: "Guess", replay: "Play again",
   share: "Share", copied: "Copied ✓", techniques: "Techniques", game: "Game", daily: "Daily", endless: "Endless",
+  try: "try", tries: "tries", reveal: "Reveal a cell", description: "Description",
+  hideDescription: "Hide description", hints: "Hints", noUser2: "No second user",
+  gamesPicker: "Games included in the draw and the search:", found: "Found in",
 };
 const LABELS: Record<Lang, Record<string, string>> = { fr: FR, en: EN, jp: EN };
 

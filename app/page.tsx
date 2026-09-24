@@ -156,7 +156,7 @@ export default function Game() {
         <section className="panel">
           <div className="hint-row">
             <p className="hint">
-              {done ? "" : showHint ? <em>{desc(target, lang)}</em> : `${misses} essai${misses > 1 ? "s" : ""}`}
+              {done ? "" : showHint ? <em>{desc(target, lang)}</em> : `${misses} ${t(lang, misses > 1 ? "tries" : "try")}`}
             </p>
             {!done && (
               <>
@@ -165,14 +165,18 @@ export default function Game() {
                   disabled={misses < REVEAL_AFTER || revealed.length > 0}
                   onClick={reveal}
                 >
-                  <span>Révéler une case {misses < REVEAL_AFTER ? `(${REVEAL_AFTER - misses})` : ""}</span>
+                  <span>{t(lang, "reveal")} {misses < REVEAL_AFTER ? `(${REVEAL_AFTER - misses})` : ""}</span>
                 </button>
                 <button
                   className={`badge ${misses >= DESC_AFTER ? "on" : ""}`}
                   disabled={misses < DESC_AFTER}
                   onClick={() => setShowHint(!showHint)}
                 >
-                  <span>{showHint ? "Masquer la description" : `Description ${misses < DESC_AFTER ? `(${DESC_AFTER - misses})` : ""}`}</span>
+                  <span>
+                    {showHint
+                      ? t(lang, "hideDescription")
+                      : `${t(lang, "description")} ${misses < DESC_AFTER ? `(${DESC_AFTER - misses})` : ""}`}
+                  </span>
                 </button>
               </>
             )}
@@ -185,7 +189,7 @@ export default function Game() {
 
           {mode === "endless" && gamesOpen && (
             <div className="games-picker">
-              <p>Jeux inclus dans le tirage et la recherche :</p>
+              <p>{t(lang, "gamesPicker")}</p>
               <div className="games">
                 {GAMES.map((g) => (
                   <button key={g} className={games.includes(g) ? "" : "off"} onClick={() => toggleGame(g)} title={g}>
@@ -198,7 +202,7 @@ export default function Game() {
           {!done && (
             <div className="tips">
               {!target.user.length && <span className="tip">{t(lang, "noUser")}</span>}
-              {!(target.user2 ?? []).length && <span className="tip">Pas de second utilisateur</span>}
+              {!(target.user2 ?? []).length && <span className="tip">{t(lang, "noUser2")}</span>}
               {!target.teams.length && <span className="tip">{t(lang, "noTeam")}</span>}
             </div>
           )}
@@ -239,7 +243,7 @@ export default function Game() {
             <div className="end">
               <p className="win">{label(target, lang)}</p>
               <p>
-                {guesses.length} essai{guesses.length > 1 ? "s" : ""}
+                {t(lang, "found")} {guesses.length} {t(lang, guesses.length > 1 ? "tries" : "try")}
               </p>
               <img className="art" src={target.image} alt="" />
               <div className="row-btn">
@@ -269,7 +273,7 @@ export default function Game() {
           {revealed.length > 0 && (
             <div className="row hints" style={grid}>
               <div className="cell name">
-                <span>Indices</span>
+                <span>{t(lang, "hints")}</span>
               </div>
               {compare(target, target, lang).map((cell, ci) =>
                 revealed.includes(ci) ? (
