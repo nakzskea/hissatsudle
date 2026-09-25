@@ -12,7 +12,7 @@ export default function Footer() {
   const t = TXT[lang === "fr" ? "fr" : "en"];
   return (
     <footer className="site-footer">
-      <p className="brand">Hissatsudle — {new Date().getFullYear()}</p>
+      <p className="brand">HissatsuDle - {new Date().getFullYear()}</p>
       <p>{t.fan}</p>
       <nav>
         <Link href="/privacy">{t.privacy}</Link>

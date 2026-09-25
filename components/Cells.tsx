@@ -40,7 +40,7 @@ export function CellView({ cell, data, lang, empty }: { cell: Cell; data: Data; 
         {cell.values.map((v, i) => (
           <Icon key={v} icons={data.icons} field={cell.field} value={v} label={cell.labels[i]} lang={lang} />
         ))}
-        {cell.arrow && <span className="arrow">{cell.arrow}</span>}
+        {cell.arrow && <img className="arrow" src={cell.arrow === "↑" ? "/icones/up.png" : "/icones/down.png"} alt={cell.arrow} />}
       </>
     ) : (
       <span className="txt">{cell.fallback ?? empty}</span>
@@ -61,7 +61,7 @@ export function CellView({ cell, data, lang, empty }: { cell: Cell; data: Data; 
     <>
       <span className={cell.big ? "big" : ""}>{cell.text}</span>
       {cell.unit && cell.text !== "—" && <img className="unit" src={`/icones/${cell.unit}.png`} alt={cell.unit.toUpperCase()} />}
-      {cell.arrow && <span className="arrow">{cell.arrow}</span>}
+      {cell.arrow && <img className="arrow" src={cell.arrow === "↑" ? "/icones/up.png" : "/icones/down.png"} alt={cell.arrow} />}
     </>
   );
 }

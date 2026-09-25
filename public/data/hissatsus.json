@@ -319,7 +319,7 @@
   "element": "Wind",
   "users": 1,
   "debut": "IE",
-  "tp": 15,
+  "tp": 59,
   "characteristic": null,
   "exclusive": false,
   "image": "https://static.wikia.nocookie.net/inazuma-eleven/images/9/94/%28IE%29_Shin_God_Knows_7.png/revision/latest?cb=20190310122632",
@@ -669,7 +669,8 @@
    "fr": "Le sol se dresse pour devenir un mur infranchissable."
   },
   "teams": [
-   "Raimon"
+   "Raimon",
+   "Inazuma National"
   ]
  },
  {
@@ -2027,7 +2028,9 @@
   "users": 1,
   "debut": "IE3",
   "tp": 66,
-  "characteristic": null,
+  "characteristic": [
+    "Long"
+  ],
   "exclusive": false,
   "image": "https://static.wikia.nocookie.net/inazuma-eleven/images/a/af/%28IE%29_Excalibur_6.png/revision/latest?cb=20160829113829",
   "user": [
@@ -19210,7 +19213,7 @@
   "element": "Forest",
   "users": 3,
   "debut": "VR",
-  "tp": null,
+  "tp": 100,
   "characteristic": null,
   "exclusive": false,
   "image": "https://static.wikia.nocookie.net/inazuma-eleven/images/8/81/%28OK%29_Koutei_Penguin_2gou_feat._Shark_9.png/revision/latest?cb=20190904203922",

@@ -10,13 +10,14 @@ const REVEAL_AFTER = 3; // révéler une catégorie au hasard
 const DESC_AFTER = 5; // dévoiler la description
 const today = () => new Date().toLocaleDateString("fr-CA");
 
-function dailyIndex(len: number) {
+// Même technique pour tout le monde : hash de la date, avec un grain propre à chaque mode daily
+function dailyIndex(len: number, salt: string) {
   let hash = 0;
-  for (const c of today()) hash = (hash * 31 + c.charCodeAt(0)) >>> 0;
+  for (const c of today() + salt) hash = (hash * 31 + c.charCodeAt(0)) >>> 0;
   return hash % len;
 }
 
-const ITEM_W: Record<string, number> = { icons: 1.75, sprites: 3.05, emblems: 2.35, text: 2.2, game: 5.4 };
+const ITEM_W: Record<string, number> = { icons: 1.75, sprites: 4.35, emblems: 3.5, text: 2.2, game: 5.4 };
 
 // Chaque colonne prend la largeur de sa case la plus remplie (4 sprites = colonne plus large)
 function columns(rows: Cell[][]) {
@@ -36,7 +37,7 @@ function columns(rows: Cell[][]) {
 export default function Game() {
   const data = useData();
   const [lang, setLang] = useLang();
-  const [mode, setMode] = useState<"daily" | "endless">("daily");
+  const [mode, setMode] = useState<"daily" | "anime" | "endless">("daily");
   const [target, setTarget] = useState<Hissatsu | null>(null);
   const [guesses, setGuesses] = useState<Hissatsu[]>([]);
   const [query, setQuery] = useState("");
@@ -44,6 +45,7 @@ export default function Game() {
   const [open, setOpen] = useState(false); // liste déroulante visible
   const [games, setGames] = useState<string[]>(GAMES); // mode infini : jeux inclus dans le tirage
   const [gamesOpen, setGamesOpen] = useState(false);
+  const [animeOnly, setAnimeOnly] = useState(false); // exclure les techniques exclusives aux jeux
   const [showHint, setShowHint] = useState(false);
   const [revealed, setRevealed] = useState<number[]>([]); // colonnes déjà dévoilées
   const [animating, setAnimating] = useState(""); // nom de la technique dont la ligne s'anime
@@ -53,17 +55,18 @@ export default function Game() {
   // En infini, le tirage et la recherche se limitent aux jeux cochés
   const pool = useMemo(() => {
     if (!data) return [];
-    if (mode !== "endless" || games.length === GAMES.length) return data.list;
-    return data.list.filter((h) => games.includes(h.debut));
-  }, [data, mode, games]);
+    if (mode === "daily") return data.list;
+    if (mode === "anime") return data.list.filter((h) => !h.exclusive); // techniques vues dans l'anime
+    return data.list.filter((h) => games.includes(h.debut) && (!animeOnly || !h.exclusive));
+  }, [data, mode, games, animeOnly]);
   const random = () => pool[Math.floor(Math.random() * pool.length)];
 
   // Cible du jour (identique pour tout le monde) ou tirage au hasard, avec reprise du daily en cours
   useEffect(() => {
     if (!data || !pool.length) return;
-    if (mode === "daily") {
-      const tgt = data.list[dailyIndex(data.list.length)];
-      const saved: string[] = JSON.parse(localStorage.getItem(`daily:${today()}`) || "[]");
+    if (mode !== "endless") {
+      const tgt = pool[dailyIndex(pool.length, mode)];
+      const saved: string[] = JSON.parse(localStorage.getItem(`daily:${mode}:${today()}`) || "[]");
       setTarget(tgt);
       setGuesses(saved.map((n) => data.list.find((h) => h.name === n)!).filter(Boolean));
     } else {
@@ -79,6 +82,7 @@ export default function Game() {
   useEffect(() => {
     const saved = localStorage.getItem("games");
     if (saved) setGames(JSON.parse(saved));
+    setAnimeOnly(localStorage.getItem("animeOnly") === "1");
   }, []);
   function toggleGame(g: string) {
     const next = games.includes(g) ? games.filter((x) => x !== g) : [...games, g];
@@ -104,7 +108,7 @@ export default function Game() {
     setAnimating(h.name);
     setQuery("");
     setOpen(false);
-    if (mode === "daily") localStorage.setItem(`daily:${today()}`, JSON.stringify(next.map((x) => x.name)));
+    if (mode !== "endless") localStorage.setItem(`daily:${mode}:${today()}`, JSON.stringify(next.map((x) => x.name)));
   }
 
   const rows = target ? guesses.map((g) => compare(g, target, lang)) : [];
@@ -120,7 +124,7 @@ export default function Game() {
   function share() {
     if (!target) return;
     const grid = [...guesses].reverse().map((g) => compare(g, target, lang).map((c) => EMOJI[c.state]).join("")).join("\n");
-    navigator.clipboard.writeText(`Hissatsudle ${mode === "daily" ? today() : "∞"} — ${guesses.length}\n${grid}`);
+    navigator.clipboard.writeText(`I found today's HissatsuDle${mode === "endless" ? " - ∞ mode" :`${mode === "anime" ? " - anime mode" : ""}`} (Date : ${today()}) in ${guesses.length} guesses!\n${grid}`);
     setCopied(true);
   }
 
@@ -132,13 +136,16 @@ export default function Game() {
   return (
     <>
       <Banner
-        title={<>Hissatsu<b>dle</b></>}
+        title={<>Hissatsu<b>Dle</b></>}
         lang={lang}
         setLang={setLang}
         left={
           <>
             <button className={`badge ${mode === "daily" ? "on" : ""}`} onClick={() => setMode("daily")}>
               <span>{t(lang, "daily")}</span>
+            </button>
+            <button className={`badge ${mode === "anime" ? "on" : ""}`} onClick={() => setMode("anime")}>
+              <span>{t(lang, "dailyAnime")}</span>
             </button>
             <button className={`badge ${mode === "endless" ? "on" : ""}`} onClick={() => setMode("endless")}>
               <span>{t(lang, "endless")}</span>
@@ -190,6 +197,17 @@ export default function Game() {
           {mode === "endless" && gamesOpen && (
             <div className="games-picker">
               <p>{t(lang, "gamesPicker")}</p>
+              <label className="anime-only">
+                <input
+                  type="checkbox"
+                  checked={animeOnly}
+                  onChange={(e) => {
+                    setAnimeOnly(e.target.checked);
+                    localStorage.setItem("animeOnly", e.target.checked ? "1" : "0");
+                  }}
+                />
+                {lang === "fr" ? "Anime uniquement (sans les exclusivités jeu)" : "Anime only (no game-exclusive moves)"}
+              </label>
               <div className="games">
                 {GAMES.map((g) => (
                   <button key={g} className={games.includes(g) ? "" : "off"} onClick={() => toggleGame(g)} title={g}>
@@ -199,14 +217,6 @@ export default function Game() {
               </div>
             </div>
           )}
-          {!done && (
-            <div className="tips">
-              {!target.user.length && <span className="tip">{t(lang, "noUser")}</span>}
-              {!(target.user2 ?? []).length && <span className="tip">{t(lang, "noUser2")}</span>}
-              {!target.teams.length && <span className="tip">{t(lang, "noTeam")}</span>}
-            </div>
-          )}
-
           {!done && (
             <form
               className="guess"
@@ -254,6 +264,9 @@ export default function Game() {
                       setTarget(random());
                       setGuesses([]);
                       setCopied(false);
+                      setRevealed([]);
+                      setShowHint(false);
+                      setAnimating("");
                     }}
                   >
                     {t(lang, "replay")}

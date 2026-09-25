@@ -45,7 +45,7 @@ body {
 
 .logo {
   margin: 0;
-  font: 800 clamp(1.9rem, 5vw, 3.1rem)/1 "Titan One", sans-serif;
+  font: 800 clamp(1.9rem, 5vw, 3.1rem)/1 var(--font-title), sans-serif;
   color: #fff;
   letter-spacing: -0.02em;
   text-transform: uppercase;
@@ -110,6 +110,8 @@ main { max-width: 96rem; margin: 1.5rem auto; padding: 0 1rem; }
   text-align: center;
 }
 .games-picker p { margin: 0 0 0.6rem; font-size: 0.9rem; }
+.anime-only { display: inline-flex; align-items: center; gap: 0.45rem; margin-bottom: 0.7rem; font-size: 0.9rem; cursor: pointer; }
+.anime-only input { width: 1.1rem; height: 1.1rem; accent-color: var(--gold2); }
 .games { display: flex; gap: 0.5rem; flex-wrap: wrap; justify-content: center; }
 .games button {
   padding: 0.35rem 0.5rem;
@@ -177,7 +179,7 @@ main { max-width: 96rem; margin: 1.5rem auto; padding: 0 1rem; }
 .suggestions img { width: 3.6rem; height: 2.4rem; object-fit: cover; border-radius: 6px; }
 
 /* ---------- grille ---------- */
-.scroller { margin-top: 1.25rem; overflow-x: auto; padding-bottom: 0.75rem; }
+.scroller { margin-top: 1.25rem; overflow-x: auto; padding-bottom: 0.75rem; scrollbar-width: thin; }
 .head, .row {
   display: grid;
   /* largeurs calculées dans page.tsx : chaque colonne s'élargit selon son contenu le plus rempli */
@@ -229,20 +231,20 @@ main { max-width: 96rem; margin: 1.5rem auto; padding: 0 1rem; }
   padding: 0.3rem 0.5rem;
   background: var(--panel);
   color: var(--ink);
-  font: 600 0.95rem/1.2 Fredoka, sans-serif;
+  font: 400 1.2rem/1.2 var(--font-title), sans-serif;
   text-align: left;
 }
 .cell.name img { width: 3.2rem; height: 2.4rem; object-fit: cover; border-radius: 6px; border: 2px solid var(--ink); }
 .cell .icon { width: 1.6rem; height: 1.6rem; object-fit: contain; flex: 0 0 auto; }
-.cell .sprite { width: 2.9rem; flex: 0 0 auto; image-rendering: pixelated; }
-.cell .emblem { width: 2.2rem; height: 2.2rem; object-fit: contain; flex: 0 0 auto; }
+.cell .sprite { width: 4.2rem; flex: 0 0 auto; image-rendering: pixelated; }
+.cell .emblem { width: 3.2rem; height: 3.2rem; object-fit: contain; flex: 0 0 auto; }
 /* colonne Jeu : logo plus grand */
 .cell:nth-last-child(2) .icon { width: 5rem; height: 3.2rem; }
-.cell .txt { font-size: 0.72rem; line-height: 1.1; }
-.cell .big { font-size: 1.6rem; font-weight: 800; }
+.cell .txt { font-size: 1.2rem; line-height: 1.15; }
+.cell .big { font-size: 2rem; font-weight: 800; }
 .cell .unit { width: 1.1rem; height: 1.1rem; object-fit: contain; flex: 0 0 auto; }
-.arrow { font-weight: 800; font-size: 1.15rem; }
-.cell:nth-last-child(2) .arrow { font-size: 1.6rem; }
+.cell .arrow { width: 0.9rem; height: auto; flex: 0 0 auto; }
+.cell:nth-last-child(2) .arrow { width: 1.1rem; }
 
 /* Révélation case par case : la case se retourne, puis sa couleur et son contenu apparaissent */
 @keyframes flipIn {
@@ -279,7 +281,7 @@ main { max-width: 96rem; margin: 1.5rem auto; padding: 0 1rem; }
 
 /* ---------- fin de partie ---------- */
 .end { margin-top: 1rem; text-align: center; }
-.win { margin: 0; font: 800 clamp(1.6rem, 4vw, 2.6rem)/1 "Titan One", sans-serif; color: var(--gold2); text-transform: uppercase; }
+.win { margin: 0; font: 400 clamp(2.6rem, 7vw, 4.6rem)/1 var(--font-title), sans-serif; text-transform: uppercase; }
 .art { max-width: 20rem; margin-top: 0.6rem; border: 4px solid var(--ink); border-radius: 14px; }
 .row-btn { display: flex; gap: 0.6rem; justify-content: center; margin-top: 0.8rem; }
 
@@ -303,7 +305,7 @@ main { max-width: 96rem; margin: 1.5rem auto; padding: 0 1rem; }
   box-shadow: 0 5px 0 rgba(0, 0, 0, 0.25);
 }
 .tech .shot { width: 8rem; height: 6rem; object-fit: cover; border: 3px solid var(--ink); border-radius: 10px; }
-.tech h2 { margin: 0 0 0.2rem; font: 600 1.1rem Fredoka, sans-serif; }
+.tech h2 { margin: 0 0 0.2rem; font: 400 1.5rem/1.2 var(--font-title), sans-serif; }
 .tech .desc { margin: 0 0 0.5rem; font-size: 0.85rem; font-style: italic; }
 .tech .meta { display: flex; align-items: center; gap: 0.35rem; flex-wrap: wrap; }
 .tech .meta .icon, .tech .meta .emblem { width: 1.8rem; height: 1.8rem; object-fit: contain; }
@@ -344,3 +346,25 @@ main { max-width: 96rem; margin: 1.5rem auto; padding: 0 1rem; }
 .admin h2 { margin: 0 0 0.2rem; font: 600 1.05rem Fredoka, sans-serif; }
 .admin .en { margin: 0 0 0.4rem; font-size: 0.85rem; font-style: italic; color: #4a5b7d; }
 .admin textarea { width: 100%; min-height: 4.5rem; padding: 0.5rem 0.7rem; border: 3px solid var(--ink); border-radius: 10px; font: 400 0.95rem Fredoka, sans-serif; resize: vertical; }
+
+.cell .txt, .cell .big, .cell span { font-family: var(--font-title), sans-serif; font-weight: 400; font-size: 1.5rem; }
+.cell .txt { font-size: 1.4rem; }
+.cell .big { font-size: 2rem; }
+
+/* Texte en Astral Jitter : contour foncé + léger dégradé, sauf le nom de la technique */
+.cell .txt, .cell .big, .cell:not(.name) > span {
+  -webkit-text-stroke: 1.3px var(--ink);
+  paint-order: stroke fill;
+  background: linear-gradient(180deg, #ffffff 40%, #5d5d5d 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+.win {
+  -webkit-text-stroke: 2px var(--ink);
+  paint-order: stroke fill;
+  background: linear-gradient(180deg, #ffe9ad 30%, #ff9c12 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
