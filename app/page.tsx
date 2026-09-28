@@ -3,7 +3,7 @@ import { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
 import Banner from "@/components/Banner";
 import { CellView, Icon } from "@/components/Cells";
-import { COLUMNS, EMOJI, GAMES, type Cell, type Hissatsu, compare, desc, fold, label, searchText, t } from "@/lib/data";
+import { COLUMNS, EMOJI, GAMES, type Cell, type Hissatsu, compare, desc, fold, label, searchText, t, mask } from "@/lib/data";
 import { useData, useLang } from "@/lib/useData";
 
 const REVEAL_AFTER = 3; // révéler une catégorie au hasard
@@ -163,7 +163,7 @@ export default function Game() {
         <section className="panel">
           <div className="hint-row">
             <p className="hint">
-              {done ? "" : showHint ? <em>{desc(target, lang)}</em> : `${misses} ${t(lang, misses > 1 ? "tries" : "try")}`}
+              {done ? "" : showHint ? <em>{mask(desc(target, lang), target)}</em> : `${misses} ${t(lang, misses > 1 ? "tries" : "try")}`}
             </p>
             {!done && (
               <>

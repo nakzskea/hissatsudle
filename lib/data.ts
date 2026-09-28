@@ -60,9 +60,9 @@ export const t = (lang: Lang, key: string) => LABELS[lang][key] ?? key;
 export const fold = (s: string) => s.normalize("NFD").replace(/\p{Diacritic}/gu, "").toLowerCase();
 
 export const COLUMNS: Record<Lang, string[]> = {
-  fr: ["Technique", "Type", "Élément", "Carac.", "Joueurs", "Utilisateurs", "2nds", "Équipe", "Exclusif", "Jeu", "PT"],
-  en: ["Technique", "Type", "Element", "Trait", "Players", "Users", "2nd", "Team", "Game only", "Game", "TP"],
-  jp: ["Technique", "Type", "Element", "Trait", "Players", "Users", "2nd", "Team", "Game only", "Game", "TP"],
+  fr: ["Technique", "Type", "Élément", "Carac.", "Utilisateurs", "Joueurs", "2nds", "Équipe", "Exclusif", "Jeu", "PT"],
+  en: ["Technique", "Type", "Element", "Trait", "Users", "Players", "2nd", "Team", "Game only", "Game", "TP"],
+  jp: ["Technique", "Type", "Element", "Trait", "Users", "Players", "2nd", "Team", "Game only", "Game", "TP"],
 };
 
 export async function loadData(): Promise<Data> {
@@ -74,8 +74,20 @@ export async function loadData(): Promise<Data> {
   return { list, chars: { ...zukan, ...extra }, emblems, teamsFr, icons };
 }
 
-export const label = (h: Hissatsu, lang: Lang) => h.names[lang] || h.names.en;
+export const label = (h: Hissatsu, lang: Lang) => (lang === "jp" ? h.name : h.names[lang]) || h.names.en;
 export const desc = (h: Hissatsu, lang: Lang) => h.description[lang] || h.description.en;
+
+// Masque dans la description les mots qui trahissent le nom de la technique
+export function mask(text: string, h: Hissatsu) {
+  const keys = [h.name, ...Object.values(h.names)]
+    .flatMap((n) => fold(n).split(/[^\p{L}\p{N}]+/u))
+    .filter((w) => w.length >= 4);
+  return text.replace(/\p{L}[\p{L}\p{N}'’-]*/gu, (w) => {
+    const f = fold(w);
+    if (f.length < 4) return w;
+    return keys.some((k) => f.startsWith(k.slice(0, 5)) || k.startsWith(f.slice(0, 5))) ? "???" : w;
+  });
+}
 
 export function teamName(n: string, lang: Lang, teamsFr: Data["teamsFr"]) {
   const e = teamsFr[n];
@@ -88,7 +100,7 @@ const teamWords = (n: string, teamsFr: Data["teamsFr"]) => {
 };
 // Recherche : tous les noms de la technique, ses joueurs, ses équipes (EN, FR, alias)
 export const searchText = (h: Hissatsu, teamsFr: Data["teamsFr"]) =>
-  fold([...Object.values(h.names), ...h.user, ...(h.user2 ?? []), ...h.teams.flatMap((n) => teamWords(n, teamsFr))].join(" "));
+  fold([h.name, ...Object.values(h.names), ...h.user, ...(h.user2 ?? []), ...h.teams.flatMap((n) => teamWords(n, teamsFr))].join(" "));
 
 // En français, la variante "_fr" de l'icône est utilisée si le fichier existe
 export function iconSrc(icons: Data["icons"], field: string, value: string, lang: Lang) {

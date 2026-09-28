@@ -22,9 +22,8 @@ body {
   color: var(--ink);
   font: 400 16px/1.5 Fredoka, system-ui, sans-serif;
   background:
-    radial-gradient(circle at 50% 120%, rgba(255, 255, 255, 0.35) 0 35%, transparent 36%),
-    repeating-conic-gradient(from 45deg at 50% 0%, rgba(255, 255, 255, 0.08) 0 6deg, transparent 6deg 12deg),
-    linear-gradient(180deg, var(--sky1) 0%, var(--sky2) 55%, var(--grass) 55.5%, #2f7d3b 100%);
+    linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("/background.png") center / cover no-repeat;
   background-attachment: fixed;
 }
 
@@ -87,7 +86,7 @@ body {
 .langs button.on { background: var(--gold); }
 
 /* ---------- panneau ---------- */
-main { max-width: 96rem; margin: 1.5rem auto; padding: 0 1rem; }
+main { max-width: 84rem; margin: 1.5rem auto; padding: 0 1rem; }
 
 .panel {
   padding: 1.1rem 1.25rem;

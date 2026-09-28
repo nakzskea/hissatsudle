@@ -47,7 +47,8 @@
   "debut": "IE",
   "tp": 35,
   "characteristic": [
-    "Block", "Chain"
+   "Block",
+   "Chain"
   ],
   "exclusive": false,
   "image": "https://static.wikia.nocookie.net/inazuma-eleven/images/b/b3/Fire_Tornado.jpg/revision/latest?cb=20221014124731",
@@ -517,7 +518,8 @@
    "Malcolm Night"
   ],
   "description": {
-   "en": "Three players running together to summon a celestial horse!"
+   "en": "Three players running together to summon a celestial horse!",
+   "fr": "Trois joueurs combinent leurs forces pour invoquer ???, qui s'élève dans le ciel tel un tourbillon, puis exécutent un puissant tir."
   },
   "teams": [
    "Raimon"
@@ -695,7 +697,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "The next stage of evolution of 'The Wall'! A mountain blocks your opponent's way!"
+   "en": "The next stage of evolution of 'The Wall'! A mountain blocks your opponent's way!",
+   "fr": "Version améliorée du ???. Une immense ??? se dresse devant l'adversaire pour le bloquer."
   },
   "teams": [
    "Inazuma National"
@@ -915,7 +918,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Uses a big partner as a stepping stone for a super high jump shot!"
+   "en": "Uses a big partner as a stepping stone for a super high jump shot!",
+   "fr": "En vous sautant dessus comme un tremplin, votre coéquipier exécutera un tir foudroyant."
   },
   "teams": [
    "Raimon"
@@ -1141,7 +1145,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Solo version of Tri-Pegasus. Call down the sky horse with your own power!"
+   "en": "Solo version of Tri-Pegasus. Call down the sky horse with your own power!",
+   "fr": "Un cœur débordant de confiance est capable d'invoquer ???. Version solo du ???."
   },
   "teams": [
    "Unicorn"
@@ -1471,7 +1476,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Pour your fury into this move and change Majin into an angry demon!"
+   "en": "Pour your fury into this move and change Majin into an angry demon!",
+   "fr": "Transformez votre colère en énergie pour changer l'apparence de l'esprit maléfique en véritable roi-démon."
   },
   "teams": [
    "Inazuma National"
@@ -1589,7 +1595,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Team up with a friend to put fierce spin on the ball! Your rival has no chance!"
+   "en": "Team up with a friend to put fierce spin on the ball! Your rival has no chance!",
+   "fr": "Deux coups de pied simultanés font tourner le ballon à toute vitesse, formant un tourbillon violet qui envoie valser l'adversaire."
   },
   "teams": [
    "Inazuma National"
@@ -2029,7 +2036,7 @@
   "debut": "IE3",
   "tp": 66,
   "characteristic": [
-    "Long"
+   "Long"
   ],
   "exclusive": false,
   "image": "https://static.wikia.nocookie.net/inazuma-eleven/images/a/af/%28IE%29_Excalibur_6.png/revision/latest?cb=20160829113829",
@@ -2245,7 +2252,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Don the legendary wings of Ikaros! Dazzle your opponent with blinding light!"
+   "en": "Don the legendary wings of Ikaros! Dazzle your opponent with blinding light!",
+   "fr": "Technique de dribble qui aveugle l'adversaire grâce à deux légendaires ailes éblouissantes qui apparaissent dans le dos."
   },
   "teams": [
    "Unicorn"
@@ -2255,7 +2263,8 @@
   "name": "Gran Fenrir",
   "names": {
    "en": "Grand Fenrir",
-   "jp": "グランフェンリル"
+   "jp": "グランフェンリル",
+   "fr": "Grand Fenrir"
   },
   "type": "Shoot",
   "element": "Forest",
@@ -2272,7 +2281,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Build the wolf of yore! He has but one quarry... The goal!"
+   "en": "Build the wolf of yore! He has but one quarry... The goal!",
+   "fr": "La force combinée de trois joueurs ressuscite le légendaire ??? qui rugit en fonçant vers le but."
   },
   "teams": [
    "Unicorn"
@@ -2334,7 +2344,8 @@
    "Rihm"
   ],
   "description": {
-   "en": "An aerial double kick that tears through the fabric of space!"
+   "en": "An aerial double kick that tears through the fabric of space!",
+   "fr": "Ouvrez un portail dimensionnel à l'aide d'un coéquipier puis décochez ensemble un tir empreint d'énergie cosmique."
   },
   "teams": [
    "Gemini Storm"
@@ -2723,7 +2734,8 @@
    "Quincy Horace"
   ],
   "description": {
-   "en": "Become the king of the South Pacific! A wall of coral ocean stops the enemy's shots!"
+   "en": "Become the king of the South Pacific! A wall of coral ocean stops the enemy's shots!",
+   "fr": "La mer de ??? apparaît devant le but. Le courant ralentit le tir adverse et l'empêche d'avancer."
   },
   "teams": [
    "Big Waves"
@@ -2749,7 +2761,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Fire a bonzer ball forward with both feet! Anyone in its way is surely in danger."
+   "en": "Fire a bonzer ball forward with both feet! Anyone in its way is surely in danger.",
+   "fr": "Technique inspirée d'un ??? consistant à frapper le ballon des deux pieds pour l'envoyer sur l'adversaire."
   },
   "teams": [
    "Big Waves"
@@ -2777,7 +2790,8 @@
    "Metron"
   ],
   "description": {
-   "en": "Kick the ball to trigger a meteor storm on the pitch!"
+   "en": "Kick the ball to trigger a meteor storm on the pitch!",
+   "fr": "Retourné acrobatique qui envoie le ballon vers le sol telle une étoile filante."
   },
   "teams": [
    "Epsilon"
@@ -2984,7 +2998,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Focus your mind and destroy enemy shots with this deadly uppercut!"
+   "en": "Focus your mind and destroy enemy shots with this deadly uppercut!",
+   "fr": "Votre agile jeu de jambes fait la différence. Concentrez-vous pour décocher un ??? dans le ballon."
   },
   "teams": [
    "Unicorn"
@@ -3100,7 +3115,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "A massive earthquake which sends everything skyward!"
+   "en": "A massive earthquake which sends everything skyward!",
+   "fr": "Déchirez le sol à l'aide d'un gigantesque tremblement qui balaie tout autour de vous."
   },
   "teams": [
    "Zeus"
@@ -3127,7 +3143,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "A double tackle that cuts through everything like a scythe!"
+   "en": "A double tackle that cuts through everything like a scythe!",
+   "fr": "Double tacle glissé qui fauche l'adversaire pour récupérer le ballon."
   },
   "teams": [
    "Neo National"
@@ -3568,7 +3585,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "A magnificent arching somersault, to match the beauty of the crescent moon."
+   "en": "A magnificent arching somersault, to match the beauty of the crescent moon.",
+   "fr": "Avec la lune en arrière-plan, effectuez de magnifiques sauts périlleux tout en gardant le ballon entre vos pieds."
   },
   "teams": [
    "Queen's Knights"
@@ -3624,7 +3642,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Flutter your cape like a matador! When your rival sees red, they'll be easy to trick."
+   "en": "Flutter your cape like a matador! When your rival sees red, they'll be easy to trick.",
+   "fr": "Technique de torero qui consiste à brandir une cape pour provoquer l'adversaire, puis à l'esquiver d'un bond."
   },
   "teams": [
    "Red Matador"
@@ -3765,7 +3784,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Raise a huge ironwall in front of your opponent! None shall pass!"
+   "en": "Raise a huge ironwall in front of your opponent! None shall pass!",
+   "fr": "Dressez une immense muraille d'acier sur le terrain pour intimider l'adversaire avec votre défense impénétrable."
   },
   "teams": [
    "The Empire"
@@ -4247,7 +4267,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Use extra-dimensional power to crush the ball from a distance!"
+   "en": "Use extra-dimensional power to crush the ball from a distance!",
+   "fr": "Technique maléfique qui consiste à imprégner la main droite d'une aura sombre pour écraser n'importe quel tir."
   },
   "teams": [
    "Devil Army Z"
@@ -4302,7 +4323,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "The power of three are united in this ultimate God Hand!"
+   "en": "The power of three are united in this ultimate God Hand!",
+   "fr": "Combinez la force de trois Mains célestes en une seule gigantesque et dotée d'un pouvoir démesuré."
   },
   "teams": [
    "Young Inazuma"
@@ -4329,7 +4351,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Lets nothing past! This God Hand technique uses the mind and body to stop the ball."
+   "en": "Lets nothing past! This God Hand technique uses the mind and body to stop the ball.",
+   "fr": "Concentrez toute votre âme pour faire apparaître une gigantesque Main céleste pour arrêter le tir."
   },
   "teams": [
    "Little Gigantes"
@@ -4554,7 +4577,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Stop the ball by sucking it into the eye of a raging sandstorm!"
+   "en": "Stop the ball by sucking it into the eye of a raging sandstorm!",
+   "fr": "Générez une violente tempête de sable qui aspire le ballon pour réduire la puissance du tir adverse et l'arrêter."
   },
   "teams": [
    "Desert Lions"
@@ -4582,7 +4606,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Use Samba rhythm and funky footwork to dazzle opponents with this trick shot!"
+   "en": "Use Samba rhythm and funky footwork to dazzle opponents with this trick shot!",
+   "fr": "Donnez de l'effet au ballon grâce à un jeu de jambes prodigieux, puis frappez-le au rythme de la samba."
   },
   "teams": [
    "The Kingdom"
@@ -4915,7 +4940,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "A mystical light from the heavens stills the fiercest shots, as if calming their rage."
+   "en": "A mystical light from the heavens stills the fiercest shots, as if calming their rage.",
+   "fr": "Technique sacrée qui bloque le ballon grâce à une lumière purificatrice céleste."
   },
   "teams": [
    "Apostles from the Sky"
@@ -4952,7 +4978,8 @@
   "name": "Super Elástico",
   "names": {
    "en": "Super Elastico",
-   "jp": "スーパーエラシコ"
+   "jp": "スーパーエラシコ",
+   "fr": "Super Elastico"
   },
   "type": "Dribble",
   "element": "Mountain",
@@ -4969,7 +4996,8 @@
    "Mac Robingo"
   ],
   "description": {
-   "en": "A great feint technique. Looks just like the ball is glued to your foot!"
+   "en": "A great feint technique. Looks just like the ball is glued to your foot!",
+   "fr": "Dribblez en gardant le ballon en l'air, comme s'il était collé à vos pieds."
   },
   "teams": [
    "The Kingdom"
@@ -5025,7 +5053,8 @@
    "Gaiel"
   ],
   "description": {
-   "en": "Turn the ball into an angel! The rival will be bewitched by its fluttering dance!"
+   "en": "Turn the ball into an angel! The rival will be bewitched by its fluttering dance!",
+   "fr": "Tir sacré qui donne des ailes blanches angéliques au ballon et fait perdre sa combativité à l'adversaire."
   },
   "teams": [
    "Apostles from the Sky"
@@ -5055,7 +5084,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Turn the ball into a little devil! It will mock your rival as it zooms around!"
+   "en": "Turn the ball into a little devil! It will mock your rival as it zooms around!",
+   "fr": "Tir maléfique qui donne des ailes noires démoniaques au ballon et semble se moquer de l'adversaire."
   },
   "teams": [
    "Devil Army Z"
@@ -5117,7 +5147,8 @@
    "Bael"
   ],
   "description": {
-   "en": "Use the aftershock of a devilish kick to send the ball to Hades and back!"
+   "en": "Use the aftershock of a devilish kick to send the ball to Hades and back!",
+   "fr": "Technique maléfique qui projette sur l'adversaire une onde de choc noire générée par une frappe imprégnée de magie."
   },
   "teams": [
    "Devil Army Z"
@@ -5145,7 +5176,8 @@
    "Lephiel"
   ],
   "description": {
-   "en": "A column of dazzling light lifts your opponent skyward, letting you take the ball."
+   "en": "A column of dazzling light lifts your opponent skyward, letting you take the ball.",
+   "fr": "Technique sacrée qui fait monter l'adversaire au ciel dans une colonne de lumière divine."
   },
   "teams": [
    "Apostles from the Sky"
@@ -5347,7 +5379,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Stop any shot with an electric fence around the goal!"
+   "en": "Stop any shot with an electric fence around the goal!",
+   "fr": "Balancez violemment vos deux bras chargés d'électricité pour créer un piège qui bloque le tir."
   },
   "teams": [
    "Team Ogre"
@@ -5552,7 +5585,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "What sorcery is this?! The ball seems to move like it has a mind of its own!"
+   "en": "What sorcery is this?! The ball seems to move like it has a mind of its own!",
+   "fr": "Dribble magique qui trompe l'adversaire en faisant bouger le ballon comme s'il avait sa propre volonté."
   },
   "teams": [
    "The Empire"
@@ -5825,7 +5859,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Your noble aura transforms into a huge blade and rends the pitch in two!"
+   "en": "Your noble aura transforms into a huge blade and rends the pitch in two!",
+   "fr": "Votre noble aura se transforme en épée géante qui transperce le ciel et coupe en deux n'importe quel tir."
   },
   "teams": [
    "Queen's Knights"
@@ -5913,7 +5948,8 @@
   "user": [],
   "user2": [],
   "description": {
-   "en": "Three Dash Accelerators in a row! Just try and stop it now!"
+   "en": "Three Dash Accelerators in a row! Just try and stop it now!",
+   "fr": "Foncez tout droit avec deux alliés, formant un trio inarrêtable qui envoie voler les défenseurs."
   },
   "teams": []
  },
@@ -6206,7 +6242,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Mime an invisible wall...at extreme speed! Make a barrier in the air with rapid handprints!"
+   "en": "Mime an invisible wall...at extreme speed! Make a barrier in the air with rapid handprints!",
+   "fr": "Bougez rapidement les mains pour créer un mur d'empreintes sur lequel le ballon adverse rebondit."
   },
   "teams": [
    "The Empire"
@@ -6445,7 +6482,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Trap an opponent in a rock corridor and nail 'em with a sliding tackle!"
+   "en": "Trap an opponent in a rock corridor and nail 'em with a sliding tackle!",
+   "fr": "Générez un couloir de rochers au sol pour empêcher l'adversaire de s'échapper et lui prendre le ballon."
   },
   "teams": [
    "Mary Times"
@@ -6474,7 +6512,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Don't like what's for dinner? Then flip over the dinner table!"
+   "en": "Don't like what's for dinner? Then flip over the dinner table!",
+   "fr": "Technique spectaculaire débordant de puissance et de rage consistant à saisir la terre pour la retourner entièrement."
   },
   "teams": [
    "Mary Times"
@@ -6797,7 +6836,8 @@
    "Gareth Flare"
   ],
   "description": {
-   "en": "Hang ten! Ride the waves using the ball as a surfboard!"
+   "en": "Hang ten! Ride the waves using the ball as a surfboard!",
+   "fr": "Le ballon se transforme en planche de surf qui vous permet de sauter par-dessus l'adversaire."
   },
   "teams": [
    "Little Gigantes"
@@ -6830,7 +6870,8 @@
    "Argie Bargie"
   ],
   "description": {
-   "en": "This legendary Farm Jr High move is football's best defence!"
+   "en": "This legendary Farm Jr High move is football's best defence!",
+   "fr": "L'alliance des forces défensives de trois joueurs dresse une muraille infranchissable devant le but."
   },
   "teams": [
    "Farm",
@@ -6888,7 +6929,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "This punch rocks the very earth and sends out a force wave that will stop anything!"
+   "en": "This punch rocks the very earth and sends out a force wave that will stop anything!",
+   "fr": "Lancez un puissant coup de poing pour faire trembler le sol, et figer tout ce qui bouge."
   },
   "teams": [
    "Little Gigantes"
@@ -7064,7 +7106,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Pretend to shoot, then nip round the back of your opponent with this move."
+   "en": "Pretend to shoot, then nip round the back of your opponent with this move.",
+   "fr": "Créez une bourrasque et repoussez les adversaires en une tornade festive et fun."
   },
   "teams": []
  },
@@ -7178,7 +7221,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Relive the glories of the Roman empire with this ancient special move!"
+   "en": "Relive the glories of the Roman empire with this ancient special move!",
+   "fr": "Chargez votre deux bras de puissance pour faire apparaître le Colisée, bloquant les tirs grâce à ses murs impénétrables."
   },
   "teams": [
    "Orpheus"
@@ -7233,7 +7277,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "An enhanced Twin Boost volley that follows on from a Fire Tornado!"
+   "en": "An enhanced Twin Boost volley that follows on from a Fire Tornado!",
+   "fr": "Un Tir puissance 2 devenu encore plus destructeur en le combinant avec la Tornade de feu."
   },
   "teams": [
    "Raimon"
@@ -7259,7 +7304,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Dazzle your opponents with some fancy ribbon work!"
+   "en": "Dazzle your opponents with some fancy ribbon work!",
+   "fr": "Faites tournoyer vos rubans de gymnastique pour éblouir les adversaires et filer devant la défense avec classe."
   },
   "teams": [
    "Super Triple C"
@@ -7286,7 +7332,8 @@
   "user": [],
   "user2": [],
   "description": {
-   "en": "{{Hover"
+   "en": "{{Hover",
+   "fr": "Catapultez un ballon de très haut qui célèbre votre triomphe à la française, ajouté au légendaire Tour de la comète."
   },
   "teams": []
  },
@@ -7342,7 +7389,8 @@
    "Hauser"
   ],
   "description": {
-   "en": "A cosmic move that crushes the enemy with a gigantic planet!"
+   "en": "A cosmic move that crushes the enemy with a gigantic planet!",
+   "fr": "Invoquez une planète colossale que vous soulevez pour une frappe cosmique qui écrase les adversaires."
   },
   "teams": [
    "Genesis"
@@ -7368,7 +7416,8 @@
   "user": [],
   "user2": [],
   "description": {
-   "en": "It's big! It's heavy! It's more than just a wall - it's a ???!"
+   "en": "It's big! It's heavy! It's more than just a wall - it's a ???!",
+   "fr": "Ayez la présence d'un géant et faites stopper les attaquants grâce à votre pure autorité indéniable."
   },
   "teams": []
  },
@@ -7558,7 +7607,8 @@
   "user": [],
   "user2": [],
   "description": {
-   "en": "I'll have that! Yank the ball away like it's on a piece of string."
+   "en": "I'll have that! Yank the ball away like it's on a piece of string.",
+   "fr": "Frappez le ballon pour la faire tournoyer et le ramener à vous comme un yo-yo."
   },
   "teams": []
  },
@@ -7636,7 +7686,8 @@
   "user": [],
   "user2": [],
   "description": {
-   "en": "Two players whip up a storm with this intense ball-stealing move!"
+   "en": "Two players whip up a storm with this intense ball-stealing move!",
+   "fr": "Fusionnez la puissance de feu de deux joueurs et soulevez un vent brûlant pour saisir le ballon."
   },
   "teams": []
  },
@@ -7808,7 +7859,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "With wings spread wide, rise on the wind and drive the ball down from above in a thunderous claw strike."
+   "en": "With wings spread wide, rise on the wind and drive the ball down from above in a thunderous claw strike.",
+   "fr": "Vos ailes déployées, suivez le vent et projetez le ballon depuis ciel d'une frappe orageuse."
   },
   "teams": [
    "Milky Way"
@@ -7837,7 +7889,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Shatter the silence with a crystal-clear strike and send the ball soaring in a cascade of reverberating energy."
+   "en": "Shatter the silence with a crystal-clear strike and send the ball soaring in a cascade of reverberating energy.",
+   "fr": "Brise le silence avec une frappe claire comme de l'eau de roche et accompagne le ballon d'une cascade d'énergie retentissante."
   },
   "teams": [
    "Revolutionary Raimon"
@@ -8056,7 +8109,8 @@
   "user": [],
   "user2": [],
   "description": {
-   "en": "This high speed punch is capable of crushing any shot."
+   "en": "This high speed punch is capable of crushing any shot.",
+   "fr": "Surgissez du ciel pour frapper le ballon vers le bas et écrasez tous les tirs sur votre trajectoire."
   },
   "teams": []
  },
@@ -8108,7 +8162,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Trap the ball in a conjured box of magic and unleash it charged with dark energy straight at the goal."
+   "en": "Trap the ball in a conjured box of magic and unleash it charged with dark energy straight at the goal.",
+   "fr": "Enfermez le ballon dans une boîte d'énergie et relâchez-le ainsi que l'énergie sombre accumulée, droit dans le but."
   },
   "teams": [
    "Almighty Faith"
@@ -8250,7 +8305,8 @@
    "Strom Boojum"
   ],
   "description": {
-   "en": "Unleash the power of your fists to raise a colossal shield and turn aside every incoming strike."
+   "en": "Unleash the power of your fists to raise a colossal shield and turn aside every incoming strike.",
+   "fr": "Déchaînez la puissance de vos poings pour élever un bouclier colossal et repousser chaque coup à venir."
   },
   "teams": [
    "Almighty Faith"
@@ -8276,7 +8332,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Wrap the ball in searing dark fire and launch it with a knight's deadly precision, slicing straight for the net."
+   "en": "Wrap the ball in searing dark fire and launch it with a knight's deadly precision, slicing straight for the net.",
+   "fr": "Enveloppez le ballon d'un feu noir pour le frapper avec la précision d'un chevalier. Il file vers le but tel une épée."
   },
   "teams": [
    "Revolutionary Raimon"
@@ -8330,7 +8387,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Keep opponents wrapped up with these sticky spider threads!"
+   "en": "Keep opponents wrapped up with these sticky spider threads!",
+   "fr": "Technique ninja qui consiste à tisser une toile d'araignée au sol pour piéger et immobiliser les adversaires."
   },
   "teams": [
    "Shuriken"
@@ -8418,7 +8476,8 @@
    "Galen Thunderbird"
   ],
   "description": {
-   "en": "Pound the ground just like a professional sumo wrestler."
+   "en": "Pound the ground just like a professional sumo wrestler.",
+   "fr": "Tel un sumo, faites trembler le sol en le frappant de la jambe de toutes vos forces."
   },
   "teams": [
    "Shuriken"
@@ -8445,7 +8504,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Take a deep breath and breathe fire! It's amazing what the body can do."
+   "en": "Take a deep breath and breathe fire! It's amazing what the body can do.",
+   "fr": "Inspirez profondément et expirez d'un coup pour cracher des flammes qui affaiblissent le tir jusqu'à l'arrêter."
   },
   "teams": [
    "Cloister Divinity"
@@ -8533,7 +8593,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Use your team-mate's Illusion Ball to lay your opponent flat!"
+   "en": "Use your team-mate's Illusion Ball to lay your opponent flat!",
+   "fr": "Technique frauduleuse consistant à renvoyer le Ballon illusoire d'un coéquipier sur l'adversaire pour l'envoyer valser."
   },
   "teams": [
    "Team Zoolan"
@@ -9323,7 +9384,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Stretch the ball like a rubber band, then release it to fire a fierce shot on goal!"
+   "en": "Stretch the ball like a rubber band, then release it to fire a fierce shot on goal!",
+   "fr": "Tir rapide étirant le ballon au maximum tel un élastique avant de le propulser violemment."
   },
   "teams": [
    "Red Matador"
@@ -9470,7 +9532,8 @@
    "Ringo Saturn"
   ],
   "description": {
-   "en": "Unleash a thunderous roar as your fists crash into the ball, gripping it tight and stopping it cold."
+   "en": "Unleash a thunderous roar as your fists crash into the ball, gripping it tight and stopping it cold.",
+   "fr": "Poussez un cri rugissant quand vos poings frappent le ballon, le saisissant fermement et l'arrêtant net."
   },
   "teams": [
    "Lunar Sea"
@@ -9638,7 +9701,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Dancing petals form a whirlwind to divert any shots from the goal!"
+   "en": "Dancing petals form a whirlwind to divert any shots from the goal!",
+   "fr": "De magnifiques pétales de cerisier virevoltent gracieusement sur le terrain afin d'arrêter délicatement le tir."
   },
   "teams": [
    "Super Triple C"
@@ -9664,7 +9728,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Smash the ball with a charged, skyborne blow to unleash a storm of lightning that tears through the pitch."
+   "en": "Smash the ball with a charged, skyborne blow to unleash a storm of lightning that tears through the pitch.",
+   "fr": "Frappez le ballon d'un coup chargé et venu du ciel pour déchaîner une tempête de tonnerre qui déchire le terrain."
   },
   "teams": [
    "Revolutionary Raimon"
@@ -9893,7 +9958,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Focus all your power into your wrist and defend the goal with a wall of ice! Brr!"
+   "en": "Focus all your power into your wrist and defend the goal with a wall of ice! Brr!",
+   "fr": "Piégez le ballon dans une barrière glacée aussi belle que du cristal."
   },
   "teams": [
    "Alpine (GO)"
@@ -10045,7 +10111,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Summon a storm of frost and send the ball racing toward the goal on a frozen path."
+   "en": "Summon a storm of frost and send the ball racing toward the goal on a frozen path.",
+   "fr": "Invoquez une tempête de givre et expédiez le ballon vers le but. Laisse une traînée de glace sur son chemin."
   },
   "teams": [
    "Alpine (GO)"
@@ -10073,7 +10140,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Brimming with stormlike energy, extend your arm with your Keshin and intercept the ball in a flash of electric power."
+   "en": "Brimming with stormlike energy, extend your arm with your Keshin and intercept the ball in a flash of electric power.",
+   "fr": "Débordant d'une énergie tempétueuse, étendez votre bras avec votre Keshin et interceptez le ballon en un flash d'électricité."
   },
   "teams": [
    "The Sherwinds"
@@ -10108,7 +10176,8 @@
   "name": "Super Scan (DF)",
   "names": {
    "en": "Defence Scan",
-   "jp": "スーパースキャン"
+   "jp": "スーパースキャン",
+   "fr": "Scanner Défense"
   },
   "type": "Block",
   "element": "Forest",
@@ -10125,7 +10194,8 @@
    "Harry Leading"
   ],
   "description": {
-   "en": "Steal the ball by reading opponents' movements with a brain scanner."
+   "en": "Steal the ball by reading opponents' movements with a brain scanner.",
+   "fr": "Analysez le rythme de l'adversaire d'un coup d'œil et arrêtez les attaques avec précision."
   },
   "teams": [
    "Brainwashing"
@@ -10182,7 +10252,8 @@
    "Iggie Loo"
   ],
   "description": {
-   "en": "Spin a massive spear into a raging tornado to bulldoze through foes and rip the ball away."
+   "en": "Spin a massive spear into a raging tornado to bulldoze through foes and rip the ball away.",
+   "fr": "Faites tournoyer une lance gigantesque dans une une tornade déchaînée balayer vos ennemis et arracher le ballon."
   },
   "teams": [
    "Royal Academy (GO)"
@@ -10239,7 +10310,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Gather light into a searing breath of power and drive it forward with a thunderous kick."
+   "en": "Gather light into a searing breath of power and drive it forward with a thunderous kick.",
+   "fr": "Rassemblez de la lumière en un souffle puissant de puissance, puis frappez-la vers l'avant d'un coup tonitruant."
   },
   "teams": [
    "Eternal Light"
@@ -10295,7 +10367,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Raise towering stone pillars from the ground, trapping the opponent inside!"
+   "en": "Raise towering stone pillars from the ground, trapping the opponent inside!",
+   "fr": "Encerclez l'adversaire avec des piliers de pierre qui l'emprisonnent en surgissant du sol et lui dérobe le ballon."
   },
   "teams": [
    "Queen's Knights"
@@ -10322,7 +10395,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "This snake loves football - it can't wait to eat up any football that comes its way!"
+   "en": "This snake loves football - it can't wait to eat up any football that comes its way!",
+   "fr": "Invoquez un énorme serpent blanc sur le terrain qui avale le ballon d'un seul coup."
   },
   "teams": [
    "Eternal Light"
@@ -10353,7 +10427,8 @@
    "Do-Hyeon Nam"
   ],
   "description": {
-   "en": "Wham! Show the ball who's boss with this blistering slap attack!"
+   "en": "Wham! Show the ball who's boss with this blistering slap attack!",
+   "fr": "Frappez rapidement le ballon de vos paumes enflammées pour provoquer une explosion gigantesque et le repousser."
   },
   "teams": [
    "Fire Dragon"
@@ -10382,7 +10457,8 @@
    "Shady Shwartz"
   ],
   "description": {
-   "en": "Gallop forward at full speed and launch the ball with a surge of energy, driving it in a spiraling assault toward the net."
+   "en": "Gallop forward at full speed and launch the ball with a surge of energy, driving it in a spiraling assault toward the net.",
+   "fr": "Galopez à toute vitesse pour lancer le ballon avec une poussée d'énergie. Il part ensuite en une frappe en spirale vers le filet."
   },
   "teams": [
    "Kirkwood (GO)"
@@ -10523,7 +10599,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Harness the sun's radiant energy and fire a scorching blast straight from the heavens."
+   "en": "Harness the sun's radiant energy and fire a scorching blast straight from the heavens.",
+   "fr": "Exploitez l'énergie rayonnante du soleil et frappez un coup brûlant venu du ciel."
   },
   "teams": [
    "Universal"
@@ -10606,7 +10683,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Imbue the ball with spirit through a relentless flurry of strikes and carve open the goal with a razor-sharp finish."
+   "en": "Imbue the ball with spirit through a relentless flurry of strikes and carve open the goal with a razor-sharp finish.",
+   "fr": "Imprégnez le ballon d'un esprit avec une rafale de frappe, pour ouvrir le but d'un coup final digne du fil d'un rasoir."
   },
   "teams": [
    "Revolutionary Raimon"
@@ -10779,7 +10857,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Have your rivals tripping over their own feet as you make off with the ball!"
+   "en": "Have your rivals tripping over their own feet as you make off with the ball!",
+   "fr": "Technique imparable qui génère un épais brouillard permettant de s'emparer aisément du ballon."
   },
   "teams": [
    "Revolutionary Raimon"
@@ -10807,7 +10886,8 @@
    "Federigo Cinco"
   ],
   "description": {
-   "en": "Summon a shadowed dimension that drags your opponent into despair to break their will and strip the ball away."
+   "en": "Summon a shadowed dimension that drags your opponent into despair to break their will and strip the ball away.",
+   "fr": "Invoquez une dimension sombre qui plonge votre adversaire dans le désespoir, brise leur volonté et lui vole le ballon."
   },
   "teams": [
    "Ancient Darkness"
@@ -10945,7 +11025,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Ascend on great wings and smash the ball down with a just and thunderous blow."
+   "en": "Ascend on great wings and smash the ball down with a just and thunderous blow.",
+   "fr": "Envolez-vous avec vos larges ailes et renvoyez le ballon vers le sol d'un tir juste et froudroyant."
   },
   "teams": [
    "Revolutionary Raimon"
@@ -11092,7 +11173,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Forge a blazing sword from searing fire and strike the ball with a scorching volley that erupts toward the goal."
+   "en": "Forge a blazing sword from searing fire and strike the ball with a scorching volley that erupts toward the goal.",
+   "fr": "Forgez une épée enflammée au cœur des flammes et frappez le ballon d'une volée brûlante, telle une éruption vers le but."
   },
   "teams": [
    "Revolutionary Raimon"
@@ -11142,7 +11224,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "A double attack from on high. Its sheer power is something else!"
+   "en": "A double attack from on high. Its sheer power is something else!",
+   "fr": "Tir dont l'énergie accumulée dans le ballon s'abat telle une pluie glaciale."
   },
   "teams": [
    "Revolutionary Raimon"
@@ -11230,7 +11313,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Slam a massive, energy-wreathed axe into the ground and send the ball hurtling toward the goal with unstoppable force."
+   "en": "Slam a massive, energy-wreathed axe into the ground and send the ball hurtling toward the goal with unstoppable force.",
+   "fr": "Frappez une hache immense, débordante d'énergie, dans le sol pour expédiez ce ballon inarrêtable vers le but."
   },
   "teams": [
    "Ancient Darkness"
@@ -11286,7 +11370,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Strike from the storm with a lightning-charged sword to send the ball crashing toward the goal in a dazzling arc of electricity."
+   "en": "Strike from the storm with a lightning-charged sword to send the ball crashing toward the goal in a dazzling arc of electricity.",
+   "fr": "Au cœur de la tempête, utilisez votre épée chargée de tonnerre pour catapulter le ballon vers le but en un arc d'électricité éblouissant."
   },
   "teams": [
    "Team Zero"
@@ -11400,7 +11485,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Surge forward with supercharged velocity, the ball a blur as you leave rivals behind."
+   "en": "Surge forward with supercharged velocity, the ball a blur as you leave rivals behind.",
+   "fr": "Foncez en avant avec une vélocité super-chargée, le ballon devenant flou quand vous abandonnez vos adversaires derrière vous."
   },
   "teams": [
    "Pirates Cove"
@@ -11481,7 +11567,8 @@
   "user": [],
   "user2": [],
   "description": {
-   "en": "Rain down a furious volley of blows to tear through the opposition's defence and drive the ball straight toward the goal."
+   "en": "Rain down a furious volley of blows to tear through the opposition's defence and drive the ball straight toward the goal.",
+   "fr": "Faites pleuvoir une volée de coups pour déchirer la défense de l'opposition et faire filer le ballon vers le but."
   },
   "teams": []
  },
@@ -11507,7 +11594,8 @@
    "Eljas Viisi"
   ],
   "description": {
-   "en": "Drive a colossal punch into the ground that sends a towering pillar of energy skyward, blasting enemies and rebounding the ball."
+   "en": "Drive a colossal punch into the ground that sends a towering pillar of energy skyward, blasting enemies and rebounding the ball.",
+   "fr": "Frappez le sol d'un poing colossal qui envoie un pilier d'énergie gigantesque qui grimpe jusqu'au ciel. Elle repousse les ennemis et fait rebondir le ballon."
   },
   "teams": [
    "Ancient Darkness"
@@ -11640,7 +11728,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Release a disorientating melody from the ball to daze your opponent."
+   "en": "Release a disorientating melody from the ball to daze your opponent.",
+   "fr": "Emprisonnez les adversaires grâce à l'étrange mélodie hypnotique du ballon, et profitez qu'ils soient distraits pour passer."
   },
   "teams": [
    "Revolutionary Raimon"
@@ -11667,7 +11756,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "This shot splits into a torrent of deadly arrows. There's nowhere left to run!"
+   "en": "This shot splits into a torrent of deadly arrows. There's nowhere left to run!",
+   "fr": "Tirez un éclat d'énergie qui se transforme en pluie de flèches fonçant vers le gardien."
   },
   "teams": [
    "The Sherwinds"
@@ -11722,7 +11812,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Summon wraithlike phantoms that dance around your foe, binding them tight in a chilling display of dread."
+   "en": "Summon wraithlike phantoms that dance around your foe, binding them tight in a chilling display of dread.",
+   "fr": "Invoquez des fantômes spectraux qui dansent autour de l'ennemi et les enferment dans une sensation glaciale d'angoisse."
   },
   "teams": [
    "Mirage"
@@ -11950,7 +12041,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Fuse your fiery energy into a raging wall of fire and smite the ball with unstoppable heat."
+   "en": "Fuse your fiery energy into a raging wall of fire and smite the ball with unstoppable heat.",
+   "fr": "Fusionnez votre énergie flamboyante pour élever un mur de feu rageur pour laisser une chaleur inarrêtable détruire le ballon."
   },
   "teams": [
    "Dragon Link"
@@ -11978,7 +12070,8 @@
    "Davy Jones"
   ],
   "description": {
-   "en": "Harness the fury of the raging sea and spear the goal with a trident-like shot."
+   "en": "Harness the fury of the raging sea and spear the goal with a trident-like shot.",
+   "fr": "Exploitez la fureur de la mer déchaînée et frappez le but de votre tir en forme de trident."
   },
   "teams": [
    "Universal"
@@ -12007,7 +12100,8 @@
    "Robert Lee"
   ],
   "description": {
-   "en": "Smash the ball downward, raking the pitch with massive claw strikes as it tears toward the goal."
+   "en": "Smash the ball downward, raking the pitch with massive claw strikes as it tears toward the goal.",
+   "fr": "Frappez le ballon vers le sol, lacérant le terrain de ses énormes griffes jusqu'à atteindre le but."
   },
   "teams": [
    "Royal Academy (GO)"
@@ -12034,7 +12128,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Cast six dice into the air, and when every one lands on six, the ball erupts in a spiraling aura of pure luck."
+   "en": "Cast six dice into the air, and when every one lands on six, the ball erupts in a spiraling aura of pure luck.",
+   "fr": "Lancez six dés dans l'air, et quand ils tombent tous sur six, du ballon jaillit une aura tourbillonnante de chance absolue."
   },
   "teams": [
    "Mirage"
@@ -12065,7 +12160,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Roar and unleash a full-power punch, sending the shot hurtling to the ends of hell."
+   "en": "Roar and unleash a full-power punch, sending the shot hurtling to the ends of hell.",
+   "fr": "Rugissez en déchaînant une frappe à pleine puissance qui renvoie le tir aux fins fonds de l'enfer."
   },
   "teams": []
  },
@@ -12089,7 +12185,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Charge the sword with shadowed power and drive the ball in a sweeping, devastating arc."
+   "en": "Charge the sword with shadowed power and drive the ball in a sweeping, devastating arc.",
+   "fr": "Chargez l'épée d'un pouvoir sombre et envoyez le ballon en suivant une large courbe dévastatrice."
   },
   "teams": [
    "The Sherwinds"
@@ -12115,7 +12212,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Let out a shattering shout, forcing the opponent to falter, then seize the ball."
+   "en": "Let out a shattering shout, forcing the opponent to falter, then seize the ball.",
+   "fr": "Poussez un cri assourdissant pour forcer l'adversaire à vaciller, et volez-lui le ballon."
   },
   "teams": [
    "Ancient Darkness"
@@ -12141,7 +12239,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Unleash a blinding strike of arcane power to drive the ball and seal the opponent's fate."
+   "en": "Unleash a blinding strike of arcane power to drive the ball and seal the opponent's fate.",
+   "fr": "Déchaînez une frappe arcanique puissante pour expédier le ballon et voler le destin de l'adversaire."
   },
   "teams": [
    "Dragon Link"
@@ -12201,7 +12300,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Blow a bubble around the ball and then kick it at the goal as a colourful stream!"
+   "en": "Blow a bubble around the ball and then kick it at the goal as a colourful stream!",
+   "fr": "Créez une bulle autour du ballon, puis tirez vers le but en une traînée colorée !"
   },
   "teams": []
  },
@@ -12225,7 +12325,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Unleash a barrage of bullets that explode all at once, blasting foes away."
+   "en": "Unleash a barrage of bullets that explode all at once, blasting foes away.",
+   "fr": "Tirez une pluie de balles qui explosent d'un seul coup et repoussent les adversaires."
   },
   "teams": [
    "Ragnah"
@@ -12330,7 +12431,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Enjoy the look on your foe's face as their shot spins to a stop right before the goal!"
+   "en": "Enjoy the look on your foe's face as their shot spins to a stop right before the goal!",
+   "fr": "Faites un uppercut au moment parfait pour bloquer le ballon et protéger les buts."
   },
   "teams": [
    "Royal Academy (GO)"
@@ -12358,7 +12460,8 @@
    "Xavier Foster"
   ],
   "description": {
-   "en": "Split the ball into four and zap your rival from all angles with this deadly move."
+   "en": "Split the ball into four and zap your rival from all angles with this deadly move.",
+   "fr": "Après le tir, le ballon attire un nuage orageux qui électrocute l'adversaire avec une violente étincelle."
   },
   "teams": [
    "Mount Olympus"
@@ -12555,7 +12658,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Encase the goal in a crimson barrier to absorb every shot and deny the opponent's goals."
+   "en": "Encase the goal in a crimson barrier to absorb every shot and deny the opponent's goals.",
+   "fr": "Enfermez le tir dans une barrière écarlate pour absorber chaque ballon et repousser tous les tirs de l'adversaire."
   },
   "teams": [
    "Lunar Howl"
@@ -12728,7 +12832,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Split the earth with a mighty pound, raising huge boulders that blast your enemy away!"
+   "en": "Split the earth with a mighty pound, raising huge boulders that blast your enemy away!",
+   "fr": "Frappez le sol de toutes vos forces pour créer d'innombrables pierres tombales qui jaillissent du sol pour projeter l'adversaire."
   },
   "teams": [
    "Big Waves"
@@ -12813,7 +12918,8 @@
    "Wallace Hammond"
   ],
   "description": {
-   "en": "Turn invisible! How do you defend against a player you can't see?"
+   "en": "Turn invisible! How do you defend against a player you can't see?",
+   "fr": "Déformez la vision de l'adversaire et disparaissez comme un fantôme pour passer sous son nez, tel une brise invisible."
   },
   "teams": [
    "Secret Service"
@@ -12841,7 +12947,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "There's no fury like a woman scorned! Watch out for the nails!"
+   "en": "There's no fury like a woman scorned! Watch out for the nails!",
+   "fr": "Transférez votre aura dans vos orteils et fendez le ballon en deux d'une frappe de gardien dévastatrice."
   },
   "teams": [
    "Super Triple C"
@@ -12870,7 +12977,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Spin like a top to create a whirlwind and whisk away your opponents!"
+   "en": "Spin like a top to create a whirlwind and whisk away your opponents!",
+   "fr": "Tournoyez comme une toupie pour créer une tornade et repousser tous les adversaires à l'approche."
   },
   "teams": [
    "Raimon"
@@ -12982,7 +13090,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Brace your feet hard and stop the ball with a barrier of pure air."
+   "en": "Brace your feet hard and stop the ball with a barrier of pure air.",
+   "fr": "Neutralisez la force du tir sans même toucher le ballon, par la seule puissance de votre volonté."
   },
   "teams": [
    "Protocol Omega"
@@ -13202,7 +13311,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Make the ball vanish with a Mole Fake from both sides!"
+   "en": "Make the ball vanish with a Mole Fake from both sides!",
+   "fr": "Forcez l'adversaire à faire un choix grâce à la feinte de la taupe. Est-ce que le ballon enterré frappera, ou n'est-ce qu'une illusion ?"
   },
   "teams": [
    "Dark Emperors"
@@ -13286,7 +13396,8 @@
    "Sierra"
   ],
   "description": {
-   "en": "Send the ball skittering into goal like a plasma-charged spider!"
+   "en": "Send the ball skittering into goal like a plasma-charged spider!",
+   "fr": "Tir enveloppé d'un plasma à haute tension qui avance en ondulant au ras du sol."
   },
   "teams": [
    "Protocol Omega"
@@ -13315,7 +13426,8 @@
    "Juliet"
   ],
   "description": {
-   "en": "Do a somersault and teach your opponent to do the same, with the help of the ball!"
+   "en": "Do a somersault and teach your opponent to do the same, with the help of the ball!",
+   "fr": "Envoyez un puissant ballon à effet rétro sur l'adversaire pour le projeter violemment en arrière."
   },
   "teams": [
    "Protocol Omega"
@@ -13370,7 +13482,8 @@
   "user": [],
   "user2": [],
   "description": {
-   "en": "Dive on the ball from above the goal for the perfect body drop!"
+   "en": "Dive on the ball from above the goal for the perfect body drop!",
+   "fr": "Plongez depuis le haut des buts et écrasez le ballon de tout votre corps pour arrêter le tir."
   },
   "teams": []
  },
@@ -13458,7 +13571,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Roll up, roll up! Watch our daring performer ride the Super Armadillo"
+   "en": "Roll up, roll up! Watch our daring performer ride the Super Armadillo",
+   "fr": "Naviguez sur le ballon avec le Clown acrobate du Tatou géant et repoussez les adversaires."
   },
   "teams": [
    "Fauxshore"
@@ -13698,7 +13812,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Take your opponent back in time to a famous battle."
+   "en": "Take your opponent back in time to a famous battle.",
+   "fr": "Technique qui permet de reproduire sur le terrain la bataille historique d'Okehazama."
   },
   "teams": [
    "White Deer"
@@ -13751,7 +13866,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Come flying down from above and knock your opponent away with a graceful arc."
+   "en": "Come flying down from above and knock your opponent away with a graceful arc.",
+   "fr": "Élevez-vous dans les airs avant de redescendre en accélérant, puis frappez le ballon en décrivant une courbe."
   },
   "teams": [
    "White Deer"
@@ -13777,7 +13893,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Coil around the opponent quickly to create a wind spiral that blasts them away."
+   "en": "Coil around the opponent quickly to create a wind spiral that blasts them away.",
+   "fr": "Tournez autour de l'adversaire en provoquant des rafales de vent tourbillonnant qui le projettent en l'air."
   },
   "teams": [
    "White Deer"
@@ -13834,7 +13951,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Stop the ball with a superb spinning gyroscope!"
+   "en": "Stop the ball with a superb spinning gyroscope!",
+   "fr": "Tournez comme une toupie pour créer un effet gyroscopique qui permet d'arrêter aisément un tir puissant."
   },
   "teams": [
    "Protocol Omega"
@@ -13890,7 +14008,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Charge forward as your Keshin fires twin orbs of red and blue energy, enveloping the ball in a violent sphere before blasting it toward the goal."
+   "en": "Charge forward as your Keshin fires twin orbs of red and blue energy, enveloping the ball in a violent sphere before blasting it toward the goal.",
+   "fr": "Foncez en avant pendant que votre Keshin tire deux orbes d'énergie rouge et bleue, enveloppant le ballon d'une sphère de violence qui frappe le but."
   },
   "teams": [
    "Protocol Omega"
@@ -13919,7 +14038,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Use the power of love to power up your shot!"
+   "en": "Use the power of love to power up your shot!",
+   "fr": "Tirez une flèche en forme de cœur avec une exécution aussi adorable que fantastique."
   },
   "teams": [
    "Protocol Omega"
@@ -14117,7 +14237,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Nothing escapes the sticky grip of this doughy goo!"
+   "en": "Nothing escapes the sticky grip of this doughy goo!",
+   "fr": "Attrapez la balle en faisant tournoyer une pâte de riz, et saupoudrez le tout de farine de soja !"
   },
   "teams": [
    "Revolutionary Raimon"
@@ -14286,7 +14407,8 @@
   "user": [],
   "user2": [],
   "description": {
-   "en": "Let loose a cloud of poison mist from the ball to blind opponents!"
+   "en": "Let loose a cloud of poison mist from the ball to blind opponents!",
+   "fr": "Faites tourner le ballon en éparpillant un nuage de brume toxique qui aveugle les adversaires en un tourbillon chaotique."
   },
   "teams": []
  },
@@ -14696,7 +14818,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "What could be better than two fiery tornadoes? Three fiery tornadoes!"
+   "en": "What could be better than two fiery tornadoes? Three fiery tornadoes!",
+   "fr": "Tirez une triple Tornade de feu avec trois spirales enflammées qui se rassemblent pour un tir dévastateur."
   },
   "teams": [
    "Inazuma Another National"
@@ -14814,7 +14937,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Harness the brilliance of the sun and release a luminous arrow that rips through everything before it."
+   "en": "Harness the brilliance of the sun and release a luminous arrow that rips through everything before it.",
+   "fr": "Exploitez la lueur du soleil et relâchez une flèche lumineuse qui déchire tout sur son passage."
   },
   "teams": [
    "Revolutionary Raimon"
@@ -14840,7 +14964,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Unleash a swarm of bats to draw in lightning, then strike your target with a shocking blast."
+   "en": "Unleash a swarm of bats to draw in lightning, then strike your target with a shocking blast.",
+   "fr": "Déchaînez un essaim de chauves-souris pour attirer le tonnerre, avant de l'utiliser pour frapper l'adversaire de plein fouet."
   },
   "teams": [
    "Nosfanatica"
@@ -14866,7 +14991,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Tear across the ground with flaming claws and blast foes away with a beastly shockwave."
+   "en": "Tear across the ground with flaming claws and blast foes away with a beastly shockwave.",
+   "fr": "Déchirez le sol de vos griffes enflammées et repoussez les adversaires d'une onde de choc bestiale."
   },
   "teams": [
    "Lunar Howl"
@@ -15015,7 +15141,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "On your head, son! Fashion a giant hand out of your aura and hit the ball home!"
+   "en": "On your head, son! Fashion a giant hand out of your aura and hit the ball home!",
+   "fr": "Assénez une tête imprégnée d'une aura colossale et surchargée pour envoyer le ballon droit dans les filets."
   },
   "teams": [
    "Inazuma Legend National"
@@ -15103,7 +15230,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Perfect synchronisation is the key to this astronomical shot!"
+   "en": "Perfect synchronisation is the key to this astronomical shot!",
+   "fr": "Frappe parfaitement synchronisée qui permet de maximiser la conductivité de la puissance du tir."
   },
   "teams": [
    "Perfect Cascade"
@@ -15186,7 +15314,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Let out a thunderous roar as you hurl your spear at lightning speed, striking your target with deadly precision."
+   "en": "Let out a thunderous roar as you hurl your spear at lightning speed, striking your target with deadly precision.",
+   "fr": "Relâchez un rugissement résonnant en jetant votre lance à toute vitesse, et frappez votre cible avec une précision mortelle."
   },
   "teams": [
    "Revolutionary Raimon"
@@ -15214,7 +15343,8 @@
    "Luke Kayon"
   ],
   "description": {
-   "en": "Ignite the ball on a fiery launchpad and send it soaring as a blazing phoenix to strike the goal."
+   "en": "Ignite the ball on a fiery launchpad and send it soaring as a blazing phoenix to strike the goal.",
+   "fr": "Allumez le ballon sur un tremplin en feu et faites-le s'envoler comme un phénix brûlant pour frapper le but."
   },
   "teams": [
    "Protocol Omega"
@@ -15299,7 +15429,8 @@
    "Tsync"
   ],
   "description": {
-   "en": "Spread your wings and whirl through the air, scattering feathers to blast opponents away."
+   "en": "Spread your wings and whirl through the air, scattering feathers to blast opponents away.",
+   "fr": "Déployez vos ailes et tournoyez tout en éparpillant des plumes qui repoussent les adversaires."
   },
   "teams": [
    "Lunar Howl"
@@ -15507,7 +15638,8 @@
    "Ghiris"
   ],
   "description": {
-   "en": "Draw a soft pink heart with your blade, then thrust to release a spellbinding shot toward the goal."
+   "en": "Draw a soft pink heart with your blade, then thrust to release a spellbinding shot toward the goal.",
+   "fr": "Tracez un cœur rose pale de votre lame, puis frappez-le vers l'avant pour relâcher un tir envoûtant vers le but."
   },
   "teams": [
    "Gihl"
@@ -15534,7 +15666,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Shatter the air with a hammering blow to send the ball rocketing in a violent burst of energy."
+   "en": "Shatter the air with a hammering blow to send the ball rocketing in a violent burst of energy.",
+   "fr": "Fracassez l'air avec un coup martelant pour catapulter le ballon d'une puissante poussée d'énergie violente."
   },
   "teams": [
    "Ragnah"
@@ -15560,7 +15693,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Launch a barrage of strikes on the ball, compressing energy into a glowing lunar sphere before hammering it from above."
+   "en": "Launch a barrage of strikes on the ball, compressing energy into a glowing lunar sphere before hammering it from above.",
+   "fr": "Projetez une pluie de frappe sur le ballon, compressant l'énergie en une sphère de lueur lunaire avec de le frapper depuis le ciel."
   },
   "teams": [
    "Revolutionary Raimon"
@@ -15797,7 +15931,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Take the power of three up into space and send that goal home!"
+   "en": "Take the power of three up into space and send that goal home!",
+   "fr": "Traversez plusieurs Triangles de la mort et déchaînez un souffle ténébreux qui file directement vers la Terre."
   },
   "teams": [
    "Inazuma Legend National"
@@ -15826,7 +15961,8 @@
    "Bailong"
   ],
   "description": {
-   "en": "Summon a sky-splitting thunderstorm and let lightning crash down upon the pitch as the ball surges forward."
+   "en": "Summon a sky-splitting thunderstorm and let lightning crash down upon the pitch as the ball surges forward.",
+   "fr": "Invoquez une tempête qui fend le ciel et laissez les éclairs s'écraser sur le terrain quand le ballon file vers l'avant."
   },
   "teams": [
    "Revolutionary Raimon"
@@ -15896,8 +16032,9 @@
  {
   "name": "Shadow Leg",
   "names": {
-   "en": "Frappe d'ombre",
-   "jp": "シャドウレッグ"
+   "en": "Shadow Leg",
+   "jp": "シャドウレッグ",
+   "fr": "Frappe d'ombre"
   },
   "type": "Shoot",
   "element": "Fire",
@@ -15912,7 +16049,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Unleash a titanic kick from the darkness, smashing the ball in a whirlwind of black and red power."
+   "en": "Unleash a titanic kick from the darkness, smashing the ball in a whirlwind of black and red power.",
+   "fr": "Faites surgir une frappe titanesque de l'ombre, qui propulse le ballon d'un tourbillon de puissance noire et rouge."
   },
   "teams": [
    "Perfect Cascade"
@@ -15938,7 +16076,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "With the gleam of a warrior maiden, charge forward to overwhelm your foe and snatch the ball amid a radiant storm."
+   "en": "With the gleam of a warrior maiden, charge forward to overwhelm your foe and snatch the ball amid a radiant storm.",
+   "fr": "Avec l'éclat d'une jeune guerrière, chargez pour submerger votre ennemi et chiper le ballon au cœur d'une tempête radieuse."
   },
   "teams": [
    "Revolutionary Raimon"
@@ -15964,7 +16103,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "From a crack in the void, unleash a crimson-black sword that slashes through the ball and enemies alike with deadly precision."
+   "en": "From a crack in the void, unleash a crimson-black sword that slashes through the ball and enemies alike with deadly precision.",
+   "fr": "Déchaînez une épée noire et carmin depuis une fissure du vide qui fend ballon comme ennemis avec une précision mortelle."
   },
   "teams": [
    "Perfect Cascade"
@@ -16001,8 +16141,9 @@
  {
   "name": "Shadow Guard",
   "names": {
-   "en": "Bouclier d'ombre",
-   "jp": "シャドウガード"
+   "en": "Shadow Guard",
+   "jp": "シャドウガード",
+   "fr": "Bouclier d'ombre"
   },
   "type": "Block",
   "element": "Wind",
@@ -16017,7 +16158,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Summon a swirling shield of shadow and slam your opponent aside to guide the ball back under your control."
+   "en": "Summon a swirling shield of shadow and slam your opponent aside to guide the ball back under your control.",
+   "fr": "Invoquez un bouclier tournoyant d'ombre et écartez violemment votre adversaire pour guider le ballon et en prendre le contrôle."
   },
   "teams": [
    "Perfect Cascade"
@@ -16046,7 +16188,8 @@
    "Lotus"
   ],
   "description": {
-   "en": "Unleash a towering geyser and let a spiraling whirlpool engulf the ball to pull it under your control."
+   "en": "Unleash a towering geyser and let a spiraling whirlpool engulf the ball to pull it under your control.",
+   "fr": "Faites surgir un immense geyser jusqu'à ce qu'un tourbillon dévore le ballon pour qu'il finisse sous votre contrôle."
   },
   "teams": [
    "Zan"
@@ -16074,7 +16217,8 @@
    "Chamomile"
   ],
   "description": {
-   "en": "Erase the pitch from under your opponent's feet."
+   "en": "Erase the pitch from under your opponent's feet.",
+   "fr": "Déferlez une aura de chaos qui efface tout sur son passage et repousse les adversaires avec style."
   },
   "teams": [
    "The Despairadoes"
@@ -16132,7 +16276,8 @@
    "Aster"
   ],
   "description": {
-   "en": "Trap the ball within a deadly cage of feathers and unleash it in a destructive dive toward the net."
+   "en": "Trap the ball within a deadly cage of feathers and unleash it in a destructive dive toward the net.",
+   "fr": "Enfermez le ballon dans une cage de plumes mortelles et renvoyez-le vers le filet d'un tir plongeant destructeur."
   },
   "teams": [
    "Zanark's Domain"
@@ -16161,7 +16306,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Stop the ball dead, reverse it 180 degrees and send it flying back."
+   "en": "Stop the ball dead, reverse it 180 degrees and send it flying back.",
+   "fr": "Inversez entièrement la réalité pour modifier la trajectoire du ballon."
   },
   "teams": [
    "Ragnah"
@@ -16218,7 +16364,8 @@
    "Chell"
   ],
   "description": {
-   "en": "Harness lightning as you soar across the pitch, ripping the ball away and sending enemies flying in a storm of power."
+   "en": "Harness lightning as you soar across the pitch, ripping the ball away and sending enemies flying in a storm of power.",
+   "fr": "Prenez possession des éclairs en filant à travers le terrain, pour arracher le ballon et repousser les ennemis dans une tempête orageuse."
   },
   "teams": [
    "Protocol Omega"
@@ -16244,7 +16391,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Summon jagged thorns from the pitch to trap your foe, then shatter the cage to hurl them aside as the ball springs back."
+   "en": "Summon jagged thorns from the pitch to trap your foe, then shatter the cage to hurl them aside as the ball springs back.",
+   "fr": "Invoquez des épines dentelées sur le terrain pour enfermer votre ennemi, puis brisez cette cage pour les jeter au loin quand le ballon rebondit vers vous."
   },
   "teams": [
    "The Despairadoes"
@@ -16271,7 +16419,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Fire colored pencils from a gatling, skewering the ball with study-hardened precision."
+   "en": "Fire colored pencils from a gatling, skewering the ball with study-hardened precision.",
+   "fr": "Tirez des crayons de couleur depuis une mitrailleuse, transperçant le ballon avec précision."
   },
   "teams": [
    "El Dorado 01"
@@ -16310,8 +16459,9 @@
   "name": "Shadow Hand",
   "names": {
    "es": "Mano Sombría",
-   "en": "Main d'ombre",
-   "jp": "シャドウハンド"
+   "en": "Shadow Catch",
+   "jp": "シャドウハンド",
+   "fr": "Main d'ombre"
   },
   "type": "Catch",
   "element": "Forest",
@@ -16328,7 +16478,8 @@
    "Jay Yuu"
   ],
   "description": {
-   "en": "Manifest a massive hand of shadow and catch the ball mid-flight seemingly without effort."
+   "en": "Manifest a massive hand of shadow and catch the ball mid-flight seemingly without effort.",
+   "fr": "Manifestez une imposante main faite d'ombre et attrapez le ballon en plein air, visiblement sans effort."
   },
   "teams": [
    "Perfect Cascade"
@@ -16355,7 +16506,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Summon a line of devoted helpers, each rushing to intercept and stop the ball with precise timing."
+   "en": "Summon a line of devoted helpers, each rushing to intercept and stop the ball with precise timing.",
+   "fr": "Invoquez une ligne d'assistants dévoués qui se précipitent tous pour intercepter et arrêter le ballon avec un timing parfait."
   },
   "teams": [
    "Gahl"
@@ -16439,7 +16591,8 @@
    "Zanark Avalonic"
   ],
   "description": {
-   "en": "Form an aura shell and strike with a powerful punch, sending the shell and your opponent flying."
+   "en": "Form an aura shell and strike with a powerful punch, sending the shell and your opponent flying.",
+   "fr": "Forme une carapace d'aura et frappe puissamment du poing, projetant aussi bien la carapace que l'adversaire."
   },
   "teams": [
    "Zanark's Domain"
@@ -16519,7 +16672,8 @@
   "user": [],
   "user2": [],
   "description": {
-   "en": "Execute a perfect dive from the top of a skyscraper at sunset and steal the ball!"
+   "en": "Execute a perfect dive from the top of a skyscraper at sunset and steal the ball!",
+   "fr": "Bondissez d'une hauteur de 634 mètres, en laissant une traînée rouge vif sous le soleil couchant."
   },
   "teams": []
  },
@@ -16545,7 +16699,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Launch an airborne ball with a lethal bicycle strike, inspired by the Doomsword Slash move."
+   "en": "Launch an airborne ball with a lethal bicycle strike, inspired by the Doomsword Slash move.",
+   "fr": "Envoyez le ballon dans les airs avec un tir inversé létal, inspiré de la Lame des ténèbres."
   },
   "teams": [
    "Earth Eleven"
@@ -16574,7 +16729,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Seize the perfect moment to strike beautifully and steal the ball with finesse."
+   "en": "Seize the perfect moment to strike beautifully and steal the ball with finesse.",
+   "fr": "Frappez au moment parfait pour voler le ballon avec une finesse splendide."
   },
   "teams": [
    "Earth Eleven"
@@ -16600,7 +16756,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Break their balance with a sharp feint, slicing past in a flash that traces a perfect Z."
+   "en": "Break their balance with a sharp feint, slicing past in a flash that traces a perfect Z.",
+   "fr": "Faites perdre l'équilibre d'une feinte soudaine, et filez devant l'adversaire en un éclair qui trace la lettre Z."
   },
   "teams": [
    "Earth Eleven"
@@ -16627,7 +16784,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Hammer the opponent's shot with a full-forcebasketball dunk."
+   "en": "Hammer the opponent's shot with a full-forcebasketball dunk.",
+   "fr": "Abattez le tir d'un adversaire d'un dunk de basket plein de puissance."
   },
   "teams": [
    "Earth Eleven"
@@ -16655,7 +16813,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Strike the ball at superhuman speed, igniting it in a scorching, unstoppable shot."
+   "en": "Strike the ball at superhuman speed, igniting it in a scorching, unstoppable shot.",
+   "fr": "Frappez le ballon à une vitesse surhumaine, et enflammez ce tir brûlant que personne ne saurait arrêter."
   },
   "teams": [
    "Fire Dragon (GO 3)"
@@ -16710,7 +16869,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Leap freely around the pitch, landing a fierce heel shot from above."
+   "en": "Leap freely around the pitch, landing a fierce heel shot from above.",
+   "fr": "Sautez comme bon vous semble sur le terrain jusqu'à terminer sur une talonnette dévastatrice venue du ciel."
   },
   "teams": [
    "Earth Eleven"
@@ -16737,7 +16897,8 @@
   "user": [],
   "user2": [],
   "description": {
-   "en": "Full steam ahead! This will flatten everyone in your path!"
+   "en": "Full steam ahead! This will flatten everyone in your path!",
+   "fr": "Repoussez les défenseurs d'un tacle surpuissant pour tout écraser sur votre passage."
   },
   "teams": []
  },
@@ -16764,7 +16925,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Lock eyes on the goal and deliver a full-swing header with deadly precision."
+   "en": "Lock eyes on the goal and deliver a full-swing header with deadly precision.",
+   "fr": "Braquez votre regard sur les buts et frappez une tête terriblement précise."
   },
   "teams": [
    "Earth Eleven"
@@ -16819,7 +16981,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Harness the unstoppable surge of oil to blast a thick, unstoppable shot at the goal."
+   "en": "Harness the unstoppable surge of oil to blast a thick, unstoppable shot at the goal.",
+   "fr": "Maîtrisez le pétrole indomptable pour projeter un tir épais et inarrêtable vers les buts."
   },
   "teams": [
    "Shamshir"
@@ -16846,7 +17009,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Ignite your fist in a scorching blast and fry the ball to dust."
+   "en": "Ignite your fist in a scorching blast and fry the ball to dust.",
+   "fr": "Enflammez votre poing d'une explosion enflammée et réduisez le ballon en poussière."
   },
   "teams": [
    "Shamshir"
@@ -16874,7 +17038,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Spin at blinding speed to whip up a ??? and blast foes aside."
+   "en": "Spin at blinding speed to whip up a ??? and blast foes aside.",
+   "fr": "Tournez à une vitesse ahurissante pour créer une tornade qui repousse les adversaires."
   },
   "teams": [
    "Big Waves (GO 3)"
@@ -16901,7 +17066,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Roll through the pitch wrapped in leaves, crashing into opponents and taking them by surprise."
+   "en": "Roll through the pitch wrapped in leaves, crashing into opponents and taking them by surprise.",
+   "fr": "Roulez à travers le terrain enveloppé de feuilles, et foncez sur les adversaires pour les prendre par surprise."
   },
   "teams": [
    "Earth Eleven"
@@ -16928,7 +17094,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Calculate the perfect angle and speed to intercept, turning every movement into a precise block."
+   "en": "Calculate the perfect angle and speed to intercept, turning every movement into a precise block.",
+   "fr": "Calculez l'angle et la vitesse parfaites pour intercepter, transformant chaque mouvement en blocage parfait."
   },
   "teams": [
    "Earth Eleven"
@@ -16955,7 +17122,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Read the opponent's every move and snatch the ball under relentless pressure."
+   "en": "Read the opponent's every move and snatch the ball under relentless pressure.",
+   "fr": "Lisez tous les mouvements de l'adversaire et volez le ballon grâce à une pression implacable."
   },
   "teams": [
    "Earth Eleven"
@@ -16981,7 +17149,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Drive the ball forward with a sharp, elephantine knee strike honed in Muay Thai."
+   "en": "Drive the ball forward with a sharp, elephantine knee strike honed in Muay Thai.",
+   "fr": "Faites partir le ballon vers l'avant d'un coup de genou sec rappelant celui d'un éléphant, comme un pratiquant de Muay Thai."
   },
   "teams": [
    "Muay Tigers"
@@ -17008,7 +17177,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Dive into the shot and split the ball in two with a brutal elbow."
+   "en": "Dive into the shot and split the ball in two with a brutal elbow.",
+   "fr": "Foncez dans le tir et fendez le ballon en deux d'un coup de coude brutal."
   },
   "teams": [
    "Muay Tigers"
@@ -17037,7 +17207,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Two players unleash simultaneous middle kicks, knocking opponents back with a shockwave."
+   "en": "Two players unleash simultaneous middle kicks, knocking opponents back with a shockwave.",
+   "fr": "Deux joueurs frappent deux tirs simultanés au milieu du terrain, et repoussent les adversaires grâce à une onde de choc."
   },
   "teams": [
    "Muay Tigers"
@@ -17064,7 +17235,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Channel force into a claw around your hand and shred the ball with fang-point precision."
+   "en": "Channel force into a claw around your hand and shred the ball with fang-point precision.",
+   "fr": "Remplissez une griffe de force pure et déchirez le ballon comme si vous croquiez dedans."
   },
   "teams": [
    "Earth Eleven"
@@ -17090,7 +17262,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Float like a boxer and snatch the ball with flawless, nimble footwork."
+   "en": "Float like a boxer and snatch the ball with flawless, nimble footwork.",
+   "fr": "Grâce à un jeu de jambe de boxeur, chipez le ballon avec une agilité parfaite."
   },
   "teams": [
    "Earth Eleven"
@@ -17144,7 +17317,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Strike a pose amid drifting cherry petals and fire a shot infused with kabuki spirit."
+   "en": "Strike a pose amid drifting cherry petals and fire a shot infused with kabuki spirit.",
+   "fr": "Faites la pose au milieu des fleurs de cerisier et infusez votre tir de l'esprit du kabuki."
   },
   "teams": [
    "Earth Eleven"
@@ -17171,7 +17345,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Team up to spin like a saw, slicing across the pitch and barreling past all in your path."
+   "en": "Team up to spin like a saw, slicing across the pitch and barreling past all in your path.",
+   "fr": "Faites équipe pour tourner comme une scie qui déchire le terrain et repousse tout sur votre passage."
   },
   "teams": [
    "Storm Wolves"
@@ -17199,7 +17374,8 @@
    "Domitri Sobirov"
   ],
   "description": {
-   "en": "Unearth the treasures beneath the pitch and smash a dazzling, rock-breaking shot."
+   "en": "Unearth the treasures beneath the pitch and smash a dazzling, rock-breaking shot.",
+   "fr": "Déterrez des trésors sous le terrain, et frappez un tir éblouissant capable de détruire la roche."
   },
   "teams": [
    "Storm Wolves"
@@ -17225,7 +17401,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Weave past defenders against the backdrop of a ??? sunset."
+   "en": "Weave past defenders against the backdrop of a ??? sunset.",
+   "fr": "Faufilez-vous entre les défenseurs, sous le coucher de soleil de la Route de la soie."
   },
   "teams": [
    "Storm Wolves"
@@ -17254,7 +17431,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Strike with a powerful shot that lands like a boxer's devastating straight punch."
+   "en": "Strike with a powerful shot that lands like a boxer's devastating straight punch.",
+   "fr": "Frappez d'un tir puissant qui s'abat comme un direct dévastateur d'un boxeur."
   },
   "teams": [
    "Earth Eleven"
@@ -17280,7 +17458,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Fix the target with a cold, cutting stare that knocks the fight right out of them."
+   "en": "Fix the target with a cold, cutting stare that knocks the fight right out of them.",
+   "fr": "Immobilisez l'adversaire d'un regard glacial qui lui fait perdre toute envie de combattre."
   },
   "teams": [
    "Earth Eleven"
@@ -17307,7 +17486,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Feign a miss, then slice from behind with razor-sharp water blades."
+   "en": "Feign a miss, then slice from behind with razor-sharp water blades.",
+   "fr": "Feintez d'avoir raté votre coup, puis frappez l'adversaire dans le dos avec une lame d'eau acérée."
   },
   "teams": [
    "Naiadi Eleven"
@@ -17335,7 +17515,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Channel volcanic energy to summon lightning, hurling a fiery thunderball at the net."
+   "en": "Channel volcanic energy to summon lightning, hurling a fiery thunderball at the net.",
+   "fr": "Invoquez une énergie volcanique pour appeler la foudre, et projeter un tonnerre ardent droit vers les cages."
   },
   "teams": [
    "Magmavia Eleven"
@@ -17389,7 +17570,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Call forth a colossal ??? and bring it crashing down, shaking the ground and blasting your opponent away."
+   "en": "Call forth a colossal ??? and bring it crashing down, shaking the ground and blasting your opponent away.",
+   "fr": "Invoquez un marteau colossal en pierre et frappez-le au sol pour faire trembler la terre et repousser l'adversaire."
   },
   "teams": [
    "Silica Eleven"
@@ -17416,7 +17598,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Spawn a forbidden fruit and shatter it, fusing creation and destruction in a single strike."
+   "en": "Spawn a forbidden fruit and shatter it, fusing creation and destruction in a single strike.",
+   "fr": "Invoquez un fruit interdit avant de le briser en morceaux, pour fusionner création et destruction en un seul tir."
   },
   "teams": [
    "Fertilia Eleven"
@@ -17443,7 +17626,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Combine sharp calculation and keen insight to orchestrate a flawless, unstoppable defence."
+   "en": "Combine sharp calculation and keen insight to orchestrate a flawless, unstoppable defence.",
+   "fr": "Combinez des calculs précis à une perspicacité passionnée pour organiser une défense parfaite et inarrêtable."
   },
   "teams": [
    "Earth Eleven"
@@ -17472,7 +17656,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Twist and strike with the fluid grace of a mermaid to send the ball arcing beautifully toward the goal."
+   "en": "Twist and strike with the fluid grace of a mermaid to send the ball arcing beautifully toward the goal.",
+   "fr": "Tournoyez et frappez avec la grâce d'une sirène pour envoyer le ballon vers les buts."
   },
   "teams": [
    "Earth Eleven"
@@ -17501,7 +17686,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Hurl a giant sand-arm uppercut and blast the ball away."
+   "en": "Hurl a giant sand-arm uppercut and blast the ball away.",
+   "fr": "Envoyez un uppercut avec un bras de sable géant et repoussez le ballon."
   },
   "teams": [
    "Silica Eleven"
@@ -17531,7 +17717,8 @@
    "Romborina Drohn"
   ],
   "description": {
-   "en": "Summon a snapping carnivorous plant that clamps down on the ball."
+   "en": "Summon a snapping carnivorous plant that clamps down on the ball.",
+   "fr": "Invoquez une plante carnivore agressive qui enferme le ballon."
   },
   "teams": [
    "Fertilia Eleven"
@@ -17584,7 +17771,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Cause molten magma to erupt and harden instantly, trapping the opponent's legs."
+   "en": "Cause molten magma to erupt and harden instantly, trapping the opponent's legs.",
+   "fr": "Déclenchez une éruption de magma qui se durcit instantanément et bloque les jambes de l'adversaire."
   },
   "teams": [
    "Magmavia Eleven"
@@ -17612,7 +17800,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Unleash a water cannon from your mouth,sending the ball flying sky-high."
+   "en": "Unleash a water cannon from your mouth,sending the ball flying sky-high.",
+   "fr": "Faites jaillir un canon à eau de votre bouche, et envoyez le ballon droit vers le ciel."
   },
   "teams": [
    "Naiadi Eleven"
@@ -17639,7 +17828,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Slam a headbutt that shakes the ground and blasts the ball skyward."
+   "en": "Slam a headbutt that shakes the ground and blasts the ball skyward.",
+   "fr": "Mettez un coup de tête qui fait trembler le sol et renvoie le ballon vers les nuages."
   },
   "teams": [
    "Magmavia Eleven"
@@ -17665,7 +17855,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Dive into the turf, spinning to upend opponents and reclaim the ball from below."
+   "en": "Dive into the turf, spinning to upend opponents and reclaim the ball from below.",
+   "fr": "Plongez dans le terrain et tournoyez sur vous-même pour renverser les adversaires et récupérer le ballon par dessous."
   },
   "teams": [
    "Silica Eleven"
@@ -17691,7 +17882,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Bounce off giant mushrooms to leap over foes and scatter spores in your path."
+   "en": "Bounce off giant mushrooms to leap over foes and scatter spores in your path.",
+   "fr": "Rebondissez sur des champignons géants pour sauter par-dessus les adversaires et laissez une pluie de spores derrière vous."
   },
   "teams": [
    "Fertilia Eleven"
@@ -17717,7 +17909,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Spin hard, dive into the turf, and tunnel underground to slip past the block."
+   "en": "Spin hard, dive into the turf, and tunnel underground to slip past the block.",
+   "fr": "Après une rotation, plongez dans le terrain et contournez le blocage."
   },
   "teams": [
    "Silica Eleven"
@@ -17747,7 +17940,8 @@
    "Plink Powai"
   ],
   "description": {
-   "en": "Summon a towering ??? to block the opponent's path, embodying the grandeur of nature."
+   "en": "Summon a towering ??? to block the opponent's path, embodying the grandeur of nature.",
+   "fr": "Invoquez une cascade gigantesque pour bloquer la route de l'adversaire et incarner la grandeur de la nature."
   },
   "teams": [
    "Naiadi Eleven"
@@ -17775,7 +17969,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Bury the ball in the ground and erupt it like molten rock, crashing into the enemy goal."
+   "en": "Bury the ball in the ground and erupt it like molten rock, crashing into the enemy goal.",
+   "fr": "Enterrez le ballon et faites-le jaillir tel de la roche en fusion pour qu'il termine dans les buts adverses."
   },
   "teams": [
    "Magmavia Eleven"
@@ -17803,7 +17998,8 @@
    "Merapil Sekretair"
   ],
   "description": {
-   "en": "Launch skyward on a volcanic updraft and snatch the ball while soaring at full speed."
+   "en": "Launch skyward on a volcanic updraft and snatch the ball while soaring at full speed.",
+   "fr": "Vous êtes propulsé vers le ciel par le courant d'air ascendant d'un volcan et attrapez le ballon à toute vitesse."
   },
   "teams": [
    "Magmavia Eleven"
@@ -17829,7 +18025,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Shatter the ball into a cloud of sand that rains relentlessly toward the goal."
+   "en": "Shatter the ball into a cloud of sand that rains relentlessly toward the goal.",
+   "fr": "Réduisez le ballon à un nuage de sable qui se met à pleuvoir incessamment vers les buts."
   },
   "teams": [
    "Silica Eleven"
@@ -17856,7 +18053,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Swing wide and punch the ball with full reach, stopping it in its tracks."
+   "en": "Swing wide and punch the ball with full reach, stopping it in its tracks.",
+   "fr": "Prenez de l'élan et frappez en plein dans le ballon pour l'arrêter net."
   },
   "teams": [
    "Storm Wolves"
@@ -17911,7 +18109,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Raise a stone gate on the pitch, steel bars halting every attack on goal."
+   "en": "Raise a stone gate on the pitch, steel bars halting every attack on goal.",
+   "fr": "Élevez une barrière de roche sur le terrain, ainsi que des barreaux d'acier qui arrêtent toutes les attaques vers les buts."
   },
   "teams": [
    "Big Bang"
@@ -17996,7 +18195,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Encase the ball in boiling water, leaving the keeper scorched if they dare to block it."
+   "en": "Encase the ball in boiling water, leaving the keeper scorched if they dare to block it.",
+   "fr": "Plongez le ballon dans de l'eau bouillante pour que le gardien se brûle les mains en essayant de l'arrêter."
   },
   "teams": [
    "Naiadi Eleven"
@@ -18022,7 +18222,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Unleash a low, sweeping strike that skims along the ground and cuts the defender off their footing."
+   "en": "Unleash a low, sweeping strike that skims along the ground and cuts the defender off their footing.",
+   "fr": "Lancez un tir ras qui balaie le terrain et perturbe le jeu de jambe de l'adversaire."
   },
   "teams": [
    "Muay Tigers"
@@ -18051,7 +18252,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Unleash a raging hurricane from the ball and send it barreling toward the goal."
+   "en": "Unleash a raging hurricane from the ball and send it barreling toward the goal.",
+   "fr": "Déclenchez un ouragan à partir du ballon puis envoyez-le en trombe vers les buts."
   },
   "teams": [
    "Earth Eleven"
@@ -18078,7 +18280,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Rocket the ball sky-high and blast it past the atmosphere and across the galaxy."
+   "en": "Rocket the ball sky-high and blast it past the atmosphere and across the galaxy.",
+   "fr": "Propulsez le ballon haut dans le ciel, au-delà de l'atmosphère et à travers la galaxie."
   },
   "teams": [
    "Earth Eleven"
@@ -18104,7 +18307,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Stamp the ball and unleash a cascade of notes to orchestrate a dazzling breakthrough."
+   "en": "Stamp the ball and unleash a cascade of notes to orchestrate a dazzling breakthrough.",
+   "fr": "Piétinez le ballon et déclenchez une cascade de notes pour orchestrer une percée étourdissante."
   },
   "teams": [
    "Earth Eleven"
@@ -18132,7 +18336,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "A lightning-fast combination shot that evokes the harmony of light and shadow like an eclipse."
+   "en": "A lightning-fast combination shot that evokes the harmony of light and shadow like an eclipse.",
+   "fr": "Une combinaison ultra-rapide qui rappelle l'harmonie de la lumière et des ombres, telle une éclipse."
   },
   "teams": [
    "Earth Eleven"
@@ -18182,7 +18387,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Spin hand-in-hand with a teammate, whipping up leaves as you barrel forward."
+   "en": "Spin hand-in-hand with a teammate, whipping up leaves as you barrel forward.",
+   "fr": "Tourbillonnez main dans la main avec un coéquipier, en soulevant des feuilles tandis que vous foncez vers l'avant."
   },
   "teams": [
    "Earth Eleven"
@@ -18208,7 +18414,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Fire beams from a multitude of magical circles, delivering cosmic justice to the enemy."
+   "en": "Fire beams from a multitude of magical circles, delivering cosmic justice to the enemy.",
+   "fr": "Lancez des rayons depuis une multitude de cercles magiques et frappez vos ennemis de votre justice cosmique."
   },
   "teams": [
    "Ixar Fleet"
@@ -18235,7 +18442,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Catch any shot in a springy circular barrier and fling it back."
+   "en": "Catch any shot in a springy circular barrier and fling it back.",
+   "fr": "Attrapez tous les tirs grâce à une barrière circulaire rebondissante et renvoyez les ballons."
   },
   "teams": [
    "Falam Medius"
@@ -18292,7 +18500,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Spiral into the sky with a dragon's fury and slam the ball down like a meteor."
+   "en": "Spiral into the sky with a dragon's fury and slam the ball down like a meteor.",
+   "fr": "Partez vers le ciel en une spirale aussi furieuse qu'un dragon et renvoyez le ballon pour en faire un météore."
   },
   "teams": [
    "Earth Eleven"
@@ -18379,7 +18588,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Gather infinite power from teammates and allies across the universe to unleash one unstoppable shot."
+   "en": "Gather infinite power from teammates and allies across the universe to unleash one unstoppable shot.",
+   "fr": "Rassemblez une puissance infinie provenant de vos coéquipiers et alliés à travers l'univers, pour un tir inarrêtable."
   },
   "teams": [
    "Earth Eleven"
@@ -18436,7 +18646,8 @@
    "Rashid Hakim"
   ],
   "description": {
-   "en": "Skim across the sand in a wild drift, slipping past the defender through a veil of swirling dust."
+   "en": "Skim across the sand in a wild drift, slipping past the defender through a veil of swirling dust.",
+   "fr": "Chevauchez le sable pour glisser sous le nez des défenseurs, dissimulé sous un voile de poussière tourbillonnante."
   },
   "teams": [
    "Shamshir"
@@ -18465,7 +18676,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Unleash a glowing projectile that swallows the ball, kills its momentum, and hurls it away."
+   "en": "Unleash a glowing projectile that swallows the ball, kills its momentum, and hurls it away.",
+   "fr": "Catapultez un projectile lumineux qui avale le ballon, l'arrête de plein fouet et le repousse brusquement."
   },
   "teams": [
    "Ixar Fleet"
@@ -18522,7 +18734,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Unleash a miniature galaxy around the ball and crash it down toward the opponent's goal."
+   "en": "Unleash a miniature galaxy around the ball and crash it down toward the opponent's goal.",
+   "fr": "Faites apparaître une galaxie miniature autour du ballon et faites-la s'écraser vers les buts de l'adversaire."
   },
   "teams": [
    "Space Rankers"
@@ -18608,7 +18821,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Teleport the shooter in front of their own shot, forcing them to block it with their body."
+   "en": "Teleport the shooter in front of their own shot, forcing them to block it with their body.",
+   "fr": "Téléportez le tireur devant son ballon et forcez-le à l'arrêter avec son propre corps."
   },
   "teams": [
    "Supernova"
@@ -18663,7 +18877,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Summon a massive holographic arm to snatch and toss any defender in your way."
+   "en": "Summon a massive holographic arm to snatch and toss any defender in your way.",
+   "fr": "Invoquez un immense bras holographique pour attraper et repousser tous les défenseurs sur votre passage."
   },
   "teams": [
    "Falam Medius"
@@ -18691,7 +18906,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Launch the ball to scatter a night sky of stars that fall like meteors into the goal."
+   "en": "Launch the ball to scatter a night sky of stars that fall like meteors into the goal.",
+   "fr": "Propulsez le ballon et faites éclater un firmament d'étoiles qui s'abattent telles des météores dans les cages."
   },
   "teams": [
    "Ixar Fleet"
@@ -18721,7 +18937,8 @@
    "Byron Love"
   ],
   "description": {
-   "en": "Encase the ball in frigid air, driving it toward the goal with the ferocity of a polar bear."
+   "en": "Encase the ball in frigid air, driving it toward the goal with the ferocity of a polar bear.",
+   "fr": "Enfermez le ballon dans un bloc d'air glacial et envoyez le ballon dans le but comme si vous étiez un féroce ours polaire."
   },
   "teams": [
    "Backwater Raimon",
@@ -18751,7 +18968,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Block your target with force strong enough to stop even the fiercest bear."
+   "en": "Block your target with force strong enough to stop even the fiercest bear.",
+   "fr": "Immobilisez votre cible en faisant appel à une puissance telle qu'elle pourrait arrêter un ours enragé."
   },
   "teams": [
    "Alpine (Ares)"
@@ -18778,7 +18996,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Apply backspin with a header and unleash a flaming ball that rushes at the goal."
+   "en": "Apply backspin with a header and unleash a flaming ball that rushes at the goal.",
+   "fr": "Ajoutez une rotation inversée avec une tête et envoyez un ballon enflammé qui fonce vers les buts."
   },
   "teams": [
    "Backwater Raimon"
@@ -18804,7 +19023,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Ignite the ball into a blazing fireball and blast it across the ground like a speeding bullet."
+   "en": "Ignite the ball into a blazing fireball and blast it across the ground like a speeding bullet.",
+   "fr": "Enflammez le ballon qui devient une boule de feu, et faites-la traverser le terrain comme une balle de pistolet."
   },
   "teams": [
    "Backwater Raimon"
@@ -18831,7 +19051,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Erupt flames to form a blazing wall, scorching the ball and stopping every shot."
+   "en": "Erupt flames to form a blazing wall, scorching the ball and stopping every shot.",
+   "fr": "Faites surgir des flammes afin d'élever un immense mur qui brûle le ballon et arrête les tirs."
   },
   "teams": [
    "Raging Bulls"
@@ -18919,7 +19140,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Construct a massive underground shelter and lock its layers to prevent any enemy breakthrough."
+   "en": "Construct a massive underground shelter and lock its layers to prevent any enemy breakthrough.",
+   "fr": "Faites surgir du sol un immense abri souterrain et verrouillez ses murs de sécurité pour que l'ennemi ne s'infiltre pas."
   },
   "teams": [
    "Los Invencibles"
@@ -18974,7 +19196,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Launch a cannon with a fiery kick and send the ball hurtling toward the net."
+   "en": "Launch a cannon with a fiery kick and send the ball hurtling toward the net.",
+   "fr": "Propulsez un boulet de canon enflammé d'un coup de pied puissant qui atterrit dans les filets."
   },
   "teams": [
    "Ace Invaders"
@@ -19029,7 +19252,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Concentrate your power to grow a massive left hand and pluck the ball from the air."
+   "en": "Concentrate your power to grow a massive left hand and pluck the ball from the air.",
+   "fr": "Concentrez votre puissance pour faire grossir votre main gauche qui devient énorme et attrape le ballon de ses doigts."
   },
   "teams": [
    "Pitch Perfectionists"
@@ -19055,7 +19279,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Call forth a twin-headed eagle to strike and unleash a shot of devastating power."
+   "en": "Call forth a twin-headed eagle to strike and unleash a shot of devastating power.",
+   "fr": "Faites surgir un aigle à deux têtes du ciel pour déchaîner une attaque à la puissance absolue."
   },
   "teams": [
    "Pitch Perfectionists"
@@ -19082,7 +19307,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Dance to a savage samba rhythm and sweep past the keeper with a deadly flourish."
+   "en": "Dance to a savage samba rhythm and sweep past the keeper with a deadly flourish.",
+   "fr": "Dansez un rythme endiablé de samba et filez sous le nez du gardien après un mouvement de main dévastateur."
   },
   "teams": [
    "The Sambassadors"
@@ -19109,7 +19335,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Twist elongated energy into spaghetti-like strands, wrap them around your arm, and deliver an uppercut."
+   "en": "Twist elongated energy into spaghetti-like strands, wrap them around your arm, and deliver an uppercut.",
+   "fr": "Torsadez une énergie étirée en filaments semblables à des spaghettis que vous enroulez autour du ballon pour l'expédier d'un uppercut."
   },
   "teams": [
    "The Sambassadors"
@@ -19166,7 +19393,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Smash a graceful overhead shot from the top of the looming tower."
+   "en": "Smash a graceful overhead shot from the top of the looming tower.",
+   "fr": "Frappez une tête depuis le sommet d'une tour penchée gigantesque, pour un tir d'un niveau patrimoine mondial aussi artistique que périlleux."
   },
   "teams": [
    "Guardians of the Queen"
@@ -19227,7 +19455,8 @@
    "Caleb Stonewall"
   ],
   "description": {
-   "en": "A ferocious shark joins Emperor Penguin No. 2 for an epic showdown between two mighty champions!"
+   "en": "A ferocious shark joins Emperor Penguin No. 2 for an epic showdown between two mighty champions!",
+   "fr": "Un requin féroce se joint à un Manchot empereur nº 2 pour un affrontement épique entre les plus grands combattants des mers !"
   },
   "teams": [
    "Inazuma National War God"
@@ -19254,7 +19483,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Pursue the ball in a chariot and unleash a follow-up kick with the force of galloping horses."
+   "en": "Pursue the ball in a chariot and unleash a follow-up kick with the force of galloping horses.",
+   "fr": "Pourchassez le ballon dans les airs depuis votre char, et poursuivez d'un tir à la rapidité invraisemblable."
   },
   "teams": [
    "Guardians of the Queen"
@@ -19281,7 +19511,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Roar to summon a triceratops and stop the shot with its crushing headbutt."
+   "en": "Roar to summon a triceratops and stop the shot with its crushing headbutt.",
+   "fr": "Rugissez pour invoquer un tricératops et repoussez le ballon d'un puissant coup de tête dévastateur."
   },
   "teams": [
    "Guardians of the Queen"
@@ -19309,7 +19540,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Launch a maximum-power shot that turns into a malevolent dragon, tearing through everything."
+   "en": "Launch a maximum-power shot that turns into a malevolent dragon, tearing through everything.",
+   "fr": "Propulsez un tir surpuissant qui se transforme en dragon malveillant qui fonce vers le but."
   },
   "teams": [
    "Guardians of the Queen"
@@ -19364,7 +19596,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Unleash a hundred empowered shadows that crush everything in their path with devastating force."
+   "en": "Unleash a hundred empowered shadows that crush everything in their path with devastating force.",
+   "fr": "Invoquez une armée d'ombres cauchemardesque ainsi qu'une tempête aussi dévorante que dévastatrice."
   },
   "teams": [
    "Orion Eclipse"
@@ -19392,7 +19625,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Call a great hero forth whose heart of justice drives the ball straight toward the goal."
+   "en": "Call a great hero forth whose heart of justice drives the ball straight toward the goal.",
+   "fr": "Faites appel à un grand héros pour qu'il utilise son « Tir de la Justice » qui finit directement dans les buts."
   },
   "teams": [
    "Mister Yi's Team"
@@ -19450,7 +19684,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Three players combine their timing and effort to strike the ball like lightning with perfect teamwork."
+   "en": "Three players combine their timing and effort to strike the ball like lightning with perfect teamwork.",
+   "fr": "Propulsez très haut un ballon rempli d'électricité, puis frappez au moment parfait pour le catapulter vers le but."
   },
   "teams": [
    "Mister Yi's Team"
@@ -19479,7 +19714,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Add a screw spin to a powerful header, blasting the ball away with astonishing force."
+   "en": "Add a screw spin to a powerful header, blasting the ball away with astonishing force.",
+   "fr": "Faites tourner votre Tête explosive comme une vis et repoussez le tir avec une précision implacable."
   },
   "teams": [
    "Mister Yi's Team"
@@ -19506,7 +19742,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Gather the power of your allies into your right hand and defend the goal through friendship and belief."
+   "en": "Gather the power of your allies into your right hand and defend the goal through friendship and belief.",
+   "fr": "Rassemblez la force de vos alliés dans votre main droite pour démontrer à quoi ressemble une véritable amitié divine."
   },
   "teams": [
    "Mister Yi's Team"
@@ -19533,7 +19770,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Unleash a double strike, spinning the ball skyward and turning kicked-up dust into a raging surge of purple lightning."
+   "en": "Unleash a double strike, spinning the ball skyward and turning kicked-up dust into a raging surge of purple lightning.",
+   "fr": "Déchaînez une double frappe. Faites tourner le ballon vers le ciel jusqu'à ce que la poussière soulevée devienne un éclair enragé violet."
   },
   "teams": [
    "South Cirrus"
@@ -19559,7 +19797,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Send the ball arcing past everyone in diamond-bright glory to catch the keeper off guard."
+   "en": "Send the ball arcing past everyone in diamond-bright glory to catch the keeper off guard.",
+   "fr": "Envoie le ballon en cloche, dans un éclat brillant comme un diamant, pour surprendre le gardien."
   },
   "teams": [
    "Los Invencibles"
@@ -19586,7 +19825,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Soup up the sauce with overflowing energy to supercharge the spaghetti strike to new heights."
+   "en": "Soup up the sauce with overflowing energy to supercharge the spaghetti strike to new heights.",
+   "fr": "Donnez un coup de fouet à la sauce avec une énergie débordante pour propulser vos spaghettis vers de nouveaux sommets."
   },
   "teams": [
    "The Sambassadors"
@@ -19612,7 +19852,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Summon a virtual barrier of code and lock the ball inside your cybernetic domain."
+   "en": "Summon a virtual barrier of code and lock the ball inside your cybernetic domain.",
+   "fr": "Invoquez une barrière virtuelle de code et verrouillez le ballon dans votre domaine cybernétique."
   },
   "teams": [
    "Eastwind International"
@@ -19666,7 +19907,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Unleash a flurry of glittering ice and stop the ball in its tracks with dazzling force."
+   "en": "Unleash a flurry of glittering ice and stop the ball in its tracks with dazzling force.",
+   "fr": "Déchaînez une bourrasque de glace brillante et arrêtez net le ballon avec une force éclatante."
   },
   "teams": [
    "South Cirrus"
@@ -19692,7 +19934,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Channel raw force into the airborne ball and fire it at the goal in a brilliant flash of swirling fuchsia energy."
+   "en": "Channel raw force into the airborne ball and fire it at the goal in a brilliant flash of swirling fuchsia energy.",
+   "fr": "Embuez une force brute dans le ballon en l'air et tirez vers le but, accompagné d'un éclat brillant d'énergie fuchsia tourbillonnante."
   },
   "teams": [
    "South Cirrus"
@@ -19718,7 +19961,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Summon a scorching desert and crush your opponent beneath a whirlwind of shifting sands to seize the ball."
+   "en": "Summon a scorching desert and crush your opponent beneath a whirlwind of shifting sands to seize the ball.",
+   "fr": "Invoquez un désert brûlant et écrasez votre adversaire sous un tourbillon de sables mouvants pour attraper le ballon."
   },
   "teams": [
    "Northbright"
@@ -19744,7 +19988,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Strike from above with a thunderous kick to send the ball crashing like a solar blade tearing through storm clouds."
+   "en": "Strike from above with a thunderous kick to send the ball crashing like a solar blade tearing through storm clouds.",
+   "fr": "Frappez des hauteurs avec un tir tonitruant pour que le ballon s'écrase comme une lame solaire qui traverse les nuages d'une tempête."
   },
   "teams": [
    "Northbright"
@@ -19770,7 +20015,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Charge the ball with heavenly lightning and drive it earthward in a blinding, electrifying strike."
+   "en": "Charge the ball with heavenly lightning and drive it earthward in a blinding, electrifying strike.",
+   "fr": "Chargez le ballon d'un éclair divin et propulsez-le vers la terre en une frappe aveuglante et électrisante."
   },
   "teams": [
    "South Cirrus"
@@ -19825,7 +20071,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Command the pitch with regal might and drive a spear-like strike straight through the net."
+   "en": "Command the pitch with regal might and drive a spear-like strike straight through the net.",
+   "fr": "Contrôlez le terrain avec majesté et puissance, et délivrez une frappe semblable à une lance."
   },
   "teams": [
    "Stormridge"
@@ -19880,7 +20127,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Sink the jaws of your mighty hand into the ball and tear it from the pitch with the ferocity of a hunting beast."
+   "en": "Sink the jaws of your mighty hand into the ball and tear it from the pitch with the ferocity of a hunting beast.",
+   "fr": "Plantez vos griffes dans le ballon et arrachez-le du terrain avec la férocité d'une bête qui rôde."
   },
   "teams": [
    "Raimon Kings"
@@ -19890,7 +20138,8 @@
   "name": "Guruguru Shoot",
   "names": {
    "en": "Swirly Shot",
-   "jp": "ぐるぐるシュート"
+   "jp": "ぐるぐるシュート",
+   "fr": "Tir Tournoyant"
   },
   "type": "Shoot",
   "element": "Wind",
@@ -19905,7 +20154,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Spin the ball into a spiraling tempest that twists and turns to catch the keeper completely off guard."
+   "en": "Spin the ball into a spiraling tempest that twists and turns to catch the keeper completely off guard.",
+   "fr": "Faites tournoyer le ballon qui devient une tempête qui virvolte pour prendre le gardien complètement par surprise."
   },
   "teams": [
    "South Cirrus"
@@ -19960,7 +20210,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Descend like a hunting falcon and whip the ball back in a dazzling, rapid strike."
+   "en": "Descend like a hunting falcon and whip the ball back in a dazzling, rapid strike.",
+   "fr": "Surgissez du ciel comme un faucon en chasse et renvoyez le ballon d'un coup fouetté, rapide et étincelant."
   },
   "teams": [
    "South Cirrus"
@@ -20015,7 +20266,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Whirl into action with astonishing speed and dance through opponents to claim the ball."
+   "en": "Whirl into action with astonishing speed and dance through opponents to claim the ball.",
+   "fr": "Passez à l'action à une vitesse stupéfiante et passez devant les adversaires pour récupérer le ballon."
   },
   "teams": [
    "South Cirrus"
@@ -20041,7 +20293,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Tear open space itself and guide the ball along a path carved by celestial hands."
+   "en": "Tear open space itself and guide the ball along a path carved by celestial hands.",
+   "fr": "Ouvrez l'espace lui-même et guidez le ballon sur un chemin bâti par des mains célestes."
   },
   "teams": [
    "South Cirrus"
@@ -20067,7 +20320,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Alert the pitch to a mysterious flying rice ball and use the chaos to snatch the ball and break through."
+   "en": "Alert the pitch to a mysterious flying rice ball and use the chaos to snatch the ball and break through.",
+   "fr": "Prévenez tout le monde qu'une mystérieuse boule de riz volante arrive et profitez du chaos pour la chiper et percer le terrain."
   },
   "teams": [
    "South Cirrus"
@@ -20093,7 +20347,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Analyze the keeper's every move and strike the ball along the perfect path to the goal."
+   "en": "Analyze the keeper's every move and strike the ball along the perfect path to the goal.",
+   "fr": "Analysez chaque action du gardien et frappez le ballon sur la trajectoire parfaite vers le but."
   },
   "teams": [
    "South Cirrus"
@@ -20119,7 +20374,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Gather every ounce of power and catch the ball in a dazzling display of determination and skill."
+   "en": "Gather every ounce of power and catch the ball in a dazzling display of determination and skill.",
+   "fr": "Rassemblez toute votre puissance pour attraper le ballon, en une démonstration de détermination et de technique éblouissante."
   },
   "teams": [
    "West Manor"
@@ -20147,7 +20403,8 @@
    "Aysen DeMacon"
   ],
   "description": {
-   "en": "Race at breakneck pace, clawing past opponents with sheer grit and determination."
+   "en": "Race at breakneck pace, clawing past opponents with sheer grit and determination.",
+   "fr": "Courez à fond les ballons, passez devant les adversaires grâce à votre pure détermination et votre courage."
   },
   "teams": [
    "West Manor"
@@ -20173,7 +20430,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Spin the ball with precise, hoop-like mastery to lock down opponents and clear a way to goal."
+   "en": "Spin the ball with precise, hoop-like mastery to lock down opponents and clear a way to goal.",
+   "fr": "Faites tournoyer le ballon avec une maîtrise précise en forme de cercle pour enfermer les adversaires et ouvrir un chemin vers le but."
   },
   "teams": [
    "South Cirrus"
@@ -20199,7 +20457,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Unleash explosive momentum and crash through the opposition in a thundering, unstoppable rush."
+   "en": "Unleash explosive momentum and crash through the opposition in a thundering, unstoppable rush.",
+   "fr": "Déchaînez un élan explosif et traversez l'opposition en un sprint tonitruant et imbattable."
   },
   "teams": [
    "South Cirrus"
@@ -20227,7 +20486,8 @@
    "Aysen DeMacon"
   ],
   "description": {
-   "en": "Scan, aim, and release a lethal shot that hones in on the goal with unerring accuracy."
+   "en": "Scan, aim, and release a lethal shot that hones in on the goal with unerring accuracy.",
+   "fr": "Scannez, visez et relâchez un coup létal qui fonce vers le but avec une précision infaillible."
   },
   "teams": [
    "West Manor"
@@ -20253,7 +20513,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Conjure illusions of yourself to baffle defenders and dance past them with uncanny flair."
+   "en": "Conjure illusions of yourself to baffle defenders and dance past them with uncanny flair.",
+   "fr": "Conjurez des illusions de vous-même pour dérouter les défenseurs et passer devant eux avec une aisance stupéfiante."
   },
   "teams": [
    "South Cirrus"
@@ -20281,7 +20542,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "With a wild shout and a mighty stomp, call forth a titanic foot from the skies to smash down on your foe."
+   "en": "With a wild shout and a mighty stomp, call forth a titanic foot from the skies to smash down on your foe.",
+   "fr": "Avec un cri fou et un grand coup de pompe, faites apparaître un pied titanesque du ciel qui s'écrase sur votre ennemi."
   },
   "teams": [
    "South Cirrus"
@@ -20309,7 +20571,8 @@
    "Nikas Himmelstein"
   ],
   "description": {
-   "en": "Shatter the pitch with a brilliant flash, blinding all in your path and charging ahead."
+   "en": "Shatter the pitch with a brilliant flash, blinding all in your path and charging ahead.",
+   "fr": "Fracassez le terrain d'un éclat brillant, aveuglant tout sur votre passage quand vous filez tout droit."
   },
   "teams": [
    "Northbright"
@@ -20337,7 +20600,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Howl like a silver wolf, the echo and your shot slicing through the moonlit night toward the goal."
+   "en": "Howl like a silver wolf, the echo and your shot slicing through the moonlit night toward the goal.",
+   "fr": "Hurlez comme un loup argenté. L'écho et votre tir traversent le clair de lune, droit vers les buts."
   },
   "teams": [
    "South Cirrus"
@@ -20363,7 +20627,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Encircle your rival in a spiraling vortex and awaken the ocean's guardian to rise with a crashing wave and steal the ball."
+   "en": "Encircle your rival in a spiraling vortex and awaken the ocean's guardian to rise with a crashing wave and steal the ball.",
+   "fr": "Enfermez votre rival dans un vortex tourbillonnant et éveillez le gardien de l'océan pour vous élever sur une immense vague qui s'écrase et vole le ballon."
   },
   "teams": [
    "South Cirrus"
@@ -20389,7 +20654,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Unleash a towering waterfall of energy that sweeps across the pitch and keeps opponents at bay."
+   "en": "Unleash a towering waterfall of energy that sweeps across the pitch and keeps opponents at bay.",
+   "fr": "Déchaînez une cascade surplombante d'énergie qui traverse le terrain et empêche l'adversaire de s'approcher."
   },
   "teams": [
    "Eastwind International"
@@ -20417,7 +20683,8 @@
    "Jenny Okutba"
   ],
   "description": {
-   "en": "Drag foes into the depths in a swirling plunge and snatch the ball with relentless force."
+   "en": "Drag foes into the depths in a swirling plunge and snatch the ball with relentless force.",
+   "fr": "Entraînez vos adversaires dans les profondeurs en plongeant et arrachez le ballon avec une force implacable."
   },
   "teams": [
    "Eastwind International"
@@ -20445,7 +20712,8 @@
    "Blaine Westbrook"
   ],
   "description": {
-   "en": "Unleash a spectral glare of burning purple energy that causes enemies to tremble in sheer fear."
+   "en": "Unleash a spectral glare of burning purple energy that causes enemies to tremble in sheer fear.",
+   "fr": "Déchaînez une lumière vive spectrale d'une énergie violette brûlante qui fait trembler les ennemis de peur."
   },
   "teams": [
    "Stormridge"
@@ -20455,7 +20723,8 @@
   "name": "Meikyou Shisui",
   "names": {
    "en": "Silent Inkstroke",
-   "jp": "明鏡止水"
+   "jp": "明鏡止水",
+   "fr": "Encre Silencieuse"
   },
   "type": "Catch",
   "element": "Wind",
@@ -20470,7 +20739,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Raise a shimmering wall of water with both hands and halt the shot in its tracks."
+   "en": "Raise a shimmering wall of water with both hands and halt the shot in its tracks.",
+   "fr": "Élevez un mur d'eau scintillante des deux mains et arrêtez un tir en plein air."
   },
   "teams": [
    "Stormridge"
@@ -20496,7 +20766,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Unleash a carnival of color and light and send the ball dancing toward the goal with festive flair."
+   "en": "Unleash a carnival of color and light and send the ball dancing toward the goal with festive flair.",
+   "fr": "Déchaînez un carnaval de couleurs et de lumière et envoyez le ballon danser vers le but dans un style festif."
   },
   "teams": [
    "South Cirrus"
@@ -20553,7 +20824,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Drive your standard into the ground to call forth a glowing sigil that sends enemies flying."
+   "en": "Drive your standard into the ground to call forth a glowing sigil that sends enemies flying.",
+   "fr": "Frappez le sol pour invoquer un sigle brillant qui fait s'envoler les ennemis."
   },
   "teams": [
    "Tactical Royal"
@@ -20579,7 +20851,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Call forth the evolved might of a Majin and drive the ball like a fiery comet, scorching everything in its way."
+   "en": "Call forth the evolved might of a Majin and drive the ball like a fiery comet, scorching everything in its way.",
+   "fr": "Invoquez la puissance évoluée d'un génie et propulsez le ballon tel une comète enflammée qui brûle tout sur son passage."
   },
   "teams": [
    "Raimon Kings"
@@ -20605,7 +20878,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Call down the ultimate Fire Tornado, a blazing meteor strike that descends from the heavens to crush the keeper."
+   "en": "Call down the ultimate Fire Tornado, a blazing meteor strike that descends from the heavens to crush the keeper.",
+   "fr": "Invoquez la tornade de feu ultime, une frappe météore enflammée qui surgit du ciel pour écraser le gardien."
   },
   "teams": [
    "Raimon Kings"
@@ -20631,7 +20905,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Bathed in the goddess's blessing, cradle the ball with a power strong enough to shift continents."
+   "en": "Bathed in the goddess's blessing, cradle the ball with a power strong enough to shift continents.",
+   "fr": "Baigné dans la bénédiction de la déesse, tenez le ballon avec une puissance capable de déplacer les continents."
   },
   "teams": [
    "Raimon Kings"
@@ -20657,7 +20932,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Spin with theatrical grace and conjure an afterimage that beguiles the opponent as you claim the ball."
+   "en": "Spin with theatrical grace and conjure an afterimage that beguiles the opponent as you claim the ball.",
+   "fr": "Tournoyez avec une grâce théâtrale et conjurez une image résiduelle qui charme l'adversaire pendant que vous volez le ballon."
   },
   "teams": [
    "South Cirrus"
@@ -20683,7 +20959,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Pound the pitch with a rock-fueled tempo as you weave through defenders with unbridled energy."
+   "en": "Pound the pitch with a rock-fueled tempo as you weave through defenders with unbridled energy.",
+   "fr": "Frappez le terrain avec un tempo de rockeur tout en naviguant entre les défenseurs avec une énergie débordante."
   },
   "teams": [
    "South Cirrus"
@@ -20709,7 +20986,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Step and pivot with power to create a whirlwind that knocks enemies off their feet."
+   "en": "Step and pivot with power to create a whirlwind that knocks enemies off their feet.",
+   "fr": "D'un pas de côté, pivotez avec puissance pour créer un tourbillon qui renverse les ennemis."
   },
   "teams": [
    "South Cirrus"
@@ -20735,7 +21013,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Turn with effortless grace, holding the ball as you captivate the pitch with a picture-perfect flourish."
+   "en": "Turn with effortless grace, holding the ball as you captivate the pitch with a picture-perfect flourish.",
+   "fr": "Pivotez avec une grâce naturelle, en maintenant le ballon tandis que vous envoûtez le terrain d'un geste d'une perfection absolue."
   },
   "teams": [
    "South Cirrus"
@@ -20761,7 +21040,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Analyze, plan, and strike to execute a brainy dribble that bends the pitch to your will."
+   "en": "Analyze, plan, and strike to execute a brainy dribble that bends the pitch to your will.",
+   "fr": "Analysez, préparez-vous et frappez pour enchaîner avec un dribble de génie qui tord le terrain selon vos envies."
   },
   "teams": [
    "South Cirrus"
@@ -20789,7 +21069,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Soar with the grace of a marlin and drive the ball in a razor-sharp strike."
+   "en": "Soar with the grace of a marlin and drive the ball in a razor-sharp strike.",
+   "fr": "Traversez le ciel comme un marlin et déclenchez une frappe acérée."
   },
   "teams": [
    "South Cirrus"
@@ -20815,7 +21096,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Smash the ground with a colossal steel strike to send a violent tremor that scatters your opponents."
+   "en": "Smash the ground with a colossal steel strike to send a violent tremor that scatters your opponents.",
+   "fr": "Frappez le sol avec un coup d'acier colossal pour créer un tremblement de terre violent qui repousse l'adversaire."
   },
   "teams": [
    "South Cirrus"
@@ -20843,7 +21125,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Spread a veil of eerie fog that unnerves the enemy, then slip through the shadows to claim the ball."
+   "en": "Spread a veil of eerie fog that unnerves the enemy, then slip through the shadows to claim the ball.",
+   "fr": "Étalez un voile de brume intrigante qui met l'ennemi mal à l'aise, puis filez dans l'ombre pour voler le ballon."
   },
   "teams": [
    "South Cirrus"
@@ -20869,7 +21152,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Summon a towering stronghold of chaos to trap opponents and spread utter despair."
+   "en": "Summon a towering stronghold of chaos to trap opponents and spread utter despair.",
+   "fr": "Invoque un immense bastion du chaos pour coincer les adversaires et créer un désespoir absolu."
   },
   "teams": [
    "Stormridge"
@@ -20895,7 +21179,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Channel unstoppable force into a single strike to send the ball hurtling with devastating power."
+   "en": "Channel unstoppable force into a single strike to send the ball hurtling with devastating power.",
+   "fr": "Embuez un tir d'une force inarrêtable pour mieux projeter le ballon d'une puissance dévastatrice."
   },
   "teams": [
    "West Manor",
@@ -20922,7 +21207,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Gather swirling black chaos and fire it like a colossal beam weapon."
+   "en": "Gather swirling black chaos and fire it like a colossal beam weapon.",
+   "fr": "Rassemblez du chaos noir tourbillonnant et tirez-le comme une arme à rayon laser colossale."
   },
   "teams": [
    "Ixar Fleet"
@@ -20946,7 +21232,8 @@
   "user": [],
   "user2": [],
   "description": {
-   "en": "Sheathe the ball in a razor-edged, saw-like ripple of energy and launch it with cutting force."
+   "en": "Sheathe the ball in a razor-edged, saw-like ripple of energy and launch it with cutting force.",
+   "fr": "Enfermez le ballon dans une onde d'énergie aussi tranchante qu'un rasoir, puis propulsez-le de toutes vos forces."
   },
   "teams": []
  },
@@ -20972,7 +21259,8 @@
    "Joss Fool"
   ],
   "description": {
-   "en": "Hurl the ball with a full-throated bellow that rattles the pitch and hammers the net."
+   "en": "Hurl the ball with a full-throated bellow that rattles the pitch and hammers the net.",
+   "fr": "Frappez dans le ballon en poussant un cri puissant qui fait vibrer le terrain et martèle les filets."
   },
   "teams": [
    "Big Bang"
@@ -20997,7 +21285,8 @@
   "user": [],
   "user2": [],
   "description": {
-   "en": "Clamp the ball in your talons, lock onto the goal, and dive in for a decisive strike."
+   "en": "Clamp the ball in your talons, lock onto the goal, and dive in for a decisive strike.",
+   "fr": "Utilisez vos serres pour agripper le ballon, fixez les buts et foncez frapper un tir décisif."
   },
   "teams": []
  },
@@ -21023,7 +21312,8 @@
    "Mitra Jeshu"
   ],
   "description": {
-   "en": "Pack the ball with overwhelming energy and unleash it all in one devastating burst."
+   "en": "Pack the ball with overwhelming energy and unleash it all in one devastating burst.",
+   "fr": "Remplissez le ballon d'une énergie débordante et déchaînez-la avec une explosion dévastatrice."
   },
   "teams": [
    "Supernova"
@@ -21049,7 +21339,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Forge a blade of condensed energy and drive it into the goal with explosive force."
+   "en": "Forge a blade of condensed energy and drive it into the goal with explosive force.",
+   "fr": "Forgez une lame d'énergie condensée et envoyez-la avec explosivité dans le but."
   },
   "teams": [
    "Supernova"
@@ -21076,7 +21367,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Spread your wings and soar into open sky, gliding down straight for the goal."
+   "en": "Spread your wings and soar into open sky, gliding down straight for the goal.",
+   "fr": "Déployez vos ailes et envolez-vous dans le ciel pour partir en flèche vers les buts."
   },
   "teams": [
    "Earth Eleven"
@@ -21102,7 +21394,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Spin into the air and bring your tail down in an acrobatic, whip-crack smash."
+   "en": "Spin into the air and bring your tail down in an acrobatic, whip-crack smash.",
+   "fr": "Tournoyez dans les airs et abattez acrobatiquement votre queue pour qu'elle s'écrase comme un fouet."
   },
   "teams": [
    "Falam Medius"
@@ -21128,7 +21421,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Snap the ball away with a whip-crack tail strike that sends a cutting shock through the goal."
+   "en": "Snap the ball away with a whip-crack tail strike that sends a cutting shock through the goal.",
+   "fr": "Repoussez le ballon d'un coup de queue fouetté qui enverra un électrochoc à travers les buts."
   },
   "teams": [
    "Falam Medius"
@@ -21154,7 +21448,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Unleash a regal roar and launch the ball with the surefire accuracy of a king."
+   "en": "Unleash a regal roar and launch the ball with the surefire accuracy of a king.",
+   "fr": "Poussez un rugissement royal et propulsez le ballon avec une précision digne d'un roi."
   },
   "teams": [
    "Earth Eleven"
@@ -21180,7 +21475,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Let forth a beastly howl that shakes the pitch as you blast the ball like a bullet."
+   "en": "Let forth a beastly howl that shakes the pitch as you blast the ball like a bullet.",
+   "fr": "Relâchez un hurlement bestial qui fera trembler le terrain tandis que vous tirez le ballon comme une balle de pistolet."
   },
   "teams": [
    "Magmavia Eleven"
@@ -21206,7 +21502,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Swallow the ball whole and spew it out in roaring crimson flames that scorch the goal."
+   "en": "Swallow the ball whole and spew it out in roaring crimson flames that scorch the goal.",
+   "fr": "Avalez le ballon tout rond et recrachez-le avec d'énormes flammes écarlates qui brûlent les buts."
   },
   "teams": [
    "Silica Eleven"
@@ -21232,7 +21529,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Leap high with feral power, spin through the air, and crash down toward the goal."
+   "en": "Leap high with feral power, spin through the air, and crash down toward the goal.",
+   "fr": "Votre pouvoir bestial vous fait bondir très haut, tournoyer et retomber directement vers les buts."
   },
   "teams": [
    "Falam Medius",
@@ -21261,7 +21559,8 @@
    "Despina Lux"
   ],
   "description": {
-   "en": "Unleash a crisscrossing double-tail strike, delivered with pure beastborn agility."
+   "en": "Unleash a crisscrossing double-tail strike, delivered with pure beastborn agility.",
+   "fr": "Déchainez une frappe à double queue croisée née d'une pure agilité bestiale."
   },
   "teams": [
    "Ixar Fleet"
@@ -21285,7 +21584,8 @@
   "user": [],
   "user2": [],
   "description": {
-   "en": "Corner your opponent on a cliff, then vault past while sending them tumbling down."
+   "en": "Corner your opponent on a cliff, then vault past while sending them tumbling down.",
+   "fr": "Acculez votre adversaire au bout d'une falaise, puis bondissez pour le dépasser et le faire chuter."
   },
   "teams": []
  },
@@ -21307,7 +21607,8 @@
   "user": [],
   "user2": [],
   "description": {
-   "en": "Tunnel like a drill, surfacing beneath foes to deliver a devastating ambush."
+   "en": "Tunnel like a drill, surfacing beneath foes to deliver a devastating ambush.",
+   "fr": "Creusez tel une foreuse et refaites surface sous les adversaires pour leur tendre une terrible embuscade."
   },
   "teams": []
  },
@@ -21333,7 +21634,8 @@
    "Rudra Ardo"
   ],
   "description": {
-   "en": "Unfurl wide, vivid wings and unleash a burst of color that overwhelms and blinds your foes."
+   "en": "Unfurl wide, vivid wings and unleash a burst of color that overwhelms and blinds your foes.",
+   "fr": "Déroulez vos larges ailes vives et relâchez une explosion de couleur qui submerge et aveugle l'ennemi."
   },
   "teams": [
    "Supernova"
@@ -21357,7 +21659,8 @@
   "user": [],
   "user2": [],
   "description": {
-   "en": "Neighing skyward, unfurl your crimson and blast through any foes in your path."
+   "en": "Neighing skyward, unfurl your crimson and blast through any foes in your path.",
+   "fr": "Hennissez en fonçant vers l'avant, déployez vos ailes écarlates et repoussez tous les adversaires sur votre route."
   },
   "teams": []
  },
@@ -21379,7 +21682,8 @@
   "user": [],
   "user2": [],
   "description": {
-   "en": "Corner your target and throw your weight down, trapping them like prey pinned mid-hunt."
+   "en": "Corner your target and throw your weight down, trapping them like prey pinned mid-hunt.",
+   "fr": "Acculez votre cible et plaquez-la de tout votre poids, afin de l'enfermer comme si c'était une proie que vous aviez chassée."
   },
   "teams": []
  },
@@ -21405,7 +21709,8 @@
    "Madison Barada"
   ],
   "description": {
-   "en": "Kick into a lightning-fast sprint and plow straight through whatever dares stand in your way."
+   "en": "Kick into a lightning-fast sprint and plow straight through whatever dares stand in your way.",
+   "fr": "Démarrez un sprint ultra-rapide et filez tout droit, traversant tout ce qui se trouve sur votre chemin."
   },
   "teams": [
    "Big Bang"
@@ -21431,7 +21736,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Drop with a force so overwhelming it makes opponents tremble before they're flattened."
+   "en": "Drop with a force so overwhelming it makes opponents tremble before they're flattened.",
+   "fr": "Laissez-vous tomber avec tant de force que vous faites trembler l'adversaire avant de l'écraser."
   },
   "teams": [
    "Big Bang"
@@ -21459,7 +21765,8 @@
    "Dione Bolide"
   ],
   "description": {
-   "en": "Leap past your opponents in a sweeping, elegant arc as fluid and poised as a ballet jump."
+   "en": "Leap past your opponents in a sweeping, elegant arc as fluid and poised as a ballet jump.",
+   "fr": "Bondissez par-dessus vos adversaires en un arc gracieux, aussi fluide et équilibré qu'un saut de ballerine."
   },
   "teams": [
    "Ixar Fleet"
@@ -21485,7 +21792,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Carry two allies on your back and charge forward with raw power, bowling through anyone in your path."
+   "en": "Carry two allies on your back and charge forward with raw power, bowling through anyone in your path.",
+   "fr": "Portez deux alliés sur votre dos et foncez tout droit, pour renverser vos adversaires comme des quilles."
   },
   "teams": [
    "Earth Eleven"
@@ -21496,7 +21804,7 @@
   "names": {
    "en": "Serow Cabriole",
    "jp": "カモシカ・カブリオール",
-   "fr": "Cabriole de Serow"
+   "fr": "Cabriole de la biche"
   },
   "type": "Dribble",
   "element": "Wind",
@@ -21511,7 +21819,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Race across the pitch like the wind and vault over defenders with a graceful leap."
+   "en": "Race across the pitch like the wind and vault over defenders with a graceful leap.",
+   "fr": "Filez à travers le terrain comme le vent et bondissez par-dessus les défenseurs d'un saut gracieux."
   },
   "teams": [
    "Earth Eleven"
@@ -21537,7 +21846,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Ascend on immaculate wings and surge forward, breaking through in a blaze of majestic light."
+   "en": "Ascend on immaculate wings and surge forward, breaking through in a blaze of majestic light.",
+   "fr": "Envolez-vous grâce à vos ailes immaculées et fonce tout droit, surgissant d'un éclat de lumière majestueuse."
   },
   "teams": [
    "Earth Eleven"
@@ -21563,7 +21873,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Let out a piercing cry and flash your wings, stunning enemies with blinding brilliance."
+   "en": "Let out a piercing cry and flash your wings, stunning enemies with blinding brilliance.",
+   "fr": "Lâchez un cri perçant et déployez vos ailes, éblouissant vos ennemis d'une lumière aveuglante."
   },
   "teams": [
    "Falam Medius"
@@ -21589,7 +21900,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Fan out your brilliant tail feathers and dazzle foes with a burst of shifting rainbow light."
+   "en": "Fan out your brilliant tail feathers and dazzle foes with a burst of shifting rainbow light.",
+   "fr": "Déployez les splendides plumes de votre queue et éblouissez l'adversaire d'un éclat de lumière arc-en-ciel."
   },
   "teams": [
    "Earth Eleven"
@@ -21615,7 +21927,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Burrow underground and strike suddenly as you burst out at your target."
+   "en": "Burrow underground and strike suddenly as you burst out at your target.",
+   "fr": "Enfouissez-vous sous terre et frappez soudainement en surgissant sur votre cible."
   },
   "teams": [
    "Silica Eleven"
@@ -21641,7 +21954,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Loom with terrifying bulk, send foes scrambling, and crush them the moment they try to flee."
+   "en": "Loom with terrifying bulk, send foes scrambling, and crush them the moment they try to flee.",
+   "fr": "Utilisez votre carrure imposante pour surplomber vos ennemis et les écraser quand ils essaient de s'enfuir en courant."
   },
   "teams": [
    "Earth Eleven"
@@ -21652,7 +21966,7 @@
   "names": {
    "en": "Gusfii Bomb",
    "jp": "グスフィー・ボム",
-   "fr": "Bombe de Gusfii"
+   "fr": "Explosion de Gusfii"
   },
   "type": "Dribble",
   "element": "Mountain",
@@ -21669,7 +21983,8 @@
    "Banda Crix Junior"
   ],
   "description": {
-   "en": "Drop explosive fruit from your horns to create a smoke screen that obscures vision."
+   "en": "Drop explosive fruit from your horns to create a smoke screen that obscures vision.",
+   "fr": "Relâchez des fruits explosifs de vos cornes pour créer un écran de fumée qui obscurcit la vision."
   },
   "teams": [
    "Fertilia Eleven",
@@ -21694,7 +22009,8 @@
   "user": [],
   "user2": [],
   "description": {
-   "en": "Drape all except your eyes in shadow and snatch the ball with cunning moves."
+   "en": "Drape all except your eyes in shadow and snatch the ball with cunning moves.",
+   "fr": "Recouvrez-vous entièrement de noir à l'exception de vos yeux, et dérobez le ballon avec des mouvements rusés."
   },
   "teams": []
  },
@@ -21720,7 +22036,8 @@
    "Soma Lobi"
   ],
   "description": {
-   "en": "Smash through like a juggernaut as you snort and charge head-on."
+   "en": "Smash through like a juggernaut as you snort and charge head-on.",
+   "fr": "Foncez comme un véritable colosse, soufflant de rage en percutant tout sur votre passage."
   },
   "teams": [
    "Supernova"
@@ -21744,7 +22061,8 @@
   "user": [],
   "user2": [],
   "description": {
-   "en": "Curl into a ball and tumble through the air, forcing opponents to shut their eyes in shock."
+   "en": "Curl into a ball and tumble through the air, forcing opponents to shut their eyes in shock.",
+   "fr": "Recroquevillez-vous et roulez-boulez dans les airs. Le choc oblige vos adversaires à fermer les yeux."
   },
   "teams": []
  },
@@ -21770,7 +22088,8 @@
    "Zartan Walder"
   ],
   "description": {
-   "en": "Conjure swirling sand to vanish from view, then strike with a sudden tackle."
+   "en": "Conjure swirling sand to vanish from view, then strike with a sudden tackle.",
+   "fr": "Invoquez une tornade de sable pour disparaître, et re-surgissez avec un tacle venu de nulle part."
   },
   "teams": [
    "Big Bang"
@@ -21794,7 +22113,8 @@
   "user": [],
   "user2": [],
   "description": {
-   "en": "Fix your target with a massive single-eye stare, then swing your claws to snatch the ball."
+   "en": "Fix your target with a massive single-eye stare, then swing your claws to snatch the ball.",
+   "fr": "D'un seul immense œil, fixez l'adversaire et lancez un coup de griffe pour voler le ballon."
   },
   "teams": []
  },
@@ -21820,7 +22140,8 @@
    "Deimos Lepton"
   ],
   "description": {
-   "en": "Charge forward, stop on a dime, then leap up to rake opponents with sharp claws."
+   "en": "Charge forward, stop on a dime, then leap up to rake opponents with sharp claws.",
+   "fr": "Foncez tout droit avant de vous figer et bondir pour frapper l'adversaire de vos immenses griffes."
   },
   "teams": [
    "Ixar Fleet"
@@ -21848,7 +22169,8 @@
    "Merapil Sekretair"
   ],
   "description": {
-   "en": "Launch off a cliff and crash down with a spinning attack over the opponent's head."
+   "en": "Launch off a cliff and crash down with a spinning attack over the opponent's head.",
+   "fr": "Sautez d'une falaise pour tomber sur la tête de l'adversaire en une attaque tournoyante."
   },
   "teams": [
    "Magmavia Eleven"
@@ -21874,7 +22196,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Lure opponents with a cute facade, then slash unexpectedly to catch them off guard."
+   "en": "Lure opponents with a cute facade, then slash unexpectedly to catch them off guard.",
+   "fr": "Utilisez votre côté mignon pour attirer l'adversaire, puis frappez au moment où il s'y attend le moins."
   },
   "teams": [
    "Earth Eleven"
@@ -21900,7 +22223,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Run in a circling arc, kicking up dust to snatch the ball from an unseen angle."
+   "en": "Run in a circling arc, kicking up dust to snatch the ball from an unseen angle.",
+   "fr": "Courez en arc de cercle en soulevant de la poussière pour subtiliser le ballon dans un angle mort."
   },
   "teams": [
    "Earth Eleven"
@@ -21926,7 +22250,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Smash forward like a rampaging beast, sending foes flying and ramming them with sheer horned force."
+   "en": "Smash forward like a rampaging beast, sending foes flying and ramming them with sheer horned force.",
+   "fr": "Chargez comme une bête déchaînée, et envoyez voler vos ennemis par la force de vos cornes."
   },
   "teams": [
    "Earth Eleven"
@@ -21952,7 +22277,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Eyes a-glow with eerie light, you slip through the shadows to snatch the ball."
+   "en": "Eyes a-glow with eerie light, you slip through the shadows to snatch the ball.",
+   "fr": "Vos yeux se mettent à luire d'une lueur inquiétante tandis que vous rôdez dans l'ombre pour voler le ballon."
   },
   "teams": [
    "Earth Eleven"
@@ -21978,7 +22304,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Plow through like an unstoppable armored juggernaut and snatch the ball with brute force."
+   "en": "Plow through like an unstoppable armored juggernaut and snatch the ball with brute force.",
+   "fr": "Percez la défense comme un colosse blindé et inarrêtable, puis usez de votre force brute pour voler le ballon."
   },
   "teams": [
    "Silica Eleven"
@@ -22006,7 +22333,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Strike relentlessly with three razor-toothed heads, snapping at the ball time and again."
+   "en": "Strike relentlessly with three razor-toothed heads, snapping at the ball time and again.",
+   "fr": "Frappez incessamment avec trois têtes aux dents acérées qui attaquent le ballon sans jamais se fatiguer."
   },
   "teams": [
    "Falam Medius"
@@ -22034,7 +22362,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Unleash a three-headed barrage to batter the ball like a crushing wave."
+   "en": "Unleash a three-headed barrage to batter the ball like a crushing wave.",
+   "fr": "Déchaînez un assaut à trois têtes pour marteler le ballon comme une vague écrasante."
   },
   "teams": [
    "Supernova"
@@ -22062,7 +22391,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Swing your massive tail with all your strength to smash back every incoming shot."
+   "en": "Swing your massive tail with all your strength to smash back every incoming shot.",
+   "fr": "Balancez votre énorme queue de toute votre force pour repousser tous les tirs dirigés vers vous."
   },
   "teams": [
    "Magmavia Eleven"
@@ -22088,7 +22418,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Scatter explosive fruits in front of the goal and blast the ball to a halt."
+   "en": "Scatter explosive fruits in front of the goal and blast the ball to a halt.",
+   "fr": "Éparpillez des fruits explosifs devant le but, et forcez le ballon à s'arrêter."
   },
   "teams": [
    "Fertilia Eleven"
@@ -22114,7 +22445,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Slam a powerful shockwave through the air to drain the shot's momentum."
+   "en": "Slam a powerful shockwave through the air to drain the shot's momentum.",
+   "fr": "Envoyez une onde puissante dans les airs pour atténuer l'élan d'un tir."
   },
   "teams": [
    "Naiadi Eleven"
@@ -22140,7 +22472,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Drive your towering frame down onto the ball, crushing it under your colossal body."
+   "en": "Drive your towering frame down onto the ball, crushing it under your colossal body.",
+   "fr": "Tel une montagne de muscles, foncez droit devant et écrasez le ballon de votre corps massif."
   },
   "teams": [
    "Big Bang"
@@ -22164,7 +22497,8 @@
   "user": [],
   "user2": [],
   "description": {
-   "en": "Let out a beastly roar and slam the ball under your massive, earth-shaking paws."
+   "en": "Let out a beastly roar and slam the ball under your massive, earth-shaking paws.",
+   "fr": "Poussez un rugissement bestial et plaquez le ballon sous vos énormes pattes capables de faire trembler le sol."
   },
   "teams": []
  },
@@ -22186,7 +22520,8 @@
   "user": [],
   "user2": [],
   "description": {
-   "en": "Raise a radiant aura-shield before the goal to block every shot."
+   "en": "Raise a radiant aura-shield before the goal to block every shot.",
+   "fr": "Devant les buts, élevez un bouclier d'aura lumineux qui arrête tous les tirs."
   },
   "teams": []
  },
@@ -22210,7 +22545,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Bear down with log-like legs, trampling the ball as you thunder toward the goal."
+   "en": "Bear down with log-like legs, trampling the ball as you thunder toward the goal.",
+   "fr": "De vos pattes aussi larges que des troncs, écrasez le ballon en fonçant vers les buts."
   },
   "teams": [
    "Earth Eleven"
@@ -22236,7 +22572,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Extend tentacle-like arms forward to form a shield-shaped energy barrier."
+   "en": "Extend tentacle-like arms forward to form a shield-shaped energy barrier.",
+   "fr": "Étendez vos bras semblables des tentacules pour former une barrière d'énergie en forme de bouclier."
   },
   "teams": [
    "Ixar Fleet"
@@ -22262,7 +22599,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Imbue the ball with the glowing prayers of the goddess, turning strong resolve into pure power."
+   "en": "Imbue the ball with the glowing prayers of the goddess, turning strong resolve into pure power.",
+   "fr": "Imprégnez le ballon des prières lumineuses de la déesse, pour transformer une détermination solide en puissance brute."
   },
   "teams": [
    "Platos"
@@ -22287,7 +22625,8 @@
   "user": [],
   "user2": [],
   "description": {
-   "en": "Catch the shot with the helping hand of a mom fed up with her study-shirking kid!"
+   "en": "Catch the shot with the helping hand of a mom fed up with her study-shirking kid!",
+   "fr": "Attrapez cette frappe grâce à l'aide d'une maman qui en a assez de son enfant qui se dérobe à ses devoirs !"
   },
   "teams": []
  },
@@ -22311,7 +22650,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Envelop your hand in a rainbow wave with the ultimate evolution of God Hand to block any shot."
+   "en": "Envelop your hand in a rainbow wave with the ultimate evolution of God Hand to block any shot.",
+   "fr": "Enveloppez votre main d'une vague arc-en-ciel grâce à l'évolution ultime de la Main Céleste pour bloquer n'importe quel tir."
   },
   "teams": [
    "Raimon"
@@ -22337,7 +22677,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Mastery of God Catch elevates the Majin to new heights, causing its rainbow aura to seal off the goal."
+   "en": "Mastery of God Catch elevates the Majin to new heights, causing its rainbow aura to seal off the goal.",
+   "fr": "La maîtrise de l'Arrêt Céleste propulse votre esprit vers de nouveaux sommets, et son aura arc-en-ciel bloque l'accès au but."
   },
   "teams": [
    "Inazuma National"
@@ -22629,7 +22970,8 @@
    "Jude Sharp"
   ],
   "description": {
-   "en": "Gather the penguins' power into the ball, then strike a fierce overhead toward the goal!"
+   "en": "Gather the penguins' power into the ball, then strike a fierce overhead toward the goal!",
+   "fr": "Combinez les forces de manchots forgés au combat pour faire une tête surpuissante."
   },
   "teams": [
    "Polestar",
@@ -22656,7 +22998,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Generate a monstrous aura and overwhelm opponents with a horrifying blow."
+   "en": "Generate a monstrous aura and overwhelm opponents with a horrifying blow.",
+   "fr": "Générez une aura monstrueuse et dominez totalement l'adversaire avec une frappe horrifique."
   },
   "teams": [
    "Rampart"
@@ -22687,7 +23030,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Line up The Wall to block opponents' dribbles and turn into a moving fortress of defence."
+   "en": "Line up The Wall to block opponents' dribbles and turn into a moving fortress of defence.",
+   "fr": "Élevez le Mur pour bloquer les dribbles des adversaires et devenir une véritable forteresse défensive"
   },
   "teams": [
    "Rampart"
@@ -22714,7 +23058,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "もっこり丘から　巨大なモアイ像が出現！相手を突き上げて　遠くへと吹き飛ばす。"
+   "en": "もっこり丘から　巨大なモアイ像が出現！相手を突き上げて　遠くへと吹き飛ばす。",
+   "fr": "Faites surgir une statue Moai géante d'un monticule pour soulever et repousser les adversaires."
   },
   "teams": [
    "Rampart"
@@ -22740,7 +23085,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Strike the ball with a flurry of kicks to sharpen the ball into a diamond-bright shot."
+   "en": "Strike the ball with a flurry of kicks to sharpen the ball into a diamond-bright shot.",
+   "fr": "Frappez le ballon d'une pluie de coups de pied jusqu'à ce que le ballon tiré brille comme un diamant."
   },
   "teams": [
    "Los Invencibles"
@@ -22768,7 +23114,8 @@
    "Billy Miller"
   ],
   "description": {
-   "en": "Kick an ice-coated ball along an arcing path to freeze the opposition in their tracks."
+   "en": "Kick an ice-coated ball along an arcing path to freeze the opposition in their tracks.",
+   "fr": "Frappez dans un ballon recouvert de glace pour lui donner une trajectoire courbée."
   },
   "teams": [
    "Backwater Raimon"
@@ -22795,7 +23142,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Send forth a giant tangle of fisty fur to entangle the ball and weaken its force."
+   "en": "Send forth a giant tangle of fisty fur to entangle the ball and weaken its force.",
+   "fr": "Envoyez un enchevêtrement de fourrure géant pour enrouler le ballon et en réduire sa puissance."
   },
   "teams": [
    "Polestar"
@@ -22823,7 +23171,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Erect a circular barrier around you to create myriad reflections and stop enemy attacks."
+   "en": "Erect a circular barrier around you to create myriad reflections and stop enemy attacks.",
+   "fr": "Élevez une barrière circulaire autour de vous pour créer une myriade de reflets pour arrêter les attaques ennemies."
   },
   "teams": [
    "Polestar"
@@ -22850,7 +23199,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Radiate a heavenly light to blind opponents and burst through in one swift move."
+   "en": "Radiate a heavenly light to blind opponents and burst through in one swift move.",
+   "fr": "Dégagez une lumière divine pour aveugler les adversaires et passer devant eux d'un seul coup."
   },
   "teams": [
    "Polestar"
@@ -22877,7 +23227,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Spin the ball with both feet to charge energy and fire it like a devastating plasma cannon."
+   "en": "Spin the ball with both feet to charge energy and fire it like a devastating plasma cannon.",
+   "fr": "Faites tournoyer le ballon des deux pieds pour le charger d'énergie avant de le catapulter tel un tir de canon plasma."
   },
   "teams": [
    "Polestar"
@@ -22904,7 +23255,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Summon swirling waves that coalesce and form a colossal hand to reel in incoming shots."
+   "en": "Summon swirling waves that coalesce and form a colossal hand to reel in incoming shots.",
+   "fr": "Invoquez des vagues tourbillonnantes qui se rassemblent et forment une main colossale qui attrape les tirs à l'approche."
   },
   "teams": [
    "Backwater Raimon"
@@ -22930,7 +23282,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Whip up a tornado with nimble footwork to weaken the ball and seize it instantly."
+   "en": "Whip up a tornado with nimble footwork to weaken the ball and seize it instantly.",
+   "fr": "Créez une tornade grâce à votre jeu de jambes pour stopper l'adversaire et attraper le ballon instantanément."
   },
   "teams": [
    "Backwater Raimon"
@@ -22957,7 +23310,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Strike with fangs from every part of your body to hunt your prey in bestial style."
+   "en": "Strike with fangs from every part of your body to hunt your prey in bestial style.",
+   "fr": "Bloquez le tir de votre adversaire de tous vos crocs avec cette technique, comme un prédateur traquant sa proie, d'où son nom bestial."
   },
   "teams": [
    "Royal Academy (Ares)"
@@ -22987,7 +23341,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Pool the power of three to summon a black hole,sucking in the opponent's shot."
+   "en": "Pool the power of three to summon a black hole,sucking in the opponent's shot.",
+   "fr": "Rassemblez la puissance de trois joueurs pour invoquer un trou noir qui avale le tir de l'adversaire."
   },
   "teams": [
    "Backwater Raimon"
@@ -23013,7 +23368,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Unite elite forces into the ball to form a flawless penguin that rushes straight for the goal."
+   "en": "Unite elite forces into the ball to form a flawless penguin that rushes straight for the goal.",
+   "fr": "Rassemblez des forces d'élite dans le ballon pour former un manchot parfait qui fonce vers les buts."
   },
   "teams": [
    "Polestar",
@@ -23040,7 +23396,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Toss opponents into a lightning-charged tornado to shock them, then surge past."
+   "en": "Toss opponents into a lightning-charged tornado to shock them, then surge past.",
+   "fr": "Enveloppez les adversaires dans une tornade chargée d'électricité qui les immobilise et vous permet de passer sous leur nez."
   },
   "teams": [
    "Backwater Raimon"
@@ -23067,7 +23424,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Harnessing the power of the sun, this overhead kick turns the ball into a radiant bird that flies forth with unstoppable force."
+   "en": "Harnessing the power of the sun, this overhead kick turns the ball into a radiant bird that flies forth with unstoppable force.",
+   "fr": "En exploitant la puissance du soleil, cette frappe retournée transforme le ballon en oiseau rayonnant qui s'envole et devient inarrêtable."
   },
   "teams": [
    "Backwater Raimon"
@@ -23095,7 +23453,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Leap skyward with the power of your allies and smash the ball down in a meteor-like overhead strike."
+   "en": "Leap skyward with the power of your allies and smash the ball down in a meteor-like overhead strike.",
+   "fr": "Bondissez vers le ciel grâce au pouvoir de vos alliés et renvoyez le ballon vers le sol comme si c'était un météore frappé d'un coup de pied retourné."
   },
   "teams": [
    "Backwater Raimon"
@@ -23122,7 +23481,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Raise a shield forged from unwavering loyalty that grows brighter and stronger with your heart."
+   "en": "Raise a shield forged from unwavering loyalty that grows brighter and stronger with your heart.",
+   "fr": "Élevez un bouclier forgé de loyauté inébranlable, aussi brillant et fort que votre cœur."
   },
   "teams": [
    "Lunar Prime"
@@ -23150,7 +23510,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Spread your wings and strike from the sky with an overhead that slices through air to pierce the goal."
+   "en": "Spread your wings and strike from the sky with an overhead that slices through air to pierce the goal.",
+   "fr": "Déployez vos ailes et frappez du ciel avec un coup de pied retourné qui fend le vent et transperce les buts."
   },
   "teams": [
    "Zeus (Ares)"
@@ -23176,7 +23537,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Call upon the beauty and lightning of the heavens to rock the earth and mark the dawn of a new myth."
+   "en": "Call upon the beauty and lightning of the heavens to rock the earth and mark the dawn of a new myth.",
+   "fr": "Invoquez la beauté et le tonnerre du ciel pour faire trembler la terre et marquer l'aube d'un nouveau mythe."
   },
   "teams": [
    "Zeus (Ares)"
@@ -23203,7 +23565,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Smash the ground with all your might, sinking the goalposts and deflecting the shot."
+   "en": "Smash the ground with all your might, sinking the goalposts and deflecting the shot.",
+   "fr": "Frappez le sol de toutes vos forces jusqu'à ce que les poteaux s'enfoncent dans le sol et repoussent le tir."
   },
   "teams": [
    "Polestar"
@@ -23231,7 +23594,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Unleash a beastly shot that bares its fangs at the goal, capable of felling even a bear."
+   "en": "Unleash a beastly shot that bares its fangs at the goal, capable of felling even a bear.",
+   "fr": "Déchaînez un tir bestial qui grogne en direction des buts et pourrait faire peur à un ours."
   },
   "teams": [
    "Alpine (Ares)",
@@ -23258,7 +23622,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Charge forward with a rabbit-like sprint and deliver a springing kick full of flair."
+   "en": "Charge forward with a rabbit-like sprint and deliver a springing kick full of flair.",
+   "fr": "Foncez tout droit aussi vite qu'un lapin, et catapultez un tir sauté tout en dextérité."
   },
   "teams": [
    "Alpine (Ares)"
@@ -23286,7 +23651,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Strike with a sharp, freezing kick to unleash a three-fold blizzard at the goal."
+   "en": "Strike with a sharp, freezing kick to unleash a three-fold blizzard at the goal.",
+   "fr": "Frappez d'un puissant coup de pied glacé pour déchaîner un blizzard triple dans les buts."
   },
   "teams": [
    "Alpine (Ares)"
@@ -23313,7 +23679,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Dive beneath the waves and dance like a mermaid, wrapping the ball in a veil of water to stop it."
+   "en": "Dive beneath the waves and dance like a mermaid, wrapping the ball in a veil of water to stop it.",
+   "fr": "Plongez sous les vagues et dansez comme une sirène tout en enroulant le ballon d'un voile d'eau pour l'arrêter."
   },
   "teams": [
    "Backwater Raimon",
@@ -23340,7 +23707,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Confuse the goalkeeper with a fierce bouncing shot fueled by the might of a giant ???."
+   "en": "Confuse the goalkeeper with a fierce bouncing shot fueled by the might of a giant ???.",
+   "fr": "Mystifiez le gardien de but avec un tir à rebond nourri par la puissance d'un crapaud ninja géant."
   },
   "teams": [
    "Backwater Raimon"
@@ -23367,7 +23735,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Channel the rhythm and intensity of a perfect duo dance into a dazzling, unstoppable shot."
+   "en": "Channel the rhythm and intensity of a perfect duo dance into a dazzling, unstoppable shot.",
+   "fr": "Suivez le rythme et l'intensité d'un duo dansant pour un tir éclatant et inarrêtable."
   },
   "teams": [
    "Backwater Raimon"
@@ -23393,7 +23762,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Charge the ball with rapid kicks, then unleash a powerful blast shot!"
+   "en": "Charge the ball with rapid kicks, then unleash a powerful blast shot!",
+   "fr": "Chargez le ballon à l'aide de coups de pied rapides, puis frappez un puissant coup !"
   },
   "teams": [
    "Alia Academy",
@@ -23420,7 +23790,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Become lightning itself, and fire a shot that reaches the heavens!"
+   "en": "Become lightning itself, and fire a shot that reaches the heavens!",
+   "fr": "Devenez un éclair, et tirez directement vers les cieux !"
   },
   "teams": [
    "Alia Academy"
@@ -23477,7 +23848,8 @@
    "Basile Hardy"
   ],
   "description": {
-   "en": "Launch a shot of unfathomable power that transforms into a dragon, thrashing toward the goal."
+   "en": "Launch a shot of unfathomable power that transforms into a dragon, thrashing toward the goal.",
+   "fr": "Propulsez un tir à la puissance invraisemblable qui se transforme en dragon enragé qui fonce vers le but."
   },
   "teams": [
    "Inazuma National War God"
@@ -23533,7 +23905,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Summon a tornado with three allies and send cloned balls hurtling at the goal from three directions."
+   "en": "Summon a tornado with three allies and send cloned balls hurtling at the goal from three directions.",
+   "fr": "Invoquez une tornade à l'aide de trois alliés, et envoyez des ballons clones qui sont catapultés vers le but depuis trois directions différentes."
   },
   "teams": [
    "Backwater Raimon"
@@ -23560,7 +23933,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Lure opponents into a massive labyrinth and slip past while they're lost in your cunning dribble."
+   "en": "Lure opponents into a massive labyrinth and slip past while they're lost in your cunning dribble.",
+   "fr": "Attirez les adversaires dans un immense labyrinthe et profitez qu'ils soient perdus dans votre dribble sournois pour filer devant eux."
   },
   "teams": [
    "Backwater Raimon"
@@ -23588,7 +23962,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Charge the ball with overflowing cold and turn it into unbreakable ice that pierces the goal."
+   "en": "Charge the ball with overflowing cold and turn it into unbreakable ice that pierces the goal.",
+   "fr": "Chargez le ballon d'un froid débordant et transformez-le en glace incassable qui déchire le filet."
   },
   "teams": [
    "Backwater Raimon",
@@ -23615,7 +23990,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Add explosive fizz to a Fire Tornado shot and unleash a deceptively powerful strike."
+   "en": "Add explosive fizz to a Fire Tornado shot and unleash a deceptively powerful strike.",
+   "fr": "Ajoutez une effervescence explosive à Tornade de feu et frappez un tir étonnamment dévastateur."
   },
   "teams": [
    "Backwater Raimon"
@@ -23642,7 +24018,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Unleash an arm-like aura to snatch any shot from the air—no matter the angle."
+   "en": "Unleash an arm-like aura to snatch any shot from the air—no matter the angle.",
+   "fr": "Déchaînez une aura en forme de bras pour attraper chaque tir dans les airs, sous tous les angles."
   },
   "teams": [
    "Lunar Prime"
@@ -23669,7 +24046,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Ignite your foot with flames and kick the ball with scorching force for a fierce, direct shot at the goal."
+   "en": "Ignite your foot with flames and kick the ball with scorching force for a fierce, direct shot at the goal.",
+   "fr": "Enflammez votre pied et brûlez le ballon lors d'un puissant tir direct qui finit dans les buts."
   },
   "teams": [
    "Raging Bulls"
@@ -23700,7 +24078,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Spin at blazing speed to create five colossal tornadoes and snatch the ball away."
+   "en": "Spin at blazing speed to create five colossal tornadoes and snatch the ball away.",
+   "fr": "Séparez-vous en cinq silhouettes brûlantes qui deviennent une tornade colossale et volent le ballon."
   },
   "teams": [
    "Inazuma National War God"
@@ -23756,7 +24135,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Charge forward as a trio, kicking up a cloud of dust and trampling opponents like raging bulls."
+   "en": "Charge forward as a trio, kicking up a cloud of dust and trampling opponents like raging bulls.",
+   "fr": "À trois, foncez tout droit comme des taureaux enragés et soulevez un nuage de poussière tout en écrasant vos adversaires."
   },
   "teams": [
    "Raging Bulls"
@@ -23838,7 +24218,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Split the ball into five parts and send them flying toward the keeper in a dazzling display."
+   "en": "Split the ball into five parts and send them flying toward the keeper in a dazzling display.",
+   "fr": "Fendez le ballon en cinq et envoyez chaque morceau directement sur le gardien ébloui."
   },
   "teams": [
    "Inazuma National War God"
@@ -23864,7 +24245,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Gather solar energy to forge a guillotine and cut the ball with a scorching blade."
+   "en": "Gather solar energy to forge a guillotine and cut the ball with a scorching blade.",
+   "fr": "Rassemblez de l'énergie solaire pour forger une guillotine qui découpe le ballon d'une lame brûlante."
   },
   "teams": [
    "Fallen Angels"
@@ -23918,7 +24300,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Envelop the ball in a holy melody of light and sound, then strike it to purify everything in its path."
+   "en": "Envelop the ball in a holy melody of light and sound, then strike it to purify everything in its path.",
+   "fr": "Frappez le ballon, enveloppé d'une mélodie sacrée de lumière et de son, purifiant tout sur son passage d'un coup sacré."
   },
   "teams": [
    "Eternal Dancers"
@@ -23945,7 +24328,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Ensnare the ball in a flawless, mesmerizing melody, controlling it and stopping it cold."
+   "en": "Ensnare the ball in a flawless, mesmerizing melody, controlling it and stopping it cold.",
+   "fr": "Enfermez le tir dans une parfaite mélodie hypnotisante qui contrôle le ballon et l'arrête brusquement."
   },
   "teams": [
    "Eternal Dancers"
@@ -23973,7 +24357,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Infuse the ball with lunar power and whip it into a curving arc toward the goal."
+   "en": "Infuse the ball with lunar power and whip it into a curving arc toward the goal.",
+   "fr": "Remplissez le ballon d'énergie lunaire et propulsez-le dans les buts d'une trajectoire parfaitement courbée."
   },
   "teams": [
    "Lunar Prime"
@@ -24001,7 +24386,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Draw a royal crest in the air to unleash your determination and defend the goal at all costs."
+   "en": "Draw a royal crest in the air to unleash your determination and defend the goal at all costs.",
+   "fr": "Tracez un sceau royal dans le vide et déchaînez votre détermination pour défendre les buts à tout prix."
   },
   "teams": [
    "Inazuma National War God"
@@ -24028,7 +24414,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Hammer a swirling corona of solar fire down onto the ball with dynamic force."
+   "en": "Hammer a swirling corona of solar fire down onto the ball with dynamic force.",
+   "fr": "Propulsez une colonne de feu solaire tournoyant qui frappe le ballon avec dynamisme."
   },
   "teams": [
    "Arabian Firebirds"
@@ -24054,7 +24441,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Launch a flaming header that transforms into a firebird, gliding fiercely toward the goal."
+   "en": "Launch a flaming header that transforms into a firebird, gliding fiercely toward the goal.",
+   "fr": "Lancez une tête enflammée qui se transforme en oiseau de feu et fond férocement vers les buts."
   },
   "teams": [
    "Arabian Firebirds"
@@ -24080,7 +24468,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Rain down a massive meteor from the sky, blanketing the ground in shock and flame."
+   "en": "Rain down a massive meteor from the sky, blanketing the ground in shock and flame.",
+   "fr": "Faites surgir un énorme météore du ciel, recouvrant le terrain de choc et de flammes."
   },
   "teams": [
    "Arabian Firebirds"
@@ -24109,7 +24498,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Merge three beings into one and behold the great Majin's descent, six arms ready to stop any incoming shot."
+   "en": "Merge three beings into one and behold the great Majin's descent, six arms ready to stop any incoming shot.",
+   "fr": "Fusionnez trois génies en un, le descendant d'Asura ! Ses six bras peuvent arrêter tous les tirs."
   },
   "teams": [
    "Inazuma National War God"
@@ -24163,7 +24553,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Sweep every approaching shot aside with a colossal iron fan infused with the power of a mighty dragon."
+   "en": "Sweep every approaching shot aside with a colossal iron fan infused with the power of a mighty dragon.",
+   "fr": "Repoussez tous les tirs qui arrivent à l'aide d'un éventail de fer colossal alimenté par la puissance d'un incroyable dragon."
   },
   "teams": [
    "Avenging Acrobats"
@@ -24191,7 +24582,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Transform into a colossal lion and snap at opponents to seize the ball."
+   "en": "Transform into a colossal lion and snap at opponents to seize the ball.",
+   "fr": "Transformez-vous en lion colossal qui attaque chaque ennemi pour lui voler le ballon."
   },
   "teams": [
    "Avenging Acrobats"
@@ -24217,7 +24609,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Strike with a blow carrying the hopes of your allies, sending the ball soaring onward with overwhelming power."
+   "en": "Strike with a blow carrying the hopes of your allies, sending the ball soaring onward with overwhelming power.",
+   "fr": "Envoyez un tir qui contient tous les espoirs de vos alliés et fait s'envoler le ballon."
   },
   "teams": [
    "Inazuma National War God"
@@ -24245,7 +24638,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Cloak the ball in a dark aura and launch a sharp strike that attacks the keeper like a feral shark."
+   "en": "Cloak the ball in a dark aura and launch a sharp strike that attacks the keeper like a feral shark.",
+   "fr": "Enveloppez le ballon d'une aura maléfique et frappez si fort que le tir attaque le gardien comme si c'était un requin fou."
   },
   "teams": [
    "Inazuma National War God"
@@ -24273,7 +24667,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Unleash a full-power shot with devastating force capable of splitting the heavens and rending the earth."
+   "en": "Unleash a full-power shot with devastating force capable of splitting the heavens and rending the earth.",
+   "fr": "Propulsez un tir surpuissant et dévastateur, capable de déchirer le ciel et arracher la terre."
   },
   "teams": [
    "Avenging Acrobats"
@@ -24328,7 +24723,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Expand your aura and take on a gel-like form to absorb the force of every shot coming your way."
+   "en": "Expand your aura and take on a gel-like form to absorb the force of every shot coming your way.",
+   "fr": "Prenez la consistance de la gélatine pour saper la puissance des tirs qui arrivent vers vous."
   },
   "teams": [
    "Los Invencibles"
@@ -24355,7 +24751,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Cloak the ball in a raging blizzard and unleash ursine forbidden might."
+   "en": "Cloak the ball in a raging blizzard and unleash ursine forbidden might.",
+   "fr": "Plongez le ballon dans un violent blizzard, puis frappez-le avec la force écrasante d'un ours."
   },
   "teams": [
    "Inazuma National War God"
@@ -24382,7 +24779,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Harden your arm into diamond to snatch the ball with a technique both rigid and remarkably fluid."
+   "en": "Harden your arm into diamond to snatch the ball with a technique both rigid and remarkably fluid.",
+   "fr": "Durcissez votre bras qui devient un diamant capable d'arrêter le ballon avec un geste rigide qui semble pourtant remarquablement souple."
   },
   "teams": [
    "Inazuma National War God"
@@ -24408,7 +24806,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Polish the ball with a diamond-hardened kick to send it arcing just before the goal."
+   "en": "Polish the ball with a diamond-hardened kick to send it arcing just before the goal.",
+   "fr": "Frappez le ballon d'une pluie de coups de pied jusqu'à ce que le ballon tiré brille comme un diamant."
   },
   "teams": [
    "Los Invencibles"
@@ -24435,7 +24834,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Split the ball and drill through with a glowing, high-intensity combination strike."
+   "en": "Split the ball and drill through with a glowing, high-intensity combination strike.",
+   "fr": "Fendez le ballon en deux et propulsez-le comme deux tornades qui percent toutes les barrières."
   },
   "teams": [
    "Los Invencibles"
@@ -24464,7 +24864,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Gather swirling winds into the ball and launch it from the heavens toward the goal."
+   "en": "Gather swirling winds into the ball and launch it from the heavens toward the goal.",
+   "fr": "Rassemblez des vents tourbillonnants qui se nichent dans le ballon et le propulsent vers les buts depuis les cieux."
   },
   "teams": [
    "Inazuma National War God"
@@ -24522,7 +24923,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Harness the raw fury of a swirling tornado to deliver a rough but devastating shot."
+   "en": "Harness the raw fury of a swirling tornado to deliver a rough but devastating shot.",
+   "fr": "Déclenchez la fureur de la nature sous la forme d'une tornade enragée à la puissance brute et éblouissante."
   },
   "teams": [
    "Inazuma National War God"
@@ -24548,7 +24950,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Merge countless blue stars into a single streak of light racing across the pitch."
+   "en": "Merge countless blue stars into a single streak of light racing across the pitch.",
+   "fr": "Devenez une étoile filante au sein d'une pluie de météores bleue qui éblouit tout le monde et vous permet de traverser le terrain."
   },
   "teams": [
    "Inazuma National War God"
@@ -24577,7 +24980,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Shape your inner force into blazing sunlight and drive the ball toward the goal in blinding light."
+   "en": "Shape your inner force into blazing sunlight and drive the ball toward the goal in blinding light.",
+   "fr": "Modelez votre force intérieure en soleil brûlant qui baigne le ballon dans une lumière aveuglante, emportant tout sur son passage."
   },
   "teams": [
    "Inazuma National War God",
@@ -24609,7 +25013,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Send four dragons spiraling toward the goal with destructive power beyond human reckoning."
+   "en": "Send four dragons spiraling toward the goal with destructive power beyond human reckoning.",
+   "fr": "Envoyez quatre dragons à la puissance destructrice inhumaine qui partent en spirale vers le but."
   },
   "teams": [
    "Inazuma National War God",
@@ -24636,7 +25041,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Strike alongside a shadowy double in a high-speed twin shot that hits with double power."
+   "en": "Strike alongside a shadowy double in a high-speed twin shot that hits with double power.",
+   "fr": "En parfaite harmonie avec un clone d'aura, frappez un coup de pied double absolument dévastateur."
   },
   "teams": [
    "Orion Eclipse"
@@ -24721,7 +25127,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Combine forces with a teammate to unleash a devastating blizzard-class shot that glimmers in silvery radiance."
+   "en": "Combine forces with a teammate to unleash a devastating blizzard-class shot that glimmers in silvery radiance.",
+   "fr": "Alliez-vous à un camarade pour déchaîner un tir de classe blizzard qui scintille d'une lueur argentée sublime."
   },
   "teams": [
    "Alpine (Ares)"
@@ -24777,7 +25184,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Send the ball streaking like a meteor to produce a supernova-level strike of unimaginable power."
+   "en": "Send the ball streaking like a meteor to produce a supernova-level strike of unimaginable power.",
+   "fr": "Catapultez le ballon comme un météore pour un tir digne d'une supernova au pouvoir indescriptible."
   },
   "teams": [
    "Alia Academy",
@@ -24807,7 +25215,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Kick in sync with a shot clad in ice to drive a colossal lance of darkness straight into the net."
+   "en": "Kick in sync with a shot clad in ice to drive a colossal lance of darkness straight into the net.",
+   "fr": "Frappez en synchronisation avec un tir de glace pour projeter une immense lance de ténèbres dans les filets."
   },
   "teams": [
    "Inazuma National War God"
@@ -24836,7 +25245,8 @@
   ],
   "user2": [],
   "description": {
-   "en": "Merge countless shields into a single fortress, deflecting shots from every direction."
+   "en": "Merge countless shields into a single fortress, deflecting shots from every direction.",
+   "fr": "Assemblez d'innombrables boucliers pour former une seule forteresse, capable de dévier les tirs venant de toutes les directions."
   },
   "teams": [
    "Inazuma National War God"
