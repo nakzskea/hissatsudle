@@ -44,10 +44,8 @@ body {
 
 .logo {
   margin: 0;
-  font: 800 clamp(1.9rem, 5vw, 3.1rem)/1 var(--font-title), sans-serif;
+  font: 100 clamp(1.9rem, 5vw, 3.1rem)/1 var(--font-title), sans-serif;
   color: #fff;
-  letter-spacing: -0.02em;
-  text-transform: uppercase;
   text-shadow: 0 3px 0 #0a1738, 0 0 18px rgba(255, 203, 46, 0.5);
 }
 .logo b { color: var(--gold); }
