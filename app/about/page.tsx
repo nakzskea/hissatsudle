@@ -8,13 +8,16 @@ export default function Page() {
         fr: (
           <>
             <p>
-              Bonjour ! Je suis Milan, développeur full-stack et fan d&apos;Inazuma Eleven. J&apos;ai créé HissatsuDle pour m&apos;amuser et partager ma passion avec d&apos;autres fans.
+              Bonjour ! Je suis Milan, développeur full-stack et fan d&apos;Inazuma Eleven. J&apos;ai créé HissatsuDle et HissatsuDoku pour m&apos;amuser et partager ma passion avec d&apos;autres fans.
             </p>
             <p>
               L&apos;idée m&apos;est venue après avoir joué à <a href="https://www.inazumadle.com/" target="_blank" rel="noopener">InazumaDle</a>, un jeu de devinettes sur les joueurs d&apos;Inazuma Eleven. J&apos;ai voulu créer ma propre version, centré sur les techniques spéciales (hissatsu) de la licence !
             </p>
             <p>
-              Ce jeu prend également comme inspiration le jeu <a href="https://www.gamedle.wtf/" target="_blank" rel="noopener">Gamedle</a> pour le concept des indices.
+              HissatsuDoku prend comme inspiration les jeux <a href="https://metrodoku.fr/" target="_blank" rel="noopener">métrodoku</a> et <a href="https://loldoku.com/" target="_blank" rel="noopener">loldoku</a>, et plus globalement les jeux de devinettes à grilles.
+            </p>
+            <p>
+              HissatsuDle prend également comme inspiration le jeu <a href="https://www.gamedle.wtf/" target="_blank" rel="noopener">Gamedle</a> pour le concept des indices.
             </p>
             <p>
               Les images des techniques proviennent des jeux ou de l&apos;anime Inazuma Eleven. Les icônes des équipes, des personnages, des caractéristiques, des types et des éléments sont issues du wiki Inazuma Eleven (<a href="https://inazuma-eleven.fandom.com/fr/wiki/Wiki_Inazuma_Eleven" target="_blank" rel="noopener">français</a> et <a href="https://inazuma-eleven.fandom.com/wiki/Inazuma_Eleven_Wiki" target="_blank" rel="noopener">anglais</a>) et du <a href="https://zukan.inazuma.jp" target="_blank" rel="noopener">Zukan officiel</a> des personnages.
@@ -36,13 +39,16 @@ export default function Page() {
         en: (
           <>
             <p>
-              Hi! I&apos;m Milan, a full-stack developer and an Inazuma Eleven fan. I built HissatsuDle for fun, to share what I love about the series with other fans.
+              Hi! I&apos;m Milan, a full-stack developer and an Inazuma Eleven fan. I built HissatsuDle and HissatsuDoku for fun, to share what I love about the series with other fans.
             </p>
             <p>
               The idea came after playing <a href="https://www.inazumadle.com/" target="_blank" rel="noopener">InazumaDle</a>, a guessing game about Inazuma Eleven players. I wanted my own version, built around the series&apos; special moves (hissatsu)!
             </p>
             <p>
-              The game also takes inspiration from <a href="https://www.gamedle.wtf/" target="_blank" rel="noopener">Gamedle</a> for how the hints work.
+              HissatsuDoku takes inspiration from <a href="https://metrodoku.fr/" target="_blank" rel="noopener">métrodoku</a> and <a href="https://loldoku.com/" target="_blank" rel="noopener">loldoku</a>, and a lot of other grid guessing games.
+            </p>
+            <p>
+              HissatsuDle also takes inspiration from <a href="https://www.gamedle.wtf/" target="_blank" rel="noopener">Gamedle</a> for how the hints work.
             </p>
             <p>
               Technique pictures come from the Inazuma Eleven games or anime. Team, character, characteristic, type and element icons come from the Inazuma Eleven wiki (<a href="https://inazuma-eleven.fandom.com/fr/wiki/Wiki_Inazuma_Eleven" target="_blank" rel="noopener">French</a> and <a href="https://inazuma-eleven.fandom.com/wiki/Inazuma_Eleven_Wiki" target="_blank" rel="noopener">English</a>) and from the official character <a href="https://zukan.inazuma.jp" target="_blank" rel="noopener">Zukan</a>.

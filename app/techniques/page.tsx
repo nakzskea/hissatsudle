@@ -50,7 +50,7 @@ export default function Techniques() {
         left={
           <>
             <HomeLink>HissatsuDle</HomeLink>
-            <Link className="badge" href="/grille">
+            <Link className="badge" href="/hissatsudoku">
               <span>HissatsuDoku</span>
             </Link>
           </>

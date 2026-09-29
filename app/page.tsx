@@ -144,7 +144,7 @@ export default function Game() {
             <button className={`badge ${mode === "endless" ? "on" : ""}`} onClick={() => setMode("endless")}>
               <span>{t(lang, "endless")}</span>
             </button>
-            <Link className="badge" href="/grille">
+            <Link className="badge" href="/hissatsudoku">
               <span>HissatsuDoku</span>
             </Link>
           </>
