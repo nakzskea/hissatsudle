@@ -1,6 +1,6 @@
 "use client";
 import type { Cell, Data, Lang } from "@/lib/data";
-import { iconSrc, teamName } from "@/lib/data";
+import { iconSrc, teamName, t } from "@/lib/data";
 
 // Icône officielle avec repli sur le fichier de base si la variante FR n'existe pas
 export function Icon({ icons, field, value, label, lang, className = "icon" }:
@@ -64,4 +64,17 @@ export function CellView({ cell, data, lang, empty }: { cell: Cell; data: Data; 
       {cell.arrow && <img className="arrow" src={cell.arrow === "↑" ? "/icones/up.png" : "/icones/down.png"} alt={cell.arrow} />}
     </>
   );
+}
+
+const FIELD: Record<string, string> = { game: "game", type: "type", element: "element", char: "characteristic" };
+
+export function Crit({ crit, data, lang }: { crit: string; data: Data; lang: Lang }) {
+  const i = crit.indexOf(":");
+  const [fam, v] = [crit.slice(0, i), crit.slice(i + 1)];
+  if (FIELD[fam])
+    return <Icon icons={data.icons} field={FIELD[fam]} value={v}
+      label={fam === "game" ? v : t(lang, fam === "char" && v === "Block" ? "cBlock" : v)} lang={lang} />;
+  if (fam === "team") return <Emblem name={v} data={data} lang={lang} />;
+  if (fam === "user") return <Sprite name={v} chars={data.chars} />;
+  return <span className="txt">{t(lang, fam === "players" ? `p${v}` : v === "yes" ? "excl" : "notExcl")}</span>;
 }

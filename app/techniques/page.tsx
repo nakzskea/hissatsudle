@@ -42,7 +42,7 @@ export default function Techniques() {
 
   return (
     <>
-      <Banner title={t(lang, "techniques")} lang={lang} setLang={setLang} left={<HomeLink>← {t(lang, "game")}</HomeLink>} />
+      <Banner title={t(lang, "techniques")} lang={lang} setLang={setLang} left={<HomeLink>HissatsuDle</HomeLink>} />
       <main>
         <section className="panel filters">
           <input value={q} onChange={(e) => setQ(e.target.value)} placeholder={t(lang, "searchAll")} />

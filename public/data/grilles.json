@@ -1,0 +1,6002 @@
+[
+ {
+  "rows": [
+   "user:Jack Wallside",
+   "team:Inazuma National",
+   "user:Jude Sharp"
+  ],
+  "cols": [
+   "exclusive:no",
+   "players:3",
+   "players:2"
+  ]
+ },
+ {
+  "rows": [
+   "user:Victor Blade",
+   "element:Forest",
+   "type:Block"
+  ],
+  "cols": [
+   "game:GO",
+   "exclusive:no",
+   "team:Earth Eleven"
+  ]
+ },
+ {
+  "rows": [
+   "user:Shawn Froste",
+   "char:Chain",
+   "team:Neo National"
+  ],
+  "cols": [
+   "exclusive:no",
+   "type:Shoot",
+   "element:Wind"
+  ]
+ },
+ {
+  "rows": [
+   "type:Dribble",
+   "char:Block",
+   "players:2"
+  ],
+  "cols": [
+   "element:Fire",
+   "team:Inazuma National",
+   "element:Wind"
+  ]
+ },
+ {
+  "rows": [
+   "team:Inazuma National",
+   "game:IE2",
+   "game:IE3"
+  ],
+  "cols": [
+   "user:Nathan Swift",
+   "type:Block",
+   "element:Fire"
+  ]
+ },
+ {
+  "rows": [
+   "exclusive:no",
+   "user:Jude Sharp",
+   "players:2"
+  ],
+  "cols": [
+   "element:Forest",
+   "game:IE",
+   "team:Inazuma National War God"
+  ]
+ },
+ {
+  "rows": [
+   "user:Mark Evans",
+   "team:Inazuma National War God",
+   "char:Block"
+  ],
+  "cols": [
+   "players:1",
+   "element:Mountain",
+   "element:Forest"
+  ]
+ },
+ {
+  "rows": [
+   "players:2",
+   "user:Mark Evans",
+   "exclusive:no"
+  ],
+  "cols": [
+   "element:Mountain",
+   "team:Inazuma National War God",
+   "game:VR"
+  ]
+ },
+ {
+  "rows": [
+   "char:Long",
+   "user:David Samford",
+   "type:Dribble"
+  ],
+  "cols": [
+   "game:IE",
+   "element:Forest",
+   "players:3"
+  ]
+ },
+ {
+  "rows": [
+   "game:IE2",
+   "game:IE3",
+   "element:Fire"
+  ],
+  "cols": [
+   "user:Mark Evans",
+   "type:Catch",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "element:Forest",
+   "user:Arion Sherwind",
+   "element:Mountain"
+  ],
+  "cols": [
+   "players:1",
+   "game:GO",
+   "type:Shoot"
+  ]
+ },
+ {
+  "rows": [
+   "game:CS",
+   "team:Inazuma National War God",
+   "type:Block"
+  ],
+  "cols": [
+   "element:Mountain",
+   "element:Wind",
+   "element:Fire"
+  ]
+ },
+ {
+  "rows": [
+   "team:Inazuma National",
+   "user:Axel Blaze",
+   "user:Shawn Froste"
+  ],
+  "cols": [
+   "exclusive:no",
+   "game:IE2",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "element:Fire",
+   "game:GO",
+   "user:Xavier Foster"
+  ],
+  "cols": [
+   "players:3",
+   "players:1",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "user:Arion Sherwind",
+   "team:Inazuma National",
+   "game:GO"
+  ],
+  "cols": [
+   "players:1",
+   "element:Fire",
+   "players:3"
+  ]
+ },
+ {
+  "rows": [
+   "team:Raimon",
+   "game:IE",
+   "players:3"
+  ],
+  "cols": [
+   "element:Wind",
+   "user:Mark Evans",
+   "element:Forest"
+  ]
+ },
+ {
+  "rows": [
+   "user:Basile Hardy",
+   "game:CS",
+   "team:Raimon"
+  ],
+  "cols": [
+   "players:1",
+   "exclusive:no",
+   "players:3"
+  ]
+ },
+ {
+  "rows": [
+   "type:Dribble",
+   "type:Catch",
+   "char:Block"
+  ],
+  "cols": [
+   "team:Revolutionary Raimon",
+   "game:GO",
+   "team:Inazuma National"
+  ]
+ },
+ {
+  "rows": [
+   "element:Fire",
+   "game:CS",
+   "team:Inazuma National"
+  ],
+  "cols": [
+   "players:2",
+   "type:Catch",
+   "type:Block"
+  ]
+ },
+ {
+  "rows": [
+   "element:Mountain",
+   "team:Backwater Raimon",
+   "game:IE2"
+  ],
+  "cols": [
+   "type:Shoot",
+   "players:1",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "user:Nathan Swift",
+   "team:Raimon",
+   "char:Block"
+  ],
+  "cols": [
+   "element:Wind",
+   "type:Block",
+   "game:IE2"
+  ]
+ },
+ {
+  "rows": [
+   "user:Arion Sherwind",
+   "type:Block",
+   "team:Revolutionary Raimon"
+  ],
+  "cols": [
+   "players:1",
+   "element:Fire",
+   "game:GO"
+  ]
+ },
+ {
+  "rows": [
+   "element:Forest",
+   "user:Axel Blaze",
+   "user:Jack Wallside"
+  ],
+  "cols": [
+   "char:Block",
+   "players:3",
+   "game:IE"
+  ]
+ },
+ {
+  "rows": [
+   "game:IE2",
+   "team:Inazuma National",
+   "user:Mark Evans"
+  ],
+  "cols": [
+   "players:3",
+   "players:1",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "element:Forest",
+   "user:Jack Wallside",
+   "team:Raimon"
+  ],
+  "cols": [
+   "game:IE",
+   "players:2",
+   "game:IE2"
+  ]
+ },
+ {
+  "rows": [
+   "user:Bailong",
+   "players:2",
+   "char:Long"
+  ],
+  "cols": [
+   "exclusive:yes",
+   "exclusive:no",
+   "element:Void"
+  ]
+ },
+ {
+  "rows": [
+   "team:Raimon",
+   "user:Nathan Swift",
+   "game:IE2"
+  ],
+  "cols": [
+   "element:Wind",
+   "type:Shoot",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "user:Hurley Kane",
+   "char:Chain",
+   "game:IE"
+  ],
+  "cols": [
+   "players:1",
+   "exclusive:no",
+   "team:Raimon"
+  ]
+ },
+ {
+  "rows": [
+   "game:GX",
+   "team:Earth Eleven",
+   "user:Arion Sherwind"
+  ],
+  "cols": [
+   "type:Dribble",
+   "type:Shoot",
+   "element:Mountain"
+  ]
+ },
+ {
+  "rows": [
+   "user:Victor Blade",
+   "user:Arion Sherwind",
+   "element:Wind"
+  ],
+  "cols": [
+   "players:3",
+   "team:Revolutionary Raimon",
+   "team:Earth Eleven"
+  ]
+ },
+ {
+  "rows": [
+   "team:Raimon",
+   "exclusive:no",
+   "user:Kevin Dragonfly"
+  ],
+  "cols": [
+   "element:Forest",
+   "players:1",
+   "type:Shoot"
+  ]
+ },
+ {
+  "rows": [
+   "team:Inazuma National War God",
+   "user:Nathan Swift",
+   "team:Inazuma National"
+  ],
+  "cols": [
+   "type:Shoot",
+   "players:2",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "type:Dribble",
+   "type:Block",
+   "char:Chain"
+  ],
+  "cols": [
+   "element:Wind",
+   "exclusive:yes",
+   "team:Raimon"
+  ]
+ },
+ {
+  "rows": [
+   "team:Raimon",
+   "user:Nathan Swift",
+   "type:Block"
+  ],
+  "cols": [
+   "element:Forest",
+   "element:Wind",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "user:Sonny Wright",
+   "team:Inazuma National",
+   "game:IE3"
+  ],
+  "cols": [
+   "exclusive:no",
+   "players:1",
+   "type:Shoot"
+  ]
+ },
+ {
+  "rows": [
+   "team:Revolutionary Raimon",
+   "game:IE3",
+   "user:Jack Wallside"
+  ],
+  "cols": [
+   "exclusive:no",
+   "element:Mountain",
+   "exclusive:yes"
+  ]
+ },
+ {
+  "rows": [
+   "game:GO",
+   "user:Jean-Pierre Lapin",
+   "team:Raimon"
+  ],
+  "cols": [
+   "exclusive:no",
+   "type:Catch",
+   "element:Mountain"
+  ]
+ },
+ {
+  "rows": [
+   "game:GX",
+   "players:1",
+   "game:CS"
+  ],
+  "cols": [
+   "element:Fire",
+   "exclusive:yes",
+   "type:Catch"
+  ]
+ },
+ {
+  "rows": [
+   "players:3",
+   "type:Shoot",
+   "char:Chain"
+  ],
+  "cols": [
+   "game:IE3",
+   "game:IE",
+   "team:Revolutionary Raimon"
+  ]
+ },
+ {
+  "rows": [
+   "game:IE2",
+   "char:Long",
+   "game:IE"
+  ],
+  "cols": [
+   "type:Shoot",
+   "team:Raimon",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "team:Protocol Omega",
+   "team:Earth Eleven",
+   "user:Mark Evans"
+  ],
+  "cols": [
+   "exclusive:no",
+   "type:Shoot",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "game:IE2",
+   "user:Jack Wallside",
+   "char:Block"
+  ],
+  "cols": [
+   "element:Mountain",
+   "element:Wind",
+   "players:2"
+  ]
+ },
+ {
+  "rows": [
+   "user:Axel Blaze",
+   "user:Jude Sharp",
+   "element:Mountain"
+  ],
+  "cols": [
+   "players:3",
+   "exclusive:no",
+   "players:2"
+  ]
+ },
+ {
+  "rows": [
+   "user:Kevin Dragonfly",
+   "char:Long",
+   "team:Raimon"
+  ],
+  "cols": [
+   "exclusive:no",
+   "element:Forest",
+   "players:2"
+  ]
+ },
+ {
+  "rows": [
+   "team:Raimon",
+   "user:Jack Wallside",
+   "element:Wind"
+  ],
+  "cols": [
+   "players:3",
+   "game:IE2",
+   "type:Shoot"
+  ]
+ },
+ {
+  "rows": [
+   "user:Arion Sherwind",
+   "type:Catch",
+   "team:Inazuma National"
+  ],
+  "cols": [
+   "players:1",
+   "element:Mountain",
+   "element:Fire"
+  ]
+ },
+ {
+  "rows": [
+   "game:GO",
+   "user:Victor Blade",
+   "team:Inazuma National"
+  ],
+  "cols": [
+   "players:1",
+   "type:Shoot",
+   "players:3"
+  ]
+ },
+ {
+  "rows": [
+   "element:Fire",
+   "user:Axel Blaze",
+   "user:Jude Sharp"
+  ],
+  "cols": [
+   "players:2",
+   "game:IE3",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "exclusive:no",
+   "players:2",
+   "team:Inazuma National"
+  ],
+  "cols": [
+   "element:Mountain",
+   "game:IE",
+   "type:Block"
+  ]
+ },
+ {
+  "rows": [
+   "team:Neo National",
+   "players:2",
+   "user:David Samford"
+  ],
+  "cols": [
+   "type:Shoot",
+   "game:IE",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "type:Dribble",
+   "exclusive:no",
+   "user:Xavier Foster"
+  ],
+  "cols": [
+   "element:Fire",
+   "team:Inazuma National",
+   "players:3"
+  ]
+ },
+ {
+  "rows": [
+   "team:Revolutionary Raimon",
+   "user:Jude Sharp",
+   "exclusive:yes"
+  ],
+  "cols": [
+   "element:Wind",
+   "element:Fire",
+   "players:3"
+  ]
+ },
+ {
+  "rows": [
+   "user:Bailong",
+   "team:Ixar Fleet",
+   "char:Long"
+  ],
+  "cols": [
+   "element:Void",
+   "element:Wind",
+   "type:Shoot"
+  ]
+ },
+ {
+  "rows": [
+   "element:Mountain",
+   "exclusive:no",
+   "team:Revolutionary Raimon"
+  ],
+  "cols": [
+   "user:Fei Rune",
+   "players:3",
+   "type:Shoot"
+  ]
+ },
+ {
+  "rows": [
+   "user:Shawn Froste",
+   "char:Long",
+   "element:Wind"
+  ],
+  "cols": [
+   "type:Shoot",
+   "exclusive:no",
+   "team:Inazuma National"
+  ]
+ },
+ {
+  "rows": [
+   "team:Raimon",
+   "user:Jack Wallside",
+   "char:Block"
+  ],
+  "cols": [
+   "element:Wind",
+   "players:2",
+   "game:IE"
+  ]
+ },
+ {
+  "rows": [
+   "element:Mountain",
+   "user:Sonny Wright",
+   "game:CS"
+  ],
+  "cols": [
+   "type:Shoot",
+   "players:1",
+   "players:3"
+  ]
+ },
+ {
+  "rows": [
+   "team:Zeus",
+   "team:Revolutionary Raimon",
+   "user:Bailong"
+  ],
+  "cols": [
+   "players:1",
+   "element:Wind",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "team:Revolutionary Raimon",
+   "exclusive:yes",
+   "user:Nathan Swift"
+  ],
+  "cols": [
+   "type:Block",
+   "element:Wind",
+   "players:2"
+  ]
+ },
+ {
+  "rows": [
+   "team:Revolutionary Raimon",
+   "user:Victor Blade",
+   "team:Inazuma National War God"
+  ],
+  "cols": [
+   "players:3",
+   "exclusive:no",
+   "element:Fire"
+  ]
+ },
+ {
+  "rows": [
+   "char:Long",
+   "game:CS",
+   "team:South Cirrus"
+  ],
+  "cols": [
+   "players:1",
+   "exclusive:yes",
+   "element:Wind"
+  ]
+ },
+ {
+  "rows": [
+   "type:Shoot",
+   "element:Wind",
+   "players:1"
+  ],
+  "cols": [
+   "team:Zeus",
+   "team:Protocol Omega",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "type:Block",
+   "exclusive:no",
+   "type:Catch"
+  ],
+  "cols": [
+   "element:Wind",
+   "team:Earth Eleven",
+   "element:Void"
+  ]
+ },
+ {
+  "rows": [
+   "type:Shoot",
+   "players:1",
+   "game:IE2"
+  ],
+  "cols": [
+   "user:Shawn Froste",
+   "team:Little Gigantes",
+   "element:Forest"
+  ]
+ },
+ {
+  "rows": [
+   "element:Mountain",
+   "element:Fire",
+   "user:Jean-Pierre Lapin"
+  ],
+  "cols": [
+   "type:Catch",
+   "game:GO",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "exclusive:no",
+   "game:GO",
+   "team:Inazuma National"
+  ],
+  "cols": [
+   "element:Forest",
+   "type:Dribble",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "game:IE3",
+   "team:Inazuma National War God",
+   "exclusive:no"
+  ],
+  "cols": [
+   "element:Wind",
+   "element:Forest",
+   "element:Mountain"
+  ]
+ },
+ {
+  "rows": [
+   "game:IE",
+   "user:Shawn Froste",
+   "team:Inazuma National War God"
+  ],
+  "cols": [
+   "players:1",
+   "players:2",
+   "players:3"
+  ]
+ },
+ {
+  "rows": [
+   "players:1",
+   "exclusive:no",
+   "players:3"
+  ],
+  "cols": [
+   "user:Arion Sherwind",
+   "char:Long",
+   "user:Victor Blade"
+  ]
+ },
+ {
+  "rows": [
+   "user:Caleb Stonewall",
+   "user:David Samford",
+   "team:Inazuma National War God"
+  ],
+  "cols": [
+   "type:Shoot",
+   "exclusive:no",
+   "players:3"
+  ]
+ },
+ {
+  "rows": [
+   "type:Block",
+   "team:Inazuma National",
+   "team:Raimon"
+  ],
+  "cols": [
+   "game:IE3",
+   "element:Mountain",
+   "element:Fire"
+  ]
+ },
+ {
+  "rows": [
+   "team:Raimon",
+   "players:3",
+   "element:Mountain"
+  ],
+  "cols": [
+   "type:Catch",
+   "type:Block",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "element:Fire",
+   "user:Jude Sharp",
+   "team:Inazuma National"
+  ],
+  "cols": [
+   "players:2",
+   "players:3",
+   "type:Shoot"
+  ]
+ },
+ {
+  "rows": [
+   "element:Fire",
+   "user:Mark Evans",
+   "team:Raimon"
+  ],
+  "cols": [
+   "type:Shoot",
+   "players:3",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "char:Block",
+   "game:IE3",
+   "type:Catch"
+  ],
+  "cols": [
+   "exclusive:yes",
+   "element:Forest",
+   "element:Mountain"
+  ]
+ },
+ {
+  "rows": [
+   "char:Block",
+   "game:IE2",
+   "exclusive:yes"
+  ],
+  "cols": [
+   "element:Forest",
+   "type:Block",
+   "team:Raimon"
+  ]
+ },
+ {
+  "rows": [
+   "user:Byron Love",
+   "game:IE2",
+   "team:Backwater Raimon"
+  ],
+  "cols": [
+   "element:Wind",
+   "players:1",
+   "type:Shoot"
+  ]
+ },
+ {
+  "rows": [
+   "user:Mark Evans",
+   "char:Punch",
+   "game:GX"
+  ],
+  "cols": [
+   "element:Mountain",
+   "players:1",
+   "element:Fire"
+  ]
+ },
+ {
+  "rows": [
+   "element:Mountain",
+   "game:GO",
+   "user:Arion Sherwind"
+  ],
+  "cols": [
+   "exclusive:no",
+   "players:3",
+   "type:Dribble"
+  ]
+ },
+ {
+  "rows": [
+   "game:GX",
+   "team:Earth Eleven",
+   "players:3"
+  ],
+  "cols": [
+   "exclusive:no",
+   "exclusive:yes",
+   "user:Riccardo Di Rigo"
+  ]
+ },
+ {
+  "rows": [
+   "user:Shawn Froste",
+   "element:Fire",
+   "char:Block"
+  ],
+  "cols": [
+   "players:3",
+   "game:VR",
+   "game:IE3"
+  ]
+ },
+ {
+  "rows": [
+   "user:Jack Wallside",
+   "team:Raimon",
+   "game:VR"
+  ],
+  "cols": [
+   "element:Mountain",
+   "players:1",
+   "type:Shoot"
+  ]
+ },
+ {
+  "rows": [
+   "game:VR",
+   "game:IE",
+   "user:Mark Evans"
+  ],
+  "cols": [
+   "element:Fire",
+   "element:Forest",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "game:VR",
+   "user:Jack Wallside",
+   "team:Raimon"
+  ],
+  "cols": [
+   "type:Shoot",
+   "exclusive:no",
+   "element:Mountain"
+  ]
+ },
+ {
+  "rows": [
+   "players:1",
+   "element:Wind",
+   "team:Raimon"
+  ],
+  "cols": [
+   "game:IE",
+   "type:Block",
+   "user:Hurley Kane"
+  ]
+ },
+ {
+  "rows": [
+   "user:Mark Evans",
+   "user:Arion Sherwind",
+   "team:Inazuma National"
+  ],
+  "cols": [
+   "element:Fire",
+   "type:Shoot",
+   "players:3"
+  ]
+ },
+ {
+  "rows": [
+   "user:Caleb Stonewall",
+   "players:2",
+   "team:Revolutionary Raimon"
+  ],
+  "cols": [
+   "exclusive:no",
+   "element:Forest",
+   "type:Shoot"
+  ]
+ },
+ {
+  "rows": [
+   "exclusive:yes",
+   "game:CS",
+   "team:Inazuma National"
+  ],
+  "cols": [
+   "players:3",
+   "element:Forest",
+   "char:Chain"
+  ]
+ },
+ {
+  "rows": [
+   "team:Raimon",
+   "user:Jude Sharp",
+   "user:Axel Blaze"
+  ],
+  "cols": [
+   "players:3",
+   "type:Shoot",
+   "element:Fire"
+  ]
+ },
+ {
+  "rows": [
+   "team:Revolutionary Raimon",
+   "game:IE",
+   "exclusive:no"
+  ],
+  "cols": [
+   "element:Mountain",
+   "type:Dribble",
+   "char:Chain"
+  ]
+ },
+ {
+  "rows": [
+   "char:Long",
+   "user:Mark Evans",
+   "team:Earth Eleven"
+  ],
+  "cols": [
+   "element:Forest",
+   "element:Fire",
+   "type:Shoot"
+  ]
+ },
+ {
+  "rows": [
+   "exclusive:yes",
+   "user:Austin Hobbes",
+   "char:Chain"
+  ],
+  "cols": [
+   "type:Shoot",
+   "element:Mountain",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "type:Dribble",
+   "user:Mark Evans",
+   "user:Jack Wallside"
+  ],
+  "cols": [
+   "players:3",
+   "team:Raimon",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "team:Raimon",
+   "user:Jude Sharp",
+   "game:IE2"
+  ],
+  "cols": [
+   "players:1",
+   "type:Shoot",
+   "players:3"
+  ]
+ },
+ {
+  "rows": [
+   "game:IE3",
+   "user:Austin Hobbes",
+   "team:Inazuma National"
+  ],
+  "cols": [
+   "char:Long",
+   "exclusive:no",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "game:IE2",
+   "user:Erik Eagle",
+   "user:Mark Evans"
+  ],
+  "cols": [
+   "team:Raimon",
+   "players:1",
+   "players:3"
+  ]
+ },
+ {
+  "rows": [
+   "game:IE",
+   "type:Block",
+   "char:Long"
+  ],
+  "cols": [
+   "players:3",
+   "element:Forest",
+   "element:Wind"
+  ]
+ },
+ {
+  "rows": [
+   "char:Long",
+   "user:Jack Wallside",
+   "element:Wind"
+  ],
+  "cols": [
+   "type:Shoot",
+   "exclusive:no",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "char:Chain",
+   "element:Void",
+   "element:Wind"
+  ],
+  "cols": [
+   "exclusive:yes",
+   "game:VR",
+   "game:GO"
+  ]
+ },
+ {
+  "rows": [
+   "game:CS",
+   "user:Riccardo Di Rigo",
+   "element:Mountain"
+  ],
+  "cols": [
+   "char:Chain",
+   "exclusive:no",
+   "team:Revolutionary Raimon"
+  ]
+ },
+ {
+  "rows": [
+   "game:IE3",
+   "char:Counter",
+   "user:Sonny Wright"
+  ],
+  "cols": [
+   "players:1",
+   "exclusive:no",
+   "type:Shoot"
+  ]
+ },
+ {
+  "rows": [
+   "game:CS",
+   "team:Protocol Omega",
+   "game:IE2"
+  ],
+  "cols": [
+   "char:Long",
+   "exclusive:yes",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "team:Inazuma National War God",
+   "user:Mark Evans",
+   "game:IE"
+  ],
+  "cols": [
+   "type:Catch",
+   "element:Wind",
+   "element:Mountain"
+  ]
+ },
+ {
+  "rows": [
+   "team:Revolutionary Raimon",
+   "user:Mark Evans",
+   "team:Inazuma National War God"
+  ],
+  "cols": [
+   "players:1",
+   "players:3",
+   "element:Forest"
+  ]
+ },
+ {
+  "rows": [
+   "user:Jude Sharp",
+   "team:Earth Eleven",
+   "exclusive:no"
+  ],
+  "cols": [
+   "players:1",
+   "element:Fire",
+   "players:2"
+  ]
+ },
+ {
+  "rows": [
+   "type:Block",
+   "type:Dribble",
+   "element:Forest"
+  ],
+  "cols": [
+   "game:IE2",
+   "team:Raimon",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "exclusive:yes",
+   "user:Axel Blaze",
+   "element:Mountain"
+  ],
+  "cols": [
+   "players:2",
+   "team:Raimon",
+   "char:Block"
+  ]
+ },
+ {
+  "rows": [
+   "element:Wind",
+   "char:Block",
+   "players:1"
+  ],
+  "cols": [
+   "team:Inazuma National",
+   "game:GO",
+   "type:Shoot"
+  ]
+ },
+ {
+  "rows": [
+   "type:Dribble",
+   "user:Elliot Ember",
+   "element:Void"
+  ],
+  "cols": [
+   "players:3",
+   "exclusive:no",
+   "game:VR"
+  ]
+ },
+ {
+  "rows": [
+   "type:Shoot",
+   "players:2",
+   "type:Dribble"
+  ],
+  "cols": [
+   "game:VR",
+   "game:GX",
+   "element:Void"
+  ]
+ },
+ {
+  "rows": [
+   "user:Victor Blade",
+   "team:Earth Eleven",
+   "type:Shoot"
+  ],
+  "cols": [
+   "game:GX",
+   "exclusive:no",
+   "players:2"
+  ]
+ },
+ {
+  "rows": [
+   "exclusive:yes",
+   "game:IE2",
+   "players:1"
+  ],
+  "cols": [
+   "char:Long",
+   "user:Jack Wallside",
+   "type:Shoot"
+  ]
+ },
+ {
+  "rows": [
+   "user:Joseph King",
+   "game:IE",
+   "team:Inazuma National War God"
+  ],
+  "cols": [
+   "type:Catch",
+   "exclusive:no",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "user:Arion Sherwind",
+   "element:Fire",
+   "team:Revolutionary Raimon"
+  ],
+  "cols": [
+   "players:3",
+   "exclusive:no",
+   "game:CS"
+  ]
+ },
+ {
+  "rows": [
+   "user:Axel Blaze",
+   "team:Inazuma National",
+   "team:Earth Eleven"
+  ],
+  "cols": [
+   "element:Fire",
+   "char:Block",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "game:IE3",
+   "user:Axel Blaze",
+   "type:Catch"
+  ],
+  "cols": [
+   "exclusive:no",
+   "team:Raimon",
+   "team:Inazuma National"
+  ]
+ },
+ {
+  "rows": [
+   "type:Catch",
+   "type:Dribble",
+   "user:Nathan Swift"
+  ],
+  "cols": [
+   "players:3",
+   "players:1",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "char:Long",
+   "user:Mark Evans",
+   "team:Protocol Omega"
+  ],
+  "cols": [
+   "players:1",
+   "element:Forest",
+   "type:Shoot"
+  ]
+ },
+ {
+  "rows": [
+   "team:Revolutionary Raimon",
+   "game:IE",
+   "element:Forest"
+  ],
+  "cols": [
+   "char:Chain",
+   "players:2",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "game:CS",
+   "game:IE3",
+   "game:GO"
+  ],
+  "cols": [
+   "type:Shoot",
+   "element:Fire",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "user:Axel Blaze",
+   "game:IE2",
+   "team:Revolutionary Raimon"
+  ],
+  "cols": [
+   "type:Shoot",
+   "players:3",
+   "players:2"
+  ]
+ },
+ {
+  "rows": [
+   "user:Hurley Kane",
+   "type:Shoot",
+   "game:IE"
+  ],
+  "cols": [
+   "team:Raimon",
+   "team:Inazuma National",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "element:Mountain",
+   "element:Wind",
+   "players:2"
+  ],
+  "cols": [
+   "type:Block",
+   "char:Chain",
+   "game:GX"
+  ]
+ },
+ {
+  "rows": [
+   "team:Inazuma National",
+   "char:Block",
+   "user:Zanark Avalonic"
+  ],
+  "cols": [
+   "element:Mountain",
+   "exclusive:no",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "type:Catch",
+   "user:Jude Sharp",
+   "game:IE"
+  ],
+  "cols": [
+   "element:Fire",
+   "team:Inazuma National",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "user:Jude Sharp",
+   "type:Dribble",
+   "char:Punch"
+  ],
+  "cols": [
+   "game:IE3",
+   "element:Wind",
+   "element:Fire"
+  ]
+ },
+ {
+  "rows": [
+   "game:GX",
+   "team:Earth Eleven",
+   "team:Revolutionary Raimon"
+  ],
+  "cols": [
+   "type:Catch",
+   "element:Wind",
+   "char:Block"
+  ]
+ },
+ {
+  "rows": [
+   "char:Chain",
+   "user:Austin Hobbes",
+   "team:Earth Eleven"
+  ],
+  "cols": [
+   "type:Shoot",
+   "exclusive:no",
+   "element:Mountain"
+  ]
+ },
+ {
+  "rows": [
+   "char:Long",
+   "type:Catch",
+   "game:IE"
+  ],
+  "cols": [
+   "element:Wind",
+   "element:Mountain",
+   "element:Fire"
+  ]
+ },
+ {
+  "rows": [
+   "element:Wind",
+   "element:Mountain",
+   "user:Jude Sharp"
+  ],
+  "cols": [
+   "players:3",
+   "exclusive:no",
+   "team:Inazuma National"
+  ]
+ },
+ {
+  "rows": [
+   "players:1",
+   "type:Dribble",
+   "exclusive:no"
+  ],
+  "cols": [
+   "game:GX",
+   "element:Wind",
+   "element:Void"
+  ]
+ },
+ {
+  "rows": [
+   "team:Little Gigantes",
+   "type:Block",
+   "char:Block"
+  ],
+  "cols": [
+   "game:IE2",
+   "element:Fire",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "user:Mark Evans",
+   "type:Block",
+   "players:2"
+  ],
+  "cols": [
+   "game:IE",
+   "game:IE2",
+   "game:VR"
+  ]
+ },
+ {
+  "rows": [
+   "team:Earth Eleven",
+   "user:Arion Sherwind",
+   "char:Long"
+  ],
+  "cols": [
+   "element:Wind",
+   "element:Mountain",
+   "type:Shoot"
+  ]
+ },
+ {
+  "rows": [
+   "user:Nathan Swift",
+   "char:Long",
+   "user:Riccardo Di Rigo"
+  ],
+  "cols": [
+   "type:Shoot",
+   "players:3",
+   "element:Forest"
+  ]
+ },
+ {
+  "rows": [
+   "char:Block",
+   "players:2",
+   "exclusive:no"
+  ],
+  "cols": [
+   "team:Earth Eleven",
+   "element:Forest",
+   "element:Fire"
+  ]
+ },
+ {
+  "rows": [
+   "user:Mark Evans",
+   "game:VR",
+   "user:Sonny Wright"
+  ],
+  "cols": [
+   "players:3",
+   "team:Inazuma National War God",
+   "element:Fire"
+  ]
+ },
+ {
+  "rows": [
+   "element:Fire",
+   "game:CS",
+   "user:Mark Evans"
+  ],
+  "cols": [
+   "type:Shoot",
+   "players:1",
+   "char:Block"
+  ]
+ },
+ {
+  "rows": [
+   "players:3",
+   "element:Fire",
+   "exclusive:no"
+  ],
+  "cols": [
+   "type:Block",
+   "team:Inazuma National War God",
+   "team:Revolutionary Raimon"
+  ]
+ },
+ {
+  "rows": [
+   "team:Earth Eleven",
+   "user:Jack Wallside",
+   "players:2"
+  ],
+  "cols": [
+   "element:Mountain",
+   "type:Shoot",
+   "element:Wind"
+  ]
+ },
+ {
+  "rows": [
+   "user:Nathan Swift",
+   "team:Raimon",
+   "char:Long"
+  ],
+  "cols": [
+   "players:2",
+   "exclusive:no",
+   "element:Wind"
+  ]
+ },
+ {
+  "rows": [
+   "type:Shoot",
+   "char:Chain",
+   "user:Basile Hardy"
+  ],
+  "cols": [
+   "element:Fire",
+   "team:Inazuma National War God",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "user:Nathan Swift",
+   "element:Forest",
+   "element:Mountain"
+  ],
+  "cols": [
+   "players:1",
+   "team:Inazuma National",
+   "game:IE3"
+  ]
+ },
+ {
+  "rows": [
+   "team:Royal Academy",
+   "game:IE2",
+   "user:Shawn Froste"
+  ],
+  "cols": [
+   "exclusive:no",
+   "type:Shoot",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "char:Chain",
+   "team:Raimon",
+   "user:Axel Blaze"
+  ],
+  "cols": [
+   "element:Fire",
+   "exclusive:no",
+   "game:IE"
+  ]
+ },
+ {
+  "rows": [
+   "user:Axel Blaze",
+   "team:Inazuma National War God",
+   "team:Revolutionary Raimon"
+  ],
+  "cols": [
+   "type:Shoot",
+   "players:2",
+   "element:Fire"
+  ]
+ },
+ {
+  "rows": [
+   "element:Fire",
+   "game:IE",
+   "user:Jack Wallside"
+  ],
+  "cols": [
+   "team:Raimon",
+   "char:Block",
+   "type:Block"
+  ]
+ },
+ {
+  "rows": [
+   "user:Axel Blaze",
+   "team:Raimon",
+   "user:Jude Sharp"
+  ],
+  "cols": [
+   "game:IE",
+   "players:3",
+   "players:2"
+  ]
+ },
+ {
+  "rows": [
+   "players:2",
+   "game:VR",
+   "team:Revolutionary Raimon"
+  ],
+  "cols": [
+   "char:Block",
+   "element:Mountain",
+   "element:Wind"
+  ]
+ },
+ {
+  "rows": [
+   "team:Backwater Raimon",
+   "team:Inazuma National War God",
+   "user:Victor Blade"
+  ],
+  "cols": [
+   "type:Shoot",
+   "element:Fire",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "game:IE",
+   "team:Revolutionary Raimon",
+   "game:IE3"
+  ],
+  "cols": [
+   "type:Shoot",
+   "char:Block",
+   "players:2"
+  ]
+ },
+ {
+  "rows": [
+   "team:Inazuma National War God",
+   "game:VR",
+   "user:Jude Sharp"
+  ],
+  "cols": [
+   "type:Shoot",
+   "element:Fire",
+   "element:Forest"
+  ]
+ },
+ {
+  "rows": [
+   "team:Revolutionary Raimon",
+   "game:GX",
+   "user:Bailong"
+  ],
+  "cols": [
+   "players:2",
+   "players:1",
+   "type:Shoot"
+  ]
+ },
+ {
+  "rows": [
+   "game:GO",
+   "team:Revolutionary Raimon",
+   "team:Inazuma National"
+  ],
+  "cols": [
+   "type:Shoot",
+   "type:Dribble",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "user:Tezcat",
+   "user:Hurley Kane",
+   "game:IE"
+  ],
+  "cols": [
+   "exclusive:no",
+   "players:1",
+   "type:Shoot"
+  ]
+ },
+ {
+  "rows": [
+   "char:Block",
+   "user:Jude Sharp",
+   "game:GX"
+  ],
+  "cols": [
+   "element:Fire",
+   "players:1",
+   "type:Shoot"
+  ]
+ },
+ {
+  "rows": [
+   "team:Raimon",
+   "user:Mark Evans",
+   "type:Block"
+  ],
+  "cols": [
+   "element:Mountain",
+   "players:1",
+   "element:Fire"
+  ]
+ },
+ {
+  "rows": [
+   "type:Catch",
+   "type:Shoot",
+   "user:Shawn Froste"
+  ],
+  "cols": [
+   "element:Wind",
+   "players:3",
+   "team:Inazuma National"
+  ]
+ },
+ {
+  "rows": [
+   "char:Punch",
+   "type:Block",
+   "user:Arion Sherwind"
+  ],
+  "cols": [
+   "element:Mountain",
+   "exclusive:no",
+   "game:GO"
+  ]
+ },
+ {
+  "rows": [
+   "team:Backwater Raimon",
+   "players:1",
+   "user:Arion Sherwind"
+  ],
+  "cols": [
+   "exclusive:no",
+   "element:Wind",
+   "element:Mountain"
+  ]
+ },
+ {
+  "rows": [
+   "user:Arion Sherwind",
+   "team:Inazuma National",
+   "game:IE"
+  ],
+  "cols": [
+   "element:Wind",
+   "type:Shoot",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "element:Wind",
+   "team:Backwater Raimon",
+   "user:Basile Hardy"
+  ],
+  "cols": [
+   "players:1",
+   "game:VR",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "team:Inazuma National",
+   "user:Mark Evans",
+   "game:IE"
+  ],
+  "cols": [
+   "element:Wind",
+   "type:Shoot",
+   "char:Block"
+  ]
+ },
+ {
+  "rows": [
+   "element:Forest",
+   "user:Axel Blaze",
+   "element:Mountain"
+  ],
+  "cols": [
+   "team:Inazuma National",
+   "game:IE2",
+   "game:IE"
+  ]
+ },
+ {
+  "rows": [
+   "element:Fire",
+   "user:Riccardo Di Rigo",
+   "char:Block"
+  ],
+  "cols": [
+   "exclusive:no",
+   "players:1",
+   "players:3"
+  ]
+ },
+ {
+  "rows": [
+   "user:Axel Blaze",
+   "user:Jack Wallside",
+   "element:Wind"
+  ],
+  "cols": [
+   "players:3",
+   "char:Block",
+   "team:Raimon"
+  ]
+ },
+ {
+  "rows": [
+   "game:GX",
+   "user:Jude Sharp",
+   "team:Earth Eleven"
+  ],
+  "cols": [
+   "element:Fire",
+   "exclusive:no",
+   "element:Wind"
+  ]
+ },
+ {
+  "rows": [
+   "team:Inazuma National War God",
+   "char:Long",
+   "user:Mark Evans"
+  ],
+  "cols": [
+   "players:1",
+   "exclusive:no",
+   "game:VR"
+  ]
+ },
+ {
+  "rows": [
+   "players:1",
+   "type:Shoot",
+   "exclusive:no"
+  ],
+  "cols": [
+   "team:Zeus",
+   "game:GO",
+   "game:IE3"
+  ]
+ },
+ {
+  "rows": [
+   "element:Mountain",
+   "exclusive:no",
+   "team:Inazuma National"
+  ],
+  "cols": [
+   "char:Block",
+   "type:Block",
+   "type:Catch"
+  ]
+ },
+ {
+  "rows": [
+   "user:Mark Evans",
+   "type:Block",
+   "user:Axel Blaze"
+  ],
+  "cols": [
+   "game:IE2",
+   "element:Fire",
+   "game:IE3"
+  ]
+ },
+ {
+  "rows": [
+   "game:IE",
+   "element:Fire",
+   "players:1"
+  ],
+  "cols": [
+   "exclusive:yes",
+   "user:Erik Eagle",
+   "char:Long"
+  ]
+ },
+ {
+  "rows": [
+   "team:Revolutionary Raimon",
+   "exclusive:no",
+   "user:Jack Wallside"
+  ],
+  "cols": [
+   "type:Shoot",
+   "players:2",
+   "element:Wind"
+  ]
+ },
+ {
+  "rows": [
+   "user:Mark Evans",
+   "team:Backwater Raimon",
+   "game:IE"
+  ],
+  "cols": [
+   "element:Wind",
+   "players:1",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "type:Catch",
+   "user:Victor Blade",
+   "team:Revolutionary Raimon"
+  ],
+  "cols": [
+   "players:3",
+   "exclusive:no",
+   "element:Fire"
+  ]
+ },
+ {
+  "rows": [
+   "user:Erik Eagle",
+   "players:2",
+   "players:3"
+  ],
+  "cols": [
+   "element:Fire",
+   "type:Shoot",
+   "game:IE"
+  ]
+ },
+ {
+  "rows": [
+   "char:Punch",
+   "user:Arion Sherwind",
+   "players:3"
+  ],
+  "cols": [
+   "element:Fire",
+   "game:GO",
+   "game:CS"
+  ]
+ },
+ {
+  "rows": [
+   "user:Arion Sherwind",
+   "players:2",
+   "team:Protocol Omega"
+  ],
+  "cols": [
+   "type:Shoot",
+   "type:Dribble",
+   "game:CS"
+  ]
+ },
+ {
+  "rows": [
+   "type:Block",
+   "type:Shoot",
+   "user:Jack Wallside"
+  ],
+  "cols": [
+   "exclusive:yes",
+   "players:3",
+   "element:Mountain"
+  ]
+ },
+ {
+  "rows": [
+   "players:3",
+   "element:Fire",
+   "element:Mountain"
+  ],
+  "cols": [
+   "game:IE",
+   "team:Revolutionary Raimon",
+   "exclusive:yes"
+  ]
+ },
+ {
+  "rows": [
+   "element:Wind",
+   "players:3",
+   "user:Shawn Froste"
+  ],
+  "cols": [
+   "game:IE3",
+   "game:VR",
+   "team:Inazuma National"
+  ]
+ },
+ {
+  "rows": [
+   "game:IE",
+   "type:Dribble",
+   "exclusive:no"
+  ],
+  "cols": [
+   "element:Mountain",
+   "players:2",
+   "players:3"
+  ]
+ },
+ {
+  "rows": [
+   "user:Victor Blade",
+   "element:Mountain",
+   "char:Chain"
+  ],
+  "cols": [
+   "game:GX",
+   "players:2",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "element:Forest",
+   "team:Inazuma National",
+   "game:IE2"
+  ],
+  "cols": [
+   "user:Nathan Swift",
+   "type:Dribble",
+   "type:Catch"
+  ]
+ },
+ {
+  "rows": [
+   "exclusive:no",
+   "game:CS",
+   "char:Long"
+  ],
+  "cols": [
+   "players:2",
+   "element:Fire",
+   "team:Protocol Omega"
+  ]
+ },
+ {
+  "rows": [
+   "element:Mountain",
+   "type:Shoot",
+   "element:Wind"
+  ],
+  "cols": [
+   "team:Backwater Raimon",
+   "team:Raimon",
+   "exclusive:yes"
+  ]
+ },
+ {
+  "rows": [
+   "user:Nathan Swift",
+   "team:Little Gigantes",
+   "user:Mark Evans"
+  ],
+  "cols": [
+   "type:Shoot",
+   "game:IE2",
+   "game:IE3"
+  ]
+ },
+ {
+  "rows": [
+   "user:Sonny Wright",
+   "user:Axel Blaze",
+   "game:IE2"
+  ],
+  "cols": [
+   "exclusive:no",
+   "type:Shoot",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "user:Axel Blaze",
+   "user:Byron Love",
+   "char:Block"
+  ],
+  "cols": [
+   "players:3",
+   "exclusive:no",
+   "type:Shoot"
+  ]
+ },
+ {
+  "rows": [
+   "team:Revolutionary Raimon",
+   "element:Forest",
+   "user:Shawn Froste"
+  ],
+  "cols": [
+   "players:2",
+   "type:Shoot",
+   "players:3"
+  ]
+ },
+ {
+  "rows": [
+   "user:Mark Evans",
+   "char:Chain",
+   "team:Neo National"
+  ],
+  "cols": [
+   "element:Wind",
+   "game:IE",
+   "game:IE2"
+  ]
+ },
+ {
+  "rows": [
+   "game:IE3",
+   "element:Wind",
+   "players:2"
+  ],
+  "cols": [
+   "user:Jude Sharp",
+   "type:Dribble",
+   "exclusive:yes"
+  ]
+ },
+ {
+  "rows": [
+   "user:Shawn Froste",
+   "char:Long",
+   "type:Catch"
+  ],
+  "cols": [
+   "game:IE3",
+   "players:3",
+   "game:IE2"
+  ]
+ },
+ {
+  "rows": [
+   "exclusive:yes",
+   "user:Mark Evans",
+   "team:Inazuma National"
+  ],
+  "cols": [
+   "game:IE",
+   "element:Mountain",
+   "element:Fire"
+  ]
+ },
+ {
+  "rows": [
+   "element:Mountain",
+   "players:3",
+   "game:IE"
+  ],
+  "cols": [
+   "type:Catch",
+   "team:Raimon",
+   "team:Inazuma National"
+  ]
+ },
+ {
+  "rows": [
+   "players:1",
+   "element:Fire",
+   "team:Raimon"
+  ],
+  "cols": [
+   "game:IE",
+   "user:Jude Sharp",
+   "char:Block"
+  ]
+ },
+ {
+  "rows": [
+   "char:Block",
+   "char:Chain",
+   "user:Mark Evans"
+  ],
+  "cols": [
+   "team:Inazuma National War God",
+   "game:IE2",
+   "team:Raimon"
+  ]
+ },
+ {
+  "rows": [
+   "char:Block",
+   "user:Jude Sharp",
+   "type:Catch"
+  ],
+  "cols": [
+   "element:Fire",
+   "element:Forest",
+   "element:Wind"
+  ]
+ },
+ {
+  "rows": [
+   "type:Shoot",
+   "element:Forest",
+   "char:Block"
+  ],
+  "cols": [
+   "game:GO",
+   "game:CS",
+   "team:Earth Eleven"
+  ]
+ },
+ {
+  "rows": [
+   "game:GO",
+   "team:Revolutionary Raimon",
+   "user:Kevin Dragonfly"
+  ],
+  "cols": [
+   "element:Forest",
+   "players:1",
+   "type:Shoot"
+  ]
+ },
+ {
+  "rows": [
+   "user:Jude Sharp",
+   "team:Raimon",
+   "exclusive:no"
+  ],
+  "cols": [
+   "players:3",
+   "players:2",
+   "game:IE3"
+  ]
+ },
+ {
+  "rows": [
+   "user:Mark Evans",
+   "game:IE",
+   "type:Dribble"
+  ],
+  "cols": [
+   "element:Mountain",
+   "element:Wind",
+   "team:Raimon"
+  ]
+ },
+ {
+  "rows": [
+   "team:Backwater Raimon",
+   "user:Hurley Kane",
+   "game:GO"
+  ],
+  "cols": [
+   "exclusive:no",
+   "type:Shoot",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "game:CS",
+   "team:Inazuma National",
+   "team:Earth Eleven"
+  ],
+  "cols": [
+   "type:Block",
+   "type:Catch",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "user:Jude Sharp",
+   "game:IE",
+   "team:Inazuma National War God"
+  ],
+  "cols": [
+   "type:Shoot",
+   "players:2",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "char:Chain",
+   "team:Raimon",
+   "char:Block"
+  ],
+  "cols": [
+   "element:Forest",
+   "players:2",
+   "game:IE3"
+  ]
+ },
+ {
+  "rows": [
+   "team:Revolutionary Raimon",
+   "user:Riccardo Di Rigo",
+   "type:Catch"
+  ],
+  "cols": [
+   "exclusive:no",
+   "element:Forest",
+   "game:GO"
+  ]
+ },
+ {
+  "rows": [
+   "game:IE2",
+   "team:Raimon",
+   "element:Mountain"
+  ],
+  "cols": [
+   "players:1",
+   "type:Dribble",
+   "players:2"
+  ]
+ },
+ {
+  "rows": [
+   "exclusive:yes",
+   "user:Tezcat",
+   "element:Forest"
+  ],
+  "cols": [
+   "type:Shoot",
+   "players:2",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "char:Block",
+   "user:Mark Evans",
+   "team:Revolutionary Raimon"
+  ],
+  "cols": [
+   "element:Wind",
+   "type:Shoot",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "team:Royal Academy",
+   "team:Earth Eleven",
+   "user:Xavier Foster"
+  ],
+  "cols": [
+   "players:1",
+   "element:Fire",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "element:Fire",
+   "user:Shawn Froste",
+   "team:Raimon"
+  ],
+  "cols": [
+   "game:IE2",
+   "exclusive:no",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "players:1",
+   "team:Inazuma National",
+   "team:Royal Academy"
+  ],
+  "cols": [
+   "user:Jude Sharp",
+   "type:Shoot",
+   "element:Fire"
+  ]
+ },
+ {
+  "rows": [
+   "type:Block",
+   "element:Wind",
+   "exclusive:no"
+  ],
+  "cols": [
+   "game:IE",
+   "team:Revolutionary Raimon",
+   "players:2"
+  ]
+ },
+ {
+  "rows": [
+   "user:Victor Blade",
+   "team:Revolutionary Raimon",
+   "type:Catch"
+  ],
+  "cols": [
+   "players:3",
+   "exclusive:no",
+   "game:GO"
+  ]
+ },
+ {
+  "rows": [
+   "char:Block",
+   "team:Backwater Raimon",
+   "exclusive:yes"
+  ],
+  "cols": [
+   "game:VR",
+   "element:Mountain",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "exclusive:yes",
+   "team:Revolutionary Raimon",
+   "team:Inazuma National"
+  ],
+  "cols": [
+   "char:Chain",
+   "element:Wind",
+   "type:Shoot"
+  ]
+ },
+ {
+  "rows": [
+   "game:VR",
+   "user:Victor Blade",
+   "char:Chain"
+  ],
+  "cols": [
+   "players:2",
+   "exclusive:no",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "element:Fire",
+   "game:GO",
+   "team:Earth Eleven"
+  ],
+  "cols": [
+   "type:Shoot",
+   "players:1",
+   "type:Catch"
+  ]
+ },
+ {
+  "rows": [
+   "element:Mountain",
+   "user:Shawn Froste",
+   "char:Chain"
+  ],
+  "cols": [
+   "game:VR",
+   "game:IE2",
+   "team:Raimon"
+  ]
+ },
+ {
+  "rows": [
+   "user:Arion Sherwind",
+   "type:Shoot",
+   "team:Revolutionary Raimon"
+  ],
+  "cols": [
+   "element:Fire",
+   "element:Mountain",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "players:2",
+   "user:Sonny Wright",
+   "team:Little Gigantes"
+  ],
+  "cols": [
+   "type:Shoot",
+   "exclusive:no",
+   "element:Fire"
+  ]
+ },
+ {
+  "rows": [
+   "game:CS",
+   "game:GX",
+   "user:Jack Wallside"
+  ],
+  "cols": [
+   "exclusive:yes",
+   "element:Mountain",
+   "players:2"
+  ]
+ },
+ {
+  "rows": [
+   "team:Inazuma National",
+   "type:Block",
+   "user:Axel Blaze"
+  ],
+  "cols": [
+   "element:Wind",
+   "game:IE3",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "exclusive:yes",
+   "team:Inazuma National War God",
+   "user:Byron Love"
+  ],
+  "cols": [
+   "type:Shoot",
+   "element:Wind",
+   "players:3"
+  ]
+ },
+ {
+  "rows": [
+   "element:Fire",
+   "user:Nathan Swift",
+   "user:Basile Hardy"
+  ],
+  "cols": [
+   "exclusive:no",
+   "players:3",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "user:Shawn Froste",
+   "user:Jude Sharp",
+   "element:Wind"
+  ],
+  "cols": [
+   "team:Raimon",
+   "players:3",
+   "type:Shoot"
+  ]
+ },
+ {
+  "rows": [
+   "char:Long",
+   "team:Inazuma National",
+   "user:Kevin Dragonfly"
+  ],
+  "cols": [
+   "players:2",
+   "exclusive:no",
+   "game:IE2"
+  ]
+ },
+ {
+  "rows": [
+   "team:Revolutionary Raimon",
+   "user:Axel Blaze",
+   "game:GX"
+  ],
+  "cols": [
+   "exclusive:no",
+   "char:Block",
+   "element:Fire"
+  ]
+ },
+ {
+  "rows": [
+   "team:Revolutionary Raimon",
+   "user:Jude Sharp",
+   "user:Kevin Dragonfly"
+  ],
+  "cols": [
+   "players:2",
+   "element:Forest",
+   "type:Shoot"
+  ]
+ },
+ {
+  "rows": [
+   "team:Raimon",
+   "element:Wind",
+   "user:Axel Blaze"
+  ],
+  "cols": [
+   "game:IE3",
+   "exclusive:no",
+   "game:IE"
+  ]
+ },
+ {
+  "rows": [
+   "user:Nathan Swift",
+   "game:IE",
+   "team:Inazuma National War God"
+  ],
+  "cols": [
+   "players:1",
+   "element:Forest",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "element:Void",
+   "type:Shoot",
+   "players:2"
+  ],
+  "cols": [
+   "game:GO",
+   "game:GX",
+   "game:CS"
+  ]
+ },
+ {
+  "rows": [
+   "user:Bailong",
+   "user:Jack Wallside",
+   "user:Nathan Swift"
+  ],
+  "cols": [
+   "players:1",
+   "element:Wind",
+   "type:Shoot"
+  ]
+ },
+ {
+  "rows": [
+   "team:Inazuma National",
+   "user:Mark Evans",
+   "type:Dribble"
+  ],
+  "cols": [
+   "element:Wind",
+   "players:1",
+   "element:Forest"
+  ]
+ },
+ {
+  "rows": [
+   "team:Inazuma National",
+   "exclusive:yes",
+   "user:Axel Blaze"
+  ],
+  "cols": [
+   "game:IE",
+   "players:1",
+   "players:2"
+  ]
+ },
+ {
+  "rows": [
+   "user:Riccardo Di Rigo",
+   "user:Byron Love",
+   "game:IE3"
+  ],
+  "cols": [
+   "exclusive:no",
+   "type:Shoot",
+   "players:3"
+  ]
+ },
+ {
+  "rows": [
+   "players:2",
+   "char:Chain",
+   "players:3"
+  ],
+  "cols": [
+   "type:Shoot",
+   "team:Revolutionary Raimon",
+   "element:Wind"
+  ]
+ },
+ {
+  "rows": [
+   "game:GO",
+   "players:2",
+   "players:3"
+  ],
+  "cols": [
+   "type:Dribble",
+   "element:Fire",
+   "team:Revolutionary Raimon"
+  ]
+ },
+ {
+  "rows": [
+   "char:Punch",
+   "players:3",
+   "team:Revolutionary Raimon"
+  ],
+  "cols": [
+   "type:Catch",
+   "element:Mountain",
+   "element:Wind"
+  ]
+ },
+ {
+  "rows": [
+   "game:GO",
+   "team:Inazuma National",
+   "user:Arion Sherwind"
+  ],
+  "cols": [
+   "element:Fire",
+   "players:1",
+   "element:Mountain"
+  ]
+ },
+ {
+  "rows": [
+   "players:1",
+   "team:Raimon",
+   "players:3"
+  ],
+  "cols": [
+   "user:Jude Sharp",
+   "exclusive:yes",
+   "char:Block"
+  ]
+ },
+ {
+  "rows": [
+   "user:Daniel Hatch",
+   "team:Inazuma National",
+   "type:Block"
+  ],
+  "cols": [
+   "element:Forest",
+   "exclusive:no",
+   "game:IE"
+  ]
+ },
+ {
+  "rows": [
+   "game:IE",
+   "game:IE2",
+   "user:Nathan Swift"
+  ],
+  "cols": [
+   "type:Block",
+   "players:2",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "players:1",
+   "team:Raimon",
+   "type:Shoot"
+  ],
+  "cols": [
+   "user:Hurley Kane",
+   "exclusive:yes",
+   "game:IE"
+  ]
+ },
+ {
+  "rows": [
+   "char:Punch",
+   "players:2",
+   "exclusive:yes"
+  ],
+  "cols": [
+   "team:Raimon",
+   "game:GX",
+   "game:IE2"
+  ]
+ },
+ {
+  "rows": [
+   "element:Void",
+   "game:CS",
+   "team:Raimon"
+  ],
+  "cols": [
+   "char:Block",
+   "type:Catch",
+   "players:3"
+  ]
+ },
+ {
+  "rows": [
+   "game:CS",
+   "element:Forest",
+   "user:Nathan Swift"
+  ],
+  "cols": [
+   "players:2",
+   "players:3",
+   "type:Shoot"
+  ]
+ },
+ {
+  "rows": [
+   "team:Inazuma National",
+   "players:3",
+   "exclusive:no"
+  ],
+  "cols": [
+   "element:Fire",
+   "char:Block",
+   "type:Dribble"
+  ]
+ },
+ {
+  "rows": [
+   "element:Mountain",
+   "user:Jack Wallside",
+   "players:2"
+  ],
+  "cols": [
+   "game:IE2",
+   "game:IE",
+   "char:Block"
+  ]
+ },
+ {
+  "rows": [
+   "game:CS",
+   "element:Forest",
+   "user:Axel Blaze"
+  ],
+  "cols": [
+   "players:1",
+   "char:Block",
+   "players:3"
+  ]
+ },
+ {
+  "rows": [
+   "user:Jude Sharp",
+   "game:IE2",
+   "team:Backwater Raimon"
+  ],
+  "cols": [
+   "exclusive:no",
+   "players:1",
+   "element:Fire"
+  ]
+ },
+ {
+  "rows": [
+   "game:VR",
+   "element:Wind",
+   "game:IE"
+  ],
+  "cols": [
+   "char:Long",
+   "players:1",
+   "char:Block"
+  ]
+ },
+ {
+  "rows": [
+   "players:1",
+   "element:Wind",
+   "team:Inazuma National"
+  ],
+  "cols": [
+   "user:Shawn Froste",
+   "user:Mark Evans",
+   "char:Long"
+  ]
+ },
+ {
+  "rows": [
+   "element:Forest",
+   "user:Fei Rune",
+   "team:Protocol Omega"
+  ],
+  "cols": [
+   "players:1",
+   "type:Shoot",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "user:Arion Sherwind",
+   "type:Catch",
+   "user:Victor Blade"
+  ],
+  "cols": [
+   "game:GO",
+   "players:1",
+   "team:Revolutionary Raimon"
+  ]
+ },
+ {
+  "rows": [
+   "game:IE",
+   "game:GO",
+   "user:Austin Hobbes"
+  ],
+  "cols": [
+   "char:Long",
+   "type:Shoot",
+   "element:Fire"
+  ]
+ },
+ {
+  "rows": [
+   "game:IE3",
+   "type:Dribble",
+   "user:Erik Eagle"
+  ],
+  "cols": [
+   "players:1",
+   "element:Fire",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "game:IE",
+   "user:Jude Sharp",
+   "team:Raimon"
+  ],
+  "cols": [
+   "players:1",
+   "exclusive:no",
+   "element:Forest"
+  ]
+ },
+ {
+  "rows": [
+   "exclusive:yes",
+   "team:Earth Eleven",
+   "user:Arion Sherwind"
+  ],
+  "cols": [
+   "type:Shoot",
+   "game:GX",
+   "element:Wind"
+  ]
+ },
+ {
+  "rows": [
+   "user:Byron Love",
+   "game:IE",
+   "team:Backwater Raimon"
+  ],
+  "cols": [
+   "type:Shoot",
+   "players:1",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "team:Raimon",
+   "team:Inazuma National",
+   "element:Forest"
+  ],
+  "cols": [
+   "type:Catch",
+   "user:Mark Evans",
+   "user:Jude Sharp"
+  ]
+ },
+ {
+  "rows": [
+   "element:Fire",
+   "game:IE2",
+   "user:Axel Blaze"
+  ],
+  "cols": [
+   "team:Inazuma National",
+   "exclusive:no",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "game:GO",
+   "element:Fire",
+   "user:Erik Eagle"
+  ],
+  "cols": [
+   "players:3",
+   "type:Shoot",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "user:Arion Sherwind",
+   "element:Void",
+   "players:2"
+  ],
+  "cols": [
+   "game:GX",
+   "exclusive:no",
+   "type:Dribble"
+  ]
+ },
+ {
+  "rows": [
+   "game:IE",
+   "team:Revolutionary Raimon",
+   "user:Arion Sherwind"
+  ],
+  "cols": [
+   "element:Mountain",
+   "element:Wind",
+   "type:Shoot"
+  ]
+ },
+ {
+  "rows": [
+   "user:Axel Blaze",
+   "char:Long",
+   "type:Catch"
+  ],
+  "cols": [
+   "element:Wind",
+   "game:IE2",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "user:Byron Love",
+   "char:Block",
+   "game:CS"
+  ],
+  "cols": [
+   "element:Wind",
+   "players:3",
+   "type:Shoot"
+  ]
+ },
+ {
+  "rows": [
+   "user:Axel Blaze",
+   "char:Block",
+   "game:CS"
+  ],
+  "cols": [
+   "players:3",
+   "players:2",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "team:Raimon",
+   "user:Jack Wallside",
+   "game:IE2"
+  ],
+  "cols": [
+   "type:Block",
+   "type:Shoot",
+   "element:Mountain"
+  ]
+ },
+ {
+  "rows": [
+   "user:Kevin Dragonfly",
+   "element:Fire",
+   "game:IE3"
+  ],
+  "cols": [
+   "exclusive:no",
+   "players:2",
+   "team:Raimon"
+  ]
+ },
+ {
+  "rows": [
+   "players:2",
+   "user:Jude Sharp",
+   "team:South Cirrus"
+  ],
+  "cols": [
+   "type:Shoot",
+   "element:Forest",
+   "element:Fire"
+  ]
+ },
+ {
+  "rows": [
+   "user:Riccardo Di Rigo",
+   "team:Raimon",
+   "exclusive:yes"
+  ],
+  "cols": [
+   "players:1",
+   "char:Chain",
+   "players:3"
+  ]
+ },
+ {
+  "rows": [
+   "type:Shoot",
+   "user:Jack Wallside",
+   "game:GX"
+  ],
+  "cols": [
+   "char:Block",
+   "element:Mountain",
+   "element:Wind"
+  ]
+ },
+ {
+  "rows": [
+   "user:Kevin Dragonfly",
+   "game:GX",
+   "team:Inazuma National War God"
+  ],
+  "cols": [
+   "players:1",
+   "exclusive:no",
+   "players:2"
+  ]
+ },
+ {
+  "rows": [
+   "user:Riccardo Di Rigo",
+   "team:Revolutionary Raimon",
+   "team:Inazuma National"
+  ],
+  "cols": [
+   "players:3",
+   "exclusive:no",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "user:Mark Evans",
+   "user:Jude Sharp",
+   "team:Royal Academy"
+  ],
+  "cols": [
+   "game:IE",
+   "exclusive:no",
+   "element:Fire"
+  ]
+ },
+ {
+  "rows": [
+   "exclusive:no",
+   "char:Chain",
+   "team:Revolutionary Raimon"
+  ],
+  "cols": [
+   "user:Riccardo Di Rigo",
+   "game:CS",
+   "element:Fire"
+  ]
+ },
+ {
+  "rows": [
+   "user:Mark Evans",
+   "char:Chain",
+   "team:Earth Eleven"
+  ],
+  "cols": [
+   "element:Forest",
+   "exclusive:no",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "element:Fire",
+   "exclusive:no",
+   "user:Arion Sherwind"
+  ],
+  "cols": [
+   "players:3",
+   "type:Shoot",
+   "game:GO"
+  ]
+ },
+ {
+  "rows": [
+   "user:Mark Evans",
+   "team:Revolutionary Raimon",
+   "char:Block"
+  ],
+  "cols": [
+   "players:1",
+   "element:Mountain",
+   "type:Shoot"
+  ]
+ },
+ {
+  "rows": [
+   "user:Caleb Stonewall",
+   "team:Inazuma National War God",
+   "players:2"
+  ],
+  "cols": [
+   "element:Forest",
+   "type:Shoot",
+   "game:VR"
+  ]
+ },
+ {
+  "rows": [
+   "char:Block",
+   "team:Backwater Raimon",
+   "user:Elliot Ember"
+  ],
+  "cols": [
+   "players:1",
+   "game:VR",
+   "type:Shoot"
+  ]
+ },
+ {
+  "rows": [
+   "team:Inazuma National War God",
+   "user:Jude Sharp",
+   "game:IE3"
+  ],
+  "cols": [
+   "element:Fire",
+   "players:1",
+   "players:3"
+  ]
+ },
+ {
+  "rows": [
+   "user:Sonny Wright",
+   "element:Mountain",
+   "team:Revolutionary Raimon"
+  ],
+  "cols": [
+   "type:Shoot",
+   "players:3",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "element:Fire",
+   "type:Shoot",
+   "game:GO"
+  ],
+  "cols": [
+   "players:2",
+   "exclusive:yes",
+   "user:Victor Blade"
+  ]
+ },
+ {
+  "rows": [
+   "exclusive:yes",
+   "players:1",
+   "exclusive:no"
+  ],
+  "cols": [
+   "team:Raimon",
+   "team:Revolutionary Raimon",
+   "type:Dribble"
+  ]
+ },
+ {
+  "rows": [
+   "game:IE3",
+   "exclusive:no",
+   "game:IE"
+  ],
+  "cols": [
+   "players:1",
+   "element:Forest",
+   "user:Jude Sharp"
+  ]
+ },
+ {
+  "rows": [
+   "players:1",
+   "type:Dribble",
+   "char:Block"
+  ],
+  "cols": [
+   "game:GX",
+   "team:Earth Eleven",
+   "element:Forest"
+  ]
+ },
+ {
+  "rows": [
+   "exclusive:yes",
+   "char:Block",
+   "user:Bailong"
+  ],
+  "cols": [
+   "element:Wind",
+   "game:GO",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "team:Raimon",
+   "char:Chain",
+   "user:Jude Sharp"
+  ],
+  "cols": [
+   "players:1",
+   "element:Fire",
+   "element:Wind"
+  ]
+ },
+ {
+  "rows": [
+   "game:CS",
+   "team:Backwater Raimon",
+   "user:Bailong"
+  ],
+  "cols": [
+   "type:Shoot",
+   "exclusive:no",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "user:Victor Blade",
+   "type:Block",
+   "team:Revolutionary Raimon"
+  ],
+  "cols": [
+   "players:2",
+   "exclusive:no",
+   "game:GO"
+  ]
+ },
+ {
+  "rows": [
+   "user:Sol Daystar",
+   "team:Little Gigantes",
+   "user:Austin Hobbes"
+  ],
+  "cols": [
+   "players:1",
+   "element:Fire",
+   "type:Shoot"
+  ]
+ },
+ {
+  "rows": [
+   "team:Revolutionary Raimon",
+   "team:Zeus",
+   "game:CS"
+  ],
+  "cols": [
+   "element:Mountain",
+   "exclusive:no",
+   "type:Block"
+  ]
+ },
+ {
+  "rows": [
+   "game:VR",
+   "team:Raimon",
+   "game:GX"
+  ],
+  "cols": [
+   "element:Fire",
+   "char:Long",
+   "type:Dribble"
+  ]
+ },
+ {
+  "rows": [
+   "players:3",
+   "team:Raimon",
+   "char:Chain"
+  ],
+  "cols": [
+   "game:IE3",
+   "element:Forest",
+   "type:Shoot"
+  ]
+ },
+ {
+  "rows": [
+   "game:VR",
+   "element:Forest",
+   "team:Inazuma National"
+  ],
+  "cols": [
+   "exclusive:no",
+   "char:Chain",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "team:Revolutionary Raimon",
+   "game:GO",
+   "element:Wind"
+  ],
+  "cols": [
+   "type:Catch",
+   "char:Block",
+   "type:Block"
+  ]
+ },
+ {
+  "rows": [
+   "element:Mountain",
+   "user:Bailong",
+   "user:Sol Daystar"
+  ],
+  "cols": [
+   "exclusive:no",
+   "players:1",
+   "type:Shoot"
+  ]
+ },
+ {
+  "rows": [
+   "exclusive:no",
+   "players:1",
+   "element:Fire"
+  ],
+  "cols": [
+   "team:Raimon",
+   "game:IE3",
+   "user:Sonny Wright"
+  ]
+ },
+ {
+  "rows": [
+   "type:Dribble",
+   "element:Mountain",
+   "user:Mark Evans"
+  ],
+  "cols": [
+   "team:Inazuma National",
+   "players:3",
+   "game:VR"
+  ]
+ },
+ {
+  "rows": [
+   "user:Shawn Froste",
+   "team:Inazuma National War God",
+   "game:CS"
+  ],
+  "cols": [
+   "players:1",
+   "players:2",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "user:Elliot Ember",
+   "user:Basile Hardy",
+   "type:Shoot"
+  ],
+  "cols": [
+   "exclusive:no",
+   "players:3",
+   "team:Inazuma National War God"
+  ]
+ },
+ {
+  "rows": [
+   "players:3",
+   "type:Block",
+   "game:IE3"
+  ],
+  "cols": [
+   "exclusive:no",
+   "team:Inazuma National",
+   "element:Mountain"
+  ]
+ },
+ {
+  "rows": [
+   "players:2",
+   "team:Raimon",
+   "team:Revolutionary Raimon"
+  ],
+  "cols": [
+   "element:Mountain",
+   "type:Block",
+   "element:Fire"
+  ]
+ },
+ {
+  "rows": [
+   "players:1",
+   "element:Mountain",
+   "user:Mark Evans"
+  ],
+  "cols": [
+   "exclusive:no",
+   "char:Block",
+   "game:IE"
+  ]
+ },
+ {
+  "rows": [
+   "team:Inazuma National",
+   "players:1",
+   "game:IE3"
+  ],
+  "cols": [
+   "char:Long",
+   "element:Wind",
+   "type:Dribble"
+  ]
+ },
+ {
+  "rows": [
+   "type:Dribble",
+   "user:Mark Evans",
+   "user:Erik Eagle"
+  ],
+  "cols": [
+   "players:3",
+   "game:IE",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "team:Inazuma National",
+   "exclusive:no",
+   "element:Wind"
+  ],
+  "cols": [
+   "type:Shoot",
+   "user:Hurley Kane",
+   "game:IE"
+  ]
+ },
+ {
+  "rows": [
+   "exclusive:no",
+   "players:1",
+   "players:3"
+  ],
+  "cols": [
+   "element:Mountain",
+   "user:Arion Sherwind",
+   "char:Long"
+  ]
+ },
+ {
+  "rows": [
+   "team:Earth Eleven",
+   "user:Hurley Kane",
+   "user:Bailong"
+  ],
+  "cols": [
+   "exclusive:no",
+   "type:Shoot",
+   "element:Wind"
+  ]
+ },
+ {
+  "rows": [
+   "game:GO",
+   "game:CS",
+   "type:Dribble"
+  ],
+  "cols": [
+   "exclusive:yes",
+   "team:Revolutionary Raimon",
+   "element:Wind"
+  ]
+ },
+ {
+  "rows": [
+   "players:2",
+   "element:Fire",
+   "user:Jude Sharp"
+  ],
+  "cols": [
+   "team:Inazuma National",
+   "team:Raimon",
+   "game:VR"
+  ]
+ },
+ {
+  "rows": [
+   "team:Raimon",
+   "game:IE",
+   "user:Mark Evans"
+  ],
+  "cols": [
+   "char:Punch",
+   "char:Block",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "game:IE2",
+   "element:Forest",
+   "user:Jude Sharp"
+  ],
+  "cols": [
+   "players:2",
+   "players:1",
+   "team:Inazuma National"
+  ]
+ },
+ {
+  "rows": [
+   "exclusive:yes",
+   "type:Block",
+   "user:Bailong"
+  ],
+  "cols": [
+   "game:GO",
+   "players:2",
+   "element:Wind"
+  ]
+ },
+ {
+  "rows": [
+   "user:Axel Blaze",
+   "element:Wind",
+   "team:Inazuma National War God"
+  ],
+  "cols": [
+   "players:1",
+   "players:2",
+   "type:Shoot"
+  ]
+ },
+ {
+  "rows": [
+   "user:Riccardo Di Rigo",
+   "char:Block",
+   "exclusive:yes"
+  ],
+  "cols": [
+   "type:Shoot",
+   "players:3",
+   "element:Forest"
+  ]
+ },
+ {
+  "rows": [
+   "type:Shoot",
+   "team:Earth Eleven",
+   "team:Inazuma National"
+  ],
+  "cols": [
+   "players:2",
+   "element:Mountain",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "team:Inazuma National War God",
+   "user:Mark Evans",
+   "char:Long"
+  ],
+  "cols": [
+   "players:3",
+   "element:Wind",
+   "element:Forest"
+  ]
+ },
+ {
+  "rows": [
+   "element:Wind",
+   "user:Xavier Foster",
+   "type:Block"
+  ],
+  "cols": [
+   "players:3",
+   "exclusive:no",
+   "team:Inazuma National"
+  ]
+ },
+ {
+  "rows": [
+   "team:Protocol Omega",
+   "game:IE2",
+   "char:Block"
+  ],
+  "cols": [
+   "element:Wind",
+   "exclusive:yes",
+   "type:Shoot"
+  ]
+ },
+ {
+  "rows": [
+   "user:Mark Evans",
+   "type:Catch",
+   "players:3"
+  ],
+  "cols": [
+   "element:Forest",
+   "game:IE3",
+   "game:IE2"
+  ]
+ },
+ {
+  "rows": [
+   "element:Void",
+   "team:Revolutionary Raimon",
+   "game:IE"
+  ],
+  "cols": [
+   "players:1",
+   "type:Shoot",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "team:Inazuma National",
+   "type:Catch",
+   "user:Jude Sharp"
+  ],
+  "cols": [
+   "exclusive:no",
+   "element:Forest",
+   "element:Wind"
+  ]
+ },
+ {
+  "rows": [
+   "type:Shoot",
+   "game:IE2",
+   "element:Mountain"
+  ],
+  "cols": [
+   "exclusive:yes",
+   "user:Jack Wallside",
+   "team:Raimon"
+  ]
+ },
+ {
+  "rows": [
+   "user:Jack Wallside",
+   "team:Protocol Omega",
+   "team:Revolutionary Raimon"
+  ],
+  "cols": [
+   "exclusive:yes",
+   "type:Shoot",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "game:IE2",
+   "user:Axel Blaze",
+   "team:Raimon"
+  ],
+  "cols": [
+   "players:3",
+   "players:2",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "element:Fire",
+   "element:Wind",
+   "team:Revolutionary Raimon"
+  ],
+  "cols": [
+   "players:1",
+   "type:Shoot",
+   "exclusive:yes"
+  ]
+ },
+ {
+  "rows": [
+   "user:Victor Blade",
+   "user:Sol Daystar",
+   "element:Mountain"
+  ],
+  "cols": [
+   "players:1",
+   "type:Shoot",
+   "game:CS"
+  ]
+ },
+ {
+  "rows": [
+   "user:Arion Sherwind",
+   "char:Long",
+   "team:Revolutionary Raimon"
+  ],
+  "cols": [
+   "game:CS",
+   "players:1",
+   "element:Wind"
+  ]
+ },
+ {
+  "rows": [
+   "user:Nathan Swift",
+   "players:2",
+   "char:Block"
+  ],
+  "cols": [
+   "type:Block",
+   "type:Shoot",
+   "game:IE2"
+  ]
+ },
+ {
+  "rows": [
+   "user:Nathan Swift",
+   "team:Inazuma National War God",
+   "char:Chain"
+  ],
+  "cols": [
+   "type:Shoot",
+   "element:Wind",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "game:IE3",
+   "team:Raimon",
+   "team:Inazuma National"
+  ],
+  "cols": [
+   "type:Shoot",
+   "user:Mark Evans",
+   "element:Wind"
+  ]
+ },
+ {
+  "rows": [
+   "team:Inazuma National",
+   "user:Mark Evans",
+   "game:GO"
+  ],
+  "cols": [
+   "element:Mountain",
+   "exclusive:no",
+   "players:3"
+  ]
+ },
+ {
+  "rows": [
+   "team:Inazuma National",
+   "game:IE2",
+   "user:Nathan Swift"
+  ],
+  "cols": [
+   "players:2",
+   "element:Wind",
+   "type:Shoot"
+  ]
+ },
+ {
+  "rows": [
+   "user:Jack Wallside",
+   "game:IE2",
+   "type:Block"
+  ],
+  "cols": [
+   "element:Mountain",
+   "element:Wind",
+   "players:3"
+  ]
+ },
+ {
+  "rows": [
+   "team:Raimon",
+   "element:Fire",
+   "user:Jude Sharp"
+  ],
+  "cols": [
+   "game:IE",
+   "players:3",
+   "players:2"
+  ]
+ },
+ {
+  "rows": [
+   "game:GO",
+   "user:Bailong",
+   "team:Raimon"
+  ],
+  "cols": [
+   "exclusive:no",
+   "players:1",
+   "exclusive:yes"
+  ]
+ },
+ {
+  "rows": [
+   "game:IE3",
+   "element:Mountain",
+   "element:Void"
+  ],
+  "cols": [
+   "type:Block",
+   "exclusive:no",
+   "type:Shoot"
+  ]
+ },
+ {
+  "rows": [
+   "game:IE2",
+   "user:Elliot Ember",
+   "element:Mountain"
+  ],
+  "cols": [
+   "exclusive:no",
+   "players:3",
+   "type:Shoot"
+  ]
+ },
+ {
+  "rows": [
+   "element:Fire",
+   "team:Revolutionary Raimon",
+   "game:IE"
+  ],
+  "cols": [
+   "players:3",
+   "players:2",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "type:Shoot",
+   "players:1",
+   "char:Long"
+  ],
+  "cols": [
+   "exclusive:yes",
+   "team:Raimon",
+   "element:Mountain"
+  ]
+ },
+ {
+  "rows": [
+   "game:IE3",
+   "char:Block",
+   "team:Inazuma National"
+  ],
+  "cols": [
+   "element:Wind",
+   "user:Mark Evans",
+   "players:2"
+  ]
+ },
+ {
+  "rows": [
+   "user:Jack Wallside",
+   "team:Raimon",
+   "game:IE"
+  ],
+  "cols": [
+   "type:Block",
+   "exclusive:no",
+   "element:Wind"
+  ]
+ },
+ {
+  "rows": [
+   "user:Jack Wallside",
+   "team:Inazuma National",
+   "game:IE"
+  ],
+  "cols": [
+   "players:2",
+   "element:Mountain",
+   "type:Shoot"
+  ]
+ },
+ {
+  "rows": [
+   "players:3",
+   "game:VR",
+   "user:Mark Evans"
+  ],
+  "cols": [
+   "element:Mountain",
+   "type:Catch",
+   "element:Fire"
+  ]
+ },
+ {
+  "rows": [
+   "team:Raimon",
+   "game:CS",
+   "user:Basile Hardy"
+  ],
+  "cols": [
+   "players:1",
+   "element:Fire",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "exclusive:yes",
+   "user:Jack Wallside",
+   "user:Nathan Swift"
+  ],
+  "cols": [
+   "type:Shoot",
+   "players:2",
+   "element:Wind"
+  ]
+ },
+ {
+  "rows": [
+   "exclusive:yes",
+   "team:Inazuma National",
+   "element:Forest"
+  ],
+  "cols": [
+   "type:Shoot",
+   "type:Dribble",
+   "char:Long"
+  ]
+ },
+ {
+  "rows": [
+   "type:Catch",
+   "players:1",
+   "user:Mark Evans"
+  ],
+  "cols": [
+   "team:Raimon",
+   "team:Inazuma National War God",
+   "game:IE"
+  ]
+ },
+ {
+  "rows": [
+   "game:VR",
+   "user:Jack Wallside",
+   "team:Raimon"
+  ],
+  "cols": [
+   "exclusive:no",
+   "players:2",
+   "element:Wind"
+  ]
+ },
+ {
+  "rows": [
+   "exclusive:yes",
+   "team:Raimon",
+   "element:Wind"
+  ],
+  "cols": [
+   "char:Chain",
+   "type:Catch",
+   "type:Block"
+  ]
+ },
+ {
+  "rows": [
+   "game:VR",
+   "team:Revolutionary Raimon",
+   "user:Axel Blaze"
+  ],
+  "cols": [
+   "players:2",
+   "players:3",
+   "type:Shoot"
+  ]
+ },
+ {
+  "rows": [
+   "element:Mountain",
+   "game:IE2",
+   "element:Void"
+  ],
+  "cols": [
+   "players:1",
+   "players:3",
+   "char:Block"
+  ]
+ },
+ {
+  "rows": [
+   "char:Long",
+   "char:Chain",
+   "user:Bailong"
+  ],
+  "cols": [
+   "game:CS",
+   "exclusive:no",
+   "game:GO"
+  ]
+ },
+ {
+  "rows": [
+   "element:Wind",
+   "exclusive:no",
+   "user:Erik Eagle"
+  ],
+  "cols": [
+   "players:1",
+   "team:Raimon",
+   "game:IE"
+  ]
+ },
+ {
+  "rows": [
+   "element:Mountain",
+   "game:CS",
+   "game:IE"
+  ],
+  "cols": [
+   "players:3",
+   "char:Block",
+   "type:Shoot"
+  ]
+ },
+ {
+  "rows": [
+   "user:Mark Evans",
+   "players:1",
+   "team:Raimon"
+  ],
+  "cols": [
+   "char:Punch",
+   "char:Block",
+   "element:Fire"
+  ]
+ },
+ {
+  "rows": [
+   "type:Shoot",
+   "user:Mark Evans",
+   "type:Dribble"
+  ],
+  "cols": [
+   "team:Raimon",
+   "element:Forest",
+   "game:VR"
+  ]
+ },
+ {
+  "rows": [
+   "char:Chain",
+   "type:Block",
+   "user:Mark Evans"
+  ],
+  "cols": [
+   "element:Wind",
+   "players:1",
+   "game:IE3"
+  ]
+ },
+ {
+  "rows": [
+   "players:1",
+   "type:Block",
+   "user:Jack Wallside"
+  ],
+  "cols": [
+   "team:Inazuma National",
+   "char:Block",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "element:Mountain",
+   "players:1",
+   "element:Wind"
+  ],
+  "cols": [
+   "type:Catch",
+   "exclusive:yes",
+   "game:IE"
+  ]
+ },
+ {
+  "rows": [
+   "user:Mark Evans",
+   "type:Shoot",
+   "exclusive:no"
+  ],
+  "cols": [
+   "game:IE",
+   "game:VR",
+   "element:Forest"
+  ]
+ },
+ {
+  "rows": [
+   "game:GX",
+   "game:GO",
+   "game:IE2"
+  ],
+  "cols": [
+   "char:Chain",
+   "type:Catch",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "team:Protocol Omega",
+   "user:Sonny Wright",
+   "element:Wind"
+  ],
+  "cols": [
+   "exclusive:no",
+   "type:Shoot",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "type:Block",
+   "exclusive:no",
+   "char:Block"
+  ],
+  "cols": [
+   "team:Inazuma National",
+   "element:Mountain",
+   "game:VR"
+  ]
+ },
+ {
+  "rows": [
+   "element:Forest",
+   "user:Mark Evans",
+   "players:3"
+  ],
+  "cols": [
+   "game:IE2",
+   "game:VR",
+   "team:Raimon"
+  ]
+ },
+ {
+  "rows": [
+   "user:Austin Hobbes",
+   "team:Earth Eleven",
+   "game:CS"
+  ],
+  "cols": [
+   "type:Shoot",
+   "exclusive:no",
+   "element:Fire"
+  ]
+ },
+ {
+  "rows": [
+   "element:Forest",
+   "element:Wind",
+   "type:Catch"
+  ],
+  "cols": [
+   "players:3",
+   "players:1",
+   "game:CS"
+  ]
+ },
+ {
+  "rows": [
+   "type:Block",
+   "element:Mountain",
+   "user:Jack Wallside"
+  ],
+  "cols": [
+   "players:1",
+   "team:Raimon",
+   "game:IE2"
+  ]
+ },
+ {
+  "rows": [
+   "team:Raimon",
+   "type:Block",
+   "user:Erik Eagle"
+  ],
+  "cols": [
+   "game:IE",
+   "players:1",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "team:Raimon",
+   "user:Shawn Froste",
+   "game:IE3"
+  ],
+  "cols": [
+   "element:Wind",
+   "players:3",
+   "type:Shoot"
+  ]
+ },
+ {
+  "rows": [
+   "user:Nathan Swift",
+   "game:GO",
+   "team:Royal Academy"
+  ],
+  "cols": [
+   "exclusive:no",
+   "element:Forest",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "game:VR",
+   "user:Jack Wallside",
+   "game:IE3"
+  ],
+  "cols": [
+   "players:1",
+   "element:Wind",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "team:Inazuma National",
+   "game:IE3",
+   "game:IE"
+  ],
+  "cols": [
+   "element:Forest",
+   "user:Mark Evans",
+   "type:Dribble"
+  ]
+ },
+ {
+  "rows": [
+   "user:Shawn Froste",
+   "element:Mountain",
+   "element:Wind"
+  ],
+  "cols": [
+   "players:3",
+   "game:VR",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "user:Jack Wallside",
+   "game:GO",
+   "players:2"
+  ],
+  "cols": [
+   "exclusive:no",
+   "element:Wind",
+   "exclusive:yes"
+  ]
+ },
+ {
+  "rows": [
+   "game:GO",
+   "user:Nathan Swift",
+   "team:Raimon"
+  ],
+  "cols": [
+   "type:Shoot",
+   "element:Wind",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "user:Mark Evans",
+   "team:Raimon",
+   "type:Dribble"
+  ],
+  "cols": [
+   "exclusive:no",
+   "players:1",
+   "game:IE2"
+  ]
+ },
+ {
+  "rows": [
+   "type:Catch",
+   "team:Raimon",
+   "user:Axel Blaze"
+  ],
+  "cols": [
+   "exclusive:no",
+   "game:IE",
+   "players:3"
+  ]
+ },
+ {
+  "rows": [
+   "game:IE2",
+   "team:Revolutionary Raimon",
+   "element:Mountain"
+  ],
+  "cols": [
+   "type:Catch",
+   "exclusive:yes",
+   "char:Chain"
+  ]
+ },
+ {
+  "rows": [
+   "game:GO",
+   "team:Earth Eleven",
+   "game:IE"
+  ],
+  "cols": [
+   "type:Shoot",
+   "type:Dribble",
+   "element:Wind"
+  ]
+ },
+ {
+  "rows": [
+   "user:Jack Wallside",
+   "game:IE3",
+   "team:Raimon"
+  ],
+  "cols": [
+   "exclusive:no",
+   "char:Block",
+   "element:Wind"
+  ]
+ },
+ {
+  "rows": [
+   "user:Shawn Froste",
+   "team:Inazuma National War God",
+   "char:Long"
+  ],
+  "cols": [
+   "exclusive:no",
+   "players:1",
+   "element:Wind"
+  ]
+ },
+ {
+  "rows": [
+   "element:Fire",
+   "players:3",
+   "user:Nathan Swift"
+  ],
+  "cols": [
+   "game:IE3",
+   "team:Inazuma National",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "game:IE2",
+   "user:Austin Hobbes",
+   "user:Jack Wallside"
+  ],
+  "cols": [
+   "team:Inazuma National",
+   "exclusive:no",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "team:Backwater Raimon",
+   "user:Sol Daystar",
+   "user:Mark Evans"
+  ],
+  "cols": [
+   "players:1",
+   "exclusive:no",
+   "type:Shoot"
+  ]
+ },
+ {
+  "rows": [
+   "game:GO",
+   "char:Block",
+   "exclusive:no"
+  ],
+  "cols": [
+   "element:Wind",
+   "element:Forest",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "char:Long",
+   "user:Jude Sharp",
+   "players:1"
+  ],
+  "cols": [
+   "game:VR",
+   "element:Fire",
+   "game:IE3"
+  ]
+ },
+ {
+  "rows": [
+   "user:Mark Evans",
+   "team:Zeus",
+   "team:Backwater Raimon"
+  ],
+  "cols": [
+   "exclusive:no",
+   "element:Mountain",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "user:Sonny Wright",
+   "players:1",
+   "type:Shoot"
+  ],
+  "cols": [
+   "exclusive:no",
+   "game:VR",
+   "team:Inazuma National War God"
+  ]
+ },
+ {
+  "rows": [
+   "user:Bailong",
+   "char:Chain",
+   "element:Wind"
+  ],
+  "cols": [
+   "players:1",
+   "type:Shoot",
+   "game:GO"
+  ]
+ },
+ {
+  "rows": [
+   "team:Raimon",
+   "char:Punch",
+   "element:Fire"
+  ],
+  "cols": [
+   "exclusive:no",
+   "game:IE3",
+   "user:Mark Evans"
+  ]
+ },
+ {
+  "rows": [
+   "element:Mountain",
+   "team:Raimon",
+   "team:Inazuma National"
+  ],
+  "cols": [
+   "type:Shoot",
+   "players:2",
+   "char:Block"
+  ]
+ },
+ {
+  "rows": [
+   "players:1",
+   "user:Axel Blaze",
+   "team:Raimon"
+  ],
+  "cols": [
+   "exclusive:no",
+   "game:IE",
+   "type:Shoot"
+  ]
+ },
+ {
+  "rows": [
+   "game:IE3",
+   "game:GX",
+   "game:IE"
+  ],
+  "cols": [
+   "char:Chain",
+   "type:Dribble",
+   "char:Punch"
+  ]
+ },
+ {
+  "rows": [
+   "user:Mark Evans",
+   "team:Inazuma National",
+   "game:GO"
+  ],
+  "cols": [
+   "element:Forest",
+   "exclusive:no",
+   "element:Mountain"
+  ]
+ },
+ {
+  "rows": [
+   "char:Long",
+   "game:GX",
+   "team:Inazuma National"
+  ],
+  "cols": [
+   "element:Forest",
+   "element:Fire",
+   "element:Wind"
+  ]
+ },
+ {
+  "rows": [
+   "user:Axel Blaze",
+   "team:Earth Eleven",
+   "game:IE2"
+  ],
+  "cols": [
+   "char:Block",
+   "type:Shoot",
+   "element:Fire"
+  ]
+ },
+ {
+  "rows": [
+   "game:IE2",
+   "exclusive:yes",
+   "user:Axel Blaze"
+  ],
+  "cols": [
+   "players:3",
+   "char:Block",
+   "element:Wind"
+  ]
+ },
+ {
+  "rows": [
+   "user:Sol Daystar",
+   "user:Arion Sherwind",
+   "team:Revolutionary Raimon"
+  ],
+  "cols": [
+   "element:Fire",
+   "game:CS",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "team:Revolutionary Raimon",
+   "user:Arion Sherwind",
+   "char:Long"
+  ],
+  "cols": [
+   "element:Wind",
+   "exclusive:no",
+   "players:3"
+  ]
+ },
+ {
+  "rows": [
+   "type:Shoot",
+   "user:Riccardo Di Rigo",
+   "team:Royal Academy"
+  ],
+  "cols": [
+   "players:1",
+   "element:Forest",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "type:Shoot",
+   "char:Punch",
+   "element:Forest"
+  ],
+  "cols": [
+   "team:Raimon",
+   "game:GO",
+   "user:Mark Evans"
+  ]
+ },
+ {
+  "rows": [
+   "game:VR",
+   "team:Little Gigantes",
+   "user:Sol Daystar"
+  ],
+  "cols": [
+   "element:Fire",
+   "exclusive:no",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "user:Jude Sharp",
+   "user:Mark Evans",
+   "game:GO"
+  ],
+  "cols": [
+   "element:Fire",
+   "exclusive:no",
+   "element:Wind"
+  ]
+ },
+ {
+  "rows": [
+   "type:Block",
+   "user:David Samford",
+   "game:VR"
+  ],
+  "cols": [
+   "players:3",
+   "element:Forest",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "user:Xavier Foster",
+   "char:Chain",
+   "element:Wind"
+  ],
+  "cols": [
+   "type:Shoot",
+   "players:1",
+   "game:IE3"
+  ]
+ },
+ {
+  "rows": [
+   "element:Forest",
+   "game:IE3",
+   "players:3"
+  ],
+  "cols": [
+   "char:Block",
+   "exclusive:no",
+   "user:Mark Evans"
+  ]
+ },
+ {
+  "rows": [
+   "game:CS",
+   "players:2",
+   "team:Raimon"
+  ],
+  "cols": [
+   "type:Block",
+   "element:Forest",
+   "char:Chain"
+  ]
+ },
+ {
+  "rows": [
+   "players:1",
+   "type:Dribble",
+   "exclusive:no"
+  ],
+  "cols": [
+   "element:Mountain",
+   "game:IE",
+   "team:Raimon"
+  ]
+ },
+ {
+  "rows": [
+   "game:IE",
+   "element:Wind",
+   "user:Axel Blaze"
+  ],
+  "cols": [
+   "players:1",
+   "exclusive:no",
+   "players:3"
+  ]
+ },
+ {
+  "rows": [
+   "user:Axel Blaze",
+   "char:Chain",
+   "team:Zeus"
+  ],
+  "cols": [
+   "players:1",
+   "type:Shoot",
+   "element:Wind"
+  ]
+ },
+ {
+  "rows": [
+   "type:Shoot",
+   "game:VR",
+   "players:3"
+  ],
+  "cols": [
+   "user:Basile Hardy",
+   "user:Elliot Ember",
+   "user:Caleb Stonewall"
+  ]
+ },
+ {
+  "rows": [
+   "team:Earth Eleven",
+   "game:GO",
+   "element:Mountain"
+  ],
+  "cols": [
+   "char:Block",
+   "type:Dribble",
+   "exclusive:yes"
+  ]
+ },
+ {
+  "rows": [
+   "user:Axel Blaze",
+   "team:Little Gigantes",
+   "user:Sol Daystar"
+  ],
+  "cols": [
+   "players:1",
+   "type:Shoot",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "team:Inazuma National",
+   "game:IE3",
+   "user:Jack Wallside"
+  ],
+  "cols": [
+   "char:Block",
+   "players:1",
+   "type:Block"
+  ]
+ },
+ {
+  "rows": [
+   "players:1",
+   "game:GO",
+   "game:IE"
+  ],
+  "cols": [
+   "type:Shoot",
+   "element:Forest",
+   "type:Block"
+  ]
+ },
+ {
+  "rows": [
+   "user:Axel Blaze",
+   "type:Dribble",
+   "element:Wind"
+  ],
+  "cols": [
+   "game:IE",
+   "players:2",
+   "team:Raimon"
+  ]
+ },
+ {
+  "rows": [
+   "user:Mark Evans",
+   "team:Inazuma National War God",
+   "type:Block"
+  ],
+  "cols": [
+   "game:VR",
+   "players:3",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "char:Chain",
+   "team:Inazuma National",
+   "user:Mark Evans"
+  ],
+  "cols": [
+   "element:Mountain",
+   "players:1",
+   "element:Wind"
+  ]
+ },
+ {
+  "rows": [
+   "players:2",
+   "players:1",
+   "exclusive:no"
+  ],
+  "cols": [
+   "game:GO",
+   "game:IE",
+   "game:VR"
+  ]
+ },
+ {
+  "rows": [
+   "user:Mark Evans",
+   "game:VR",
+   "type:Catch"
+  ],
+  "cols": [
+   "players:1",
+   "element:Forest",
+   "team:Inazuma National War God"
+  ]
+ },
+ {
+  "rows": [
+   "team:Earth Eleven",
+   "game:CS",
+   "type:Shoot"
+  ],
+  "cols": [
+   "user:Arion Sherwind",
+   "user:Victor Blade",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "exclusive:no",
+   "element:Wind",
+   "players:3"
+  ],
+  "cols": [
+   "game:CS",
+   "team:Backwater Raimon",
+   "user:Axel Blaze"
+  ]
+ },
+ {
+  "rows": [
+   "team:Inazuma National",
+   "char:Block",
+   "players:1"
+  ],
+  "cols": [
+   "user:Mark Evans",
+   "game:IE3",
+   "type:Shoot"
+  ]
+ },
+ {
+  "rows": [
+   "game:CS",
+   "game:GO",
+   "game:GX"
+  ],
+  "cols": [
+   "char:Punch",
+   "type:Dribble",
+   "char:Block"
+  ]
+ },
+ {
+  "rows": [
+   "team:Revolutionary Raimon",
+   "user:Jean-Pierre Lapin",
+   "element:Forest"
+  ],
+  "cols": [
+   "exclusive:no",
+   "game:GO",
+   "type:Catch"
+  ]
+ },
+ {
+  "rows": [
+   "type:Shoot",
+   "user:Shawn Froste",
+   "game:IE3"
+  ],
+  "cols": [
+   "team:Raimon",
+   "players:2",
+   "element:Wind"
+  ]
+ },
+ {
+  "rows": [
+   "char:Chain",
+   "user:Tezcat",
+   "team:Raimon"
+  ],
+  "cols": [
+   "type:Shoot",
+   "players:1",
+   "players:2"
+  ]
+ },
+ {
+  "rows": [
+   "team:Backwater Raimon",
+   "team:Ixar Fleet",
+   "user:Mark Evans"
+  ],
+  "cols": [
+   "element:Wind",
+   "players:1",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "players:3",
+   "team:Raimon",
+   "char:Block"
+  ],
+  "cols": [
+   "element:Mountain",
+   "user:Jack Wallside",
+   "type:Block"
+  ]
+ },
+ {
+  "rows": [
+   "game:GX",
+   "user:Nathan Swift",
+   "team:Earth Eleven"
+  ],
+  "cols": [
+   "element:Forest",
+   "element:Wind",
+   "type:Shoot"
+  ]
+ },
+ {
+  "rows": [
+   "team:Revolutionary Raimon",
+   "team:Earth Eleven",
+   "user:Mark Evans"
+  ],
+  "cols": [
+   "element:Mountain",
+   "char:Block",
+   "type:Catch"
+  ]
+ },
+ {
+  "rows": [
+   "team:Inazuma National War God",
+   "game:GX",
+   "players:1"
+  ],
+  "cols": [
+   "element:Forest",
+   "type:Catch",
+   "element:Wind"
+  ]
+ },
+ {
+  "rows": [
+   "char:Long",
+   "game:VR",
+   "team:Raimon"
+  ],
+  "cols": [
+   "exclusive:no",
+   "players:2",
+   "type:Shoot"
+  ]
+ },
+ {
+  "rows": [
+   "game:CS",
+   "user:Nathan Swift",
+   "team:Inazuma National"
+  ],
+  "cols": [
+   "type:Shoot",
+   "element:Forest",
+   "type:Block"
+  ]
+ },
+ {
+  "rows": [
+   "user:Arion Sherwind",
+   "team:Revolutionary Raimon",
+   "game:VR"
+  ],
+  "cols": [
+   "players:1",
+   "element:Mountain",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "game:IE2",
+   "team:Inazuma National",
+   "game:VR"
+  ],
+  "cols": [
+   "user:Shawn Froste",
+   "exclusive:no",
+   "element:Mountain"
+  ]
+ },
+ {
+  "rows": [
+   "players:3",
+   "players:1",
+   "type:Block"
+  ],
+  "cols": [
+   "user:Nathan Swift",
+   "element:Mountain",
+   "game:GO"
+  ]
+ },
+ {
+  "rows": [
+   "exclusive:no",
+   "user:Jude Sharp",
+   "type:Shoot"
+  ],
+  "cols": [
+   "players:3",
+   "players:1",
+   "game:IE3"
+  ]
+ },
+ {
+  "rows": [
+   "game:IE3",
+   "element:Fire",
+   "players:2"
+  ],
+  "cols": [
+   "user:Axel Blaze",
+   "user:Jude Sharp",
+   "type:Dribble"
+  ]
+ },
+ {
+  "rows": [
+   "team:Raimon",
+   "game:GO",
+   "user:Bailong"
+  ],
+  "cols": [
+   "element:Wind",
+   "players:1",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "team:Backwater Raimon",
+   "game:GX",
+   "user:Austin Hobbes"
+  ],
+  "cols": [
+   "type:Shoot",
+   "element:Mountain",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "char:Block",
+   "user:Shawn Froste",
+   "user:Mark Evans"
+  ],
+  "cols": [
+   "game:VR",
+   "team:Inazuma National",
+   "team:Raimon"
+  ]
+ },
+ {
+  "rows": [
+   "team:Revolutionary Raimon",
+   "type:Dribble",
+   "user:Nathan Swift"
+  ],
+  "cols": [
+   "players:2",
+   "element:Forest",
+   "players:3"
+  ]
+ },
+ {
+  "rows": [
+   "type:Shoot",
+   "team:Little Gigantes",
+   "user:Shawn Froste"
+  ],
+  "cols": [
+   "players:1",
+   "game:IE3",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "user:Axel Blaze",
+   "game:VR",
+   "team:Zeus"
+  ],
+  "cols": [
+   "exclusive:no",
+   "type:Shoot",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "type:Shoot",
+   "exclusive:yes",
+   "user:Jack Wallside"
+  ],
+  "cols": [
+   "team:Raimon",
+   "game:IE2",
+   "char:Block"
+  ]
+ },
+ {
+  "rows": [
+   "user:Arion Sherwind",
+   "char:Long",
+   "char:Chain"
+  ],
+  "cols": [
+   "element:Fire",
+   "game:GO",
+   "element:Mountain"
+  ]
+ },
+ {
+  "rows": [
+   "user:Tezcat",
+   "team:Inazuma National War God",
+   "game:GX"
+  ],
+  "cols": [
+   "players:1",
+   "type:Shoot",
+   "players:2"
+  ]
+ },
+ {
+  "rows": [
+   "element:Wind",
+   "game:IE3",
+   "user:Elliot Ember"
+  ],
+  "cols": [
+   "players:1",
+   "exclusive:no",
+   "players:3"
+  ]
+ },
+ {
+  "rows": [
+   "user:Mark Evans",
+   "user:Jack Wallside",
+   "element:Forest"
+  ],
+  "cols": [
+   "char:Block",
+   "type:Shoot",
+   "players:3"
+  ]
+ },
+ {
+  "rows": [
+   "element:Forest",
+   "user:Mark Evans",
+   "type:Catch"
+  ],
+  "cols": [
+   "team:Inazuma National",
+   "game:IE3",
+   "players:3"
+  ]
+ },
+ {
+  "rows": [
+   "players:1",
+   "game:IE2",
+   "element:Wind"
+  ],
+  "cols": [
+   "user:Hurley Kane",
+   "user:Shawn Froste",
+   "type:Dribble"
+  ]
+ },
+ {
+  "rows": [
+   "char:Chain",
+   "team:Zeus",
+   "user:Jack Wallside"
+  ],
+  "cols": [
+   "type:Shoot",
+   "players:1",
+   "element:Mountain"
+  ]
+ },
+ {
+  "rows": [
+   "user:Nathan Swift",
+   "element:Forest",
+   "team:Inazuma National War God"
+  ],
+  "cols": [
+   "type:Shoot",
+   "players:1",
+   "players:2"
+  ]
+ },
+ {
+  "rows": [
+   "char:Chain",
+   "user:Arion Sherwind",
+   "element:Wind"
+  ],
+  "cols": [
+   "game:GO",
+   "game:CS",
+   "team:Revolutionary Raimon"
+  ]
+ },
+ {
+  "rows": [
+   "user:Arion Sherwind",
+   "game:IE3",
+   "team:Backwater Raimon"
+  ],
+  "cols": [
+   "type:Dribble",
+   "players:3",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "user:Sonny Wright",
+   "user:Caleb Stonewall",
+   "element:Wind"
+  ],
+  "cols": [
+   "players:3",
+   "exclusive:no",
+   "team:Inazuma National War God"
+  ]
+ },
+ {
+  "rows": [
+   "user:Arion Sherwind",
+   "team:Revolutionary Raimon",
+   "players:3"
+  ],
+  "cols": [
+   "type:Shoot",
+   "exclusive:no",
+   "element:Fire"
+  ]
+ },
+ {
+  "rows": [
+   "game:IE2",
+   "team:Inazuma National War God",
+   "element:Forest"
+  ],
+  "cols": [
+   "type:Catch",
+   "exclusive:no",
+   "user:Mark Evans"
+  ]
+ },
+ {
+  "rows": [
+   "players:1",
+   "players:2",
+   "players:3"
+  ],
+  "cols": [
+   "team:Inazuma National",
+   "game:GO",
+   "game:CS"
+  ]
+ },
+ {
+  "rows": [
+   "game:GO",
+   "type:Block",
+   "team:Revolutionary Raimon"
+  ],
+  "cols": [
+   "element:Forest",
+   "element:Mountain",
+   "players:3"
+  ]
+ },
+ {
+  "rows": [
+   "char:Chain",
+   "user:Jude Sharp",
+   "team:Inazuma National War God"
+  ],
+  "cols": [
+   "game:VR",
+   "exclusive:no",
+   "element:Wind"
+  ]
+ },
+ {
+  "rows": [
+   "team:Chrono Storm",
+   "game:IE2",
+   "user:Nathan Swift"
+  ],
+  "cols": [
+   "exclusive:no",
+   "type:Block",
+   "type:Shoot"
+  ]
+ },
+ {
+  "rows": [
+   "user:Elliot Ember",
+   "exclusive:no",
+   "team:Inazuma National War God"
+  ],
+  "cols": [
+   "players:3",
+   "type:Shoot",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "team:Inazuma National",
+   "exclusive:no",
+   "game:VR"
+  ],
+  "cols": [
+   "element:Forest",
+   "char:Long",
+   "user:Mark Evans"
+  ]
+ },
+ {
+  "rows": [
+   "user:Byron Love",
+   "type:Catch",
+   "team:Raimon"
+  ],
+  "cols": [
+   "players:3",
+   "element:Wind",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "team:Inazuma National",
+   "element:Forest",
+   "user:Jude Sharp"
+  ],
+  "cols": [
+   "exclusive:no",
+   "type:Shoot",
+   "players:2"
+  ]
+ },
+ {
+  "rows": [
+   "user:Jude Sharp",
+   "char:Long",
+   "element:Forest"
+  ],
+  "cols": [
+   "game:IE3",
+   "team:Raimon",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "user:Bailong",
+   "team:Raimon",
+   "user:Axel Blaze"
+  ],
+  "cols": [
+   "players:1",
+   "type:Shoot",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "exclusive:no",
+   "exclusive:yes",
+   "type:Catch"
+  ],
+  "cols": [
+   "team:Raimon",
+   "game:GO",
+   "game:GX"
+  ]
+ },
+ {
+  "rows": [
+   "element:Forest",
+   "element:Mountain",
+   "type:Catch"
+  ],
+  "cols": [
+   "team:Revolutionary Raimon",
+   "players:1",
+   "game:IE"
+  ]
+ },
+ {
+  "rows": [
+   "user:Erik Eagle",
+   "game:IE2",
+   "team:Protocol Omega"
+  ],
+  "cols": [
+   "type:Shoot",
+   "exclusive:no",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "team:Raimon",
+   "players:2",
+   "game:IE"
+  ],
+  "cols": [
+   "type:Block",
+   "user:Axel Blaze",
+   "user:Jude Sharp"
+  ]
+ },
+ {
+  "rows": [
+   "game:IE2",
+   "user:Axel Blaze",
+   "char:Block"
+  ],
+  "cols": [
+   "element:Fire",
+   "players:2",
+   "team:Raimon"
+  ]
+ },
+ {
+  "rows": [
+   "type:Shoot",
+   "char:Block",
+   "exclusive:yes"
+  ],
+  "cols": [
+   "game:VR",
+   "user:Jack Wallside",
+   "element:Forest"
+  ]
+ },
+ {
+  "rows": [
+   "team:Raimon",
+   "element:Mountain",
+   "players:1"
+  ],
+  "cols": [
+   "char:Punch",
+   "user:Mark Evans",
+   "char:Block"
+  ]
+ },
+ {
+  "rows": [
+   "players:1",
+   "type:Shoot",
+   "element:Wind"
+  ],
+  "cols": [
+   "team:South Cirrus",
+   "char:Long",
+   "team:Inazuma National War God"
+  ]
+ },
+ {
+  "rows": [
+   "team:Raimon",
+   "game:IE",
+   "element:Void"
+  ],
+  "cols": [
+   "players:2",
+   "char:Long",
+   "type:Block"
+  ]
+ },
+ {
+  "rows": [
+   "user:Kevin Dragonfly",
+   "element:Fire",
+   "team:Little Gigantes"
+  ],
+  "cols": [
+   "exclusive:no",
+   "players:1",
+   "game:IE2"
+  ]
+ },
+ {
+  "rows": [
+   "user:Sonny Wright",
+   "game:GX",
+   "user:Basile Hardy"
+  ],
+  "cols": [
+   "element:Fire",
+   "type:Shoot",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "team:South Cirrus",
+   "team:Revolutionary Raimon",
+   "players:3"
+  ],
+  "cols": [
+   "element:Fire",
+   "exclusive:yes",
+   "element:Wind"
+  ]
+ },
+ {
+  "rows": [
+   "team:Raimon",
+   "game:VR",
+   "team:Inazuma National"
+  ],
+  "cols": [
+   "players:2",
+   "type:Dribble",
+   "players:3"
+  ]
+ },
+ {
+  "rows": [
+   "team:Inazuma National War God",
+   "user:Mark Evans",
+   "game:GX"
+  ],
+  "cols": [
+   "element:Mountain",
+   "element:Forest",
+   "element:Wind"
+  ]
+ },
+ {
+  "rows": [
+   "exclusive:yes",
+   "user:Mark Evans",
+   "char:Chain"
+  ],
+  "cols": [
+   "element:Forest",
+   "game:VR",
+   "type:Shoot"
+  ]
+ },
+ {
+  "rows": [
+   "user:Arion Sherwind",
+   "user:Mark Evans",
+   "team:Earth Eleven"
+  ],
+  "cols": [
+   "element:Wind",
+   "type:Shoot",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "game:GX",
+   "user:Mark Evans",
+   "game:IE2"
+  ],
+  "cols": [
+   "element:Wind",
+   "exclusive:no",
+   "char:Block"
+  ]
+ },
+ {
+  "rows": [
+   "players:1",
+   "element:Fire",
+   "game:IE3"
+  ],
+  "cols": [
+   "type:Shoot",
+   "char:Block",
+   "type:Block"
+  ]
+ },
+ {
+  "rows": [
+   "user:Fei Rune",
+   "user:Zanark Avalonic",
+   "team:Inazuma National"
+  ],
+  "cols": [
+   "exclusive:no",
+   "element:Mountain",
+   "type:Shoot"
+  ]
+ },
+ {
+  "rows": [
+   "team:Inazuma National",
+   "char:Long",
+   "user:Sonny Wright"
+  ],
+  "cols": [
+   "exclusive:no",
+   "players:1",
+   "players:3"
+  ]
+ },
+ {
+  "rows": [
+   "game:IE3",
+   "team:Revolutionary Raimon",
+   "user:Jack Wallside"
+  ],
+  "cols": [
+   "players:3",
+   "players:2",
+   "char:Block"
+  ]
+ },
+ {
+  "rows": [
+   "user:Austin Hobbes",
+   "char:Chain",
+   "type:Dribble"
+  ],
+  "cols": [
+   "element:Mountain",
+   "exclusive:no",
+   "game:IE3"
+  ]
+ },
+ {
+  "rows": [
+   "players:1",
+   "game:IE2",
+   "game:IE"
+  ],
+  "cols": [
+   "type:Dribble",
+   "char:Long",
+   "team:Raimon"
+  ]
+ },
+ {
+  "rows": [
+   "char:Block",
+   "element:Fire",
+   "game:CS"
+  ],
+  "cols": [
+   "team:Revolutionary Raimon",
+   "exclusive:no",
+   "players:1"
+  ]
+ },
+ {
+  "rows": [
+   "type:Block",
+   "char:Long",
+   "user:Fei Rune"
+  ],
+  "cols": [
+   "element:Mountain",
+   "players:1",
+   "exclusive:no"
+  ]
+ },
+ {
+  "rows": [
+   "game:IE3",
+   "game:IE",
+   "exclusive:no"
+  ],
+  "cols": [
+   "type:Shoot",
+   "char:Long",
+   "type:Dribble"
+  ]
+ }
+]

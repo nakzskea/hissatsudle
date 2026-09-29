@@ -3,19 +3,12 @@ import { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
 import Banner from "@/components/Banner";
 import { CellView, Icon } from "@/components/Cells";
-import { COLUMNS, EMOJI, GAMES, type Cell, type Hissatsu, compare, desc, fold, label, searchText, t, mask } from "@/lib/data";
+import { COLUMNS, EMOJI, GAMES, type Cell, type Hissatsu, compare, desc, fold, label, searchText, t, mask, dailyIndex, today } from "@/lib/data";
 import { useData, useLang } from "@/lib/useData";
+import Confetti from "@/components/Confetti";
 
 const REVEAL_AFTER = 3; // révéler une catégorie au hasard
 const DESC_AFTER = 5; // dévoiler la description
-const today = () => new Date().toLocaleDateString("fr-CA");
-
-// Même technique pour tout le monde : hash de la date, avec un grain propre à chaque mode daily
-function dailyIndex(len: number, salt: string) {
-  let hash = 0;
-  for (const c of today() + salt) hash = (hash * 31 + c.charCodeAt(0)) >>> 0;
-  return hash % len;
-}
 
 const ITEM_W: Record<string, number> = { icons: 1.75, sprites: 4.35, emblems: 3.5, text: 2.2, game: 5.4 };
 
@@ -135,6 +128,7 @@ export default function Game() {
 
   return (
     <>
+      {done && <Confetti />}    
       <Banner
         title={<>Hissatsu<b>Dle</b></>}
         lang={lang}
@@ -150,6 +144,9 @@ export default function Game() {
             <button className={`badge ${mode === "endless" ? "on" : ""}`} onClick={() => setMode("endless")}>
               <span>{t(lang, "endless")}</span>
             </button>
+            <Link className="badge" href="/grille">
+              <span>HissatsuDoku</span>
+            </Link>
           </>
         }
         right={

@@ -50,7 +50,8 @@ body {
 }
 .logo b { color: var(--gold); }
 
-.modes, .links { display: flex; align-items: center; gap: 0.6rem; }
+.modes, .links { display: flex; align-items: center; gap: 0.6rem; flex: 1 1 0; min-width: 0; flex-wrap: wrap; }
+.links { justify-content: flex-end; }
 
 .badge {
   display: inline-block;
@@ -59,14 +60,14 @@ body {
   border-radius: 999px;
   background: linear-gradient(180deg, #e9eef7, #c3cfe2);
   color: var(--ink);
-  font: 600 0.95rem Fredoka, sans-serif;
+  font: 800 0.95rem Fredoka, sans-serif;
   letter-spacing: 0.04em;
-  text-transform: uppercase;
   text-decoration: none;
   cursor: pointer;
   box-shadow: 0 4px 0 #6b7a94;
 }
-.badge.on, a.badge { background: linear-gradient(180deg, var(--gold), var(--gold2)); box-shadow: 0 4px 0 #8a5b00; }
+
+.badge.on, .links a.badge { background: linear-gradient(180deg, var(--gold), var(--gold2)); box-shadow: 0 4px 0 #8a5b00; }
 .badge:active { transform: translateY(3px); box-shadow: none; }
 .badge:disabled { opacity: 0.55; cursor: default; }
 .badge:disabled:active { transform: none; box-shadow: 0 4px 0 #6b7a94; }
@@ -365,3 +366,51 @@ main { max-width: 84rem; margin: 1.5rem auto; padding: 0 1rem; }
   background-clip: text;
   color: transparent;
 }
+
+.grid-score {
+  display: flex; gap: 2rem; align-items: baseline; justify-content: center;
+  width: max-content; margin: 0 auto; padding: 0.5rem 1.6rem;
+  background: var(--panel); border: 4px solid var(--ink); border-radius: 14px;
+}
+.grid-score p { margin: 0; font: 400 1.6rem var(--font-title), sans-serif; }
+
+.grid3 { display: grid; grid-template-columns: repeat(4, 8.5rem); gap: 0.5rem; justify-content: center; margin: 1rem auto; }
+.grid-head {
+  display: flex; align-items: center; justify-content: center; text-align: center;
+  padding: 0.3rem; background: var(--panel); border: 4px solid var(--ink); border-radius: 12px;
+}
+.grid-head .icon { width: 2.4rem; height: 2.4rem; object-fit: contain; }
+.grid-head .emblem { width: 2.6rem; height: 2.6rem; object-fit: contain; }
+.grid-head .sprite { width: 3rem; image-rendering: pixelated; }
+.grid-head .txt { font-size: 0.95rem; }
+.grid-cell { width: 8.5rem; height: 6.4rem; padding: 0; background: var(--panel); border: 4px solid var(--ink); border-radius: 12px; cursor: pointer; overflow: hidden; }
+.grid-cell img { width: 100%; height: 100%; object-fit: cover; }
+.grid-cell:disabled { cursor: default; }
+
+.modal { position: fixed; inset: 0; z-index: 20; display: flex; justify-content: center; padding: 12vh 1rem 0; background: rgba(0, 0, 0, 0.55); }
+.modal-box { width: min(46rem, 100%); height: max-content; padding: 1rem; background: var(--panel); border: 4px solid var(--ink); border-radius: 16px; }
+
+.confetti { position: fixed; inset: 0; z-index: 30; overflow: hidden; pointer-events: none; }
+.confetti i {
+  position: absolute; left: 50%; top: 50%;
+  width: 0.7rem; height: 1rem; border-radius: 2px;
+  animation-name: burst; animation-fill-mode: forwards;
+}
+@keyframes burst {
+  0% {
+    transform: translate(-50%, -50%) rotate(0deg) scale(0.3); opacity: 1;
+    animation-timing-function: cubic-bezier(0.1, 0.8, 0.3, 1);   /* détente rapide */
+  }
+  55% {
+    transform: translate(calc(-50% + var(--x)), calc(-50% + var(--y))) rotate(var(--r)) scale(1); opacity: 1;
+    animation-timing-function: cubic-bezier(0.5, 0, 0.9, 0.6);   /* puis ça retombe */
+  }
+  100% {
+    transform: translate(calc(-50% + var(--x)), calc(-50% + var(--y) + 45vh)) rotate(calc(var(--r) * 2)) scale(1);
+    opacity: 0;
+  }
+}
+@media (prefers-reduced-motion: reduce) { .confetti { display: none; } }
+
+.grid-end { width: calc(4 * 8.5rem + 3 * 0.5rem); max-width: 100%; margin: 1.25rem auto; padding: 0.8rem 1rem; }
+.grid-end .win { font-size: 4rem; }

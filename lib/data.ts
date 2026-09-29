@@ -42,6 +42,7 @@ const FR: Record<string, string> = {
   try: "essai", tries: "essais", reveal: "Révéler une case", description: "Description",
   hideDescription: "Masquer la description", hints: "Indices", noUser2: "Pas de second utilisateur",
   gamesPicker: "Jeux inclus dans le tirage et la recherche :", found: "Trouvé en",
+  p1: "1 joueur", p2: "2 joueurs", p3: "3+ joueurs", excl: "Exclusif jeu", notExcl: "Vu dans l'anime", grid: "Grille", triesLeft: "essais restants", searchTech: "Nom de la technique", gridWin: "Grille parfaite !", gridOver: "Terminé",
 };
 const EN: Record<string, string> = {
   Shoot: "Shoot", Dribble: "Dribble", Block: "Block", Catch: "Catch",
@@ -53,6 +54,7 @@ const EN: Record<string, string> = {
   try: "try", tries: "tries", reveal: "Reveal a cell", description: "Description",
   hideDescription: "Hide description", hints: "Hints", noUser2: "No second user",
   gamesPicker: "Games included in the draw and the search:", found: "Found in",
+  p1: "1 user", p2: "2 users", p3: "3+ users", excl: "Game only", notExcl: "Seen in anime", grid: "Grid", triesLeft: "tries left", searchTech: "Hissatsu name", gridWin: "Perfect grid!", gridOver: "Game over", 
 };
 const LABELS: Record<Lang, Record<string, string>> = { fr: FR, en: EN, jp: EN };
 
@@ -155,3 +157,28 @@ export function compare(g: Hissatsu, target: Hissatsu, lang: Lang): Cell[] {
 }
 
 export const EMOJI: Record<CellState, string> = { ok: "🟩", part: "🟧", no: "🟥" };
+
+export type Grid = { rows: string[]; cols: string[] };
+
+export const today = () => new Date().toLocaleDateString("fr-CA");
+
+// Même tirage pour tout le monde : hash de la date, avec un grain propre à chaque mode
+export function dailyIndex(len: number, salt: string) {
+  let hash = 0;
+  for (const c of today() + salt) hash = (hash * 31 + c.charCodeAt(0)) >>> 0;
+  return hash % len;
+}
+
+// Miroir TS des tests de grilles.py
+export function critTest(h: Hissatsu, crit: string) {
+  const i = crit.indexOf(":");
+  const [fam, v] = [crit.slice(0, i), crit.slice(i + 1)];
+  if (fam === "game") return h.debut === v;
+  if (fam === "type") return h.type === v;
+  if (fam === "element") return h.element.split(" ").includes(v);
+  if (fam === "char") return (h.characteristic ?? []).includes(v);
+  if (fam === "team") return h.teams.includes(v);
+  if (fam === "user") return [...h.user, ...(h.user2 ?? [])].includes(v);
+  if (fam === "players") return v === "3" ? h.users >= 3 : h.users === Number(v);
+  return h.exclusive === (v === "yes");
+}

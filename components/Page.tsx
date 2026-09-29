@@ -8,7 +8,7 @@ export default function ContentPage({ titles, content }: { titles: Record<string
   const key = lang === "fr" ? "fr" : "en";
   return (
     <>
-      <Banner title={titles[key]} lang={lang} setLang={setLang} left={<HomeLink>← {key === "fr" ? "Jeu" : "Game"}</HomeLink>} />
+      <Banner title={titles[key]} lang={lang} setLang={setLang} left={<HomeLink>{key === "fr" ? "Jeu" : "Game"}</HomeLink>} />
       <main>
         <section className="panel prose">{content[key]}</section>
       </main>
