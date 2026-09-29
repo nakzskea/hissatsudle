@@ -4,6 +4,7 @@ import Banner, { HomeLink } from "@/components/Banner";
 import { Emblem, Icon, Sprite } from "@/components/Cells";
 import { ELEMENTS, GAMES, TYPES, desc, fold, label, searchText, t } from "@/lib/data";
 import { useData, useLang } from "@/lib/useData";
+import Link from "next/link";
 
 export default function Techniques() {
   const data = useData();
@@ -42,7 +43,19 @@ export default function Techniques() {
 
   return (
     <>
-      <Banner title={t(lang, "techniques")} lang={lang} setLang={setLang} left={<HomeLink>HissatsuDle</HomeLink>} />
+      <Banner 
+        title={t(lang, "techniques")} 
+        lang={lang} 
+        setLang={setLang} 
+        left={
+          <>
+            <HomeLink>HissatsuDle</HomeLink>
+            <Link className="badge" href="/grille">
+              <span>HissatsuDoku</span>
+            </Link>
+          </>
+        } 
+      />
       <main>
         <section className="panel filters">
           <input value={q} onChange={(e) => setQ(e.target.value)} placeholder={t(lang, "searchAll")} />
