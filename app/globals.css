@@ -177,7 +177,11 @@ main { max-width: 84rem; margin: 1.5rem auto; padding: 0 1rem; }
 .suggestions img { width: 3.6rem; height: 2.4rem; object-fit: cover; border-radius: 6px; }
 
 /* ---------- grille ---------- */
-.scroller { margin-top: 1.25rem; overflow-x: auto; padding-bottom: 0.75rem; scrollbar-width: thin; }
+.scroller {
+  margin: 1.25rem calc(50% - 50vw + 1.2rem) 0;  /* déborde du max-width de main */
+  overflow-x: auto;
+  padding-bottom: 0.75rem;
+}
 .head, .row {
   display: grid;
   /* largeurs calculées dans page.tsx : chaque colonne s'élargit selon son contenu le plus rempli */
