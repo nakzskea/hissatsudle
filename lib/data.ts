@@ -121,8 +121,13 @@ export type Cell =
 
 // Familles d'équipes : Revolutionary Raimon, Raimon Kings, Zeus (Ares) et Inazuma National War God valent
 // leur équipe d'origine ; Royal Academy Redux reste distincte.
-const family = (n: string) =>
-  n.replace(/\s*\([^)]*\)/g, "").replace(/^Revolutionary /i, "").replace(/ (Kings|War God)$/i, "").trim();
+// Déclinaisons dont le nom ne dit pas de quelle équipe elles viennent
+const ALIAS: Record<string, string> = { "Backwater Raimon": "Raimon", "Tactical Royal": "Royal Academy" };
+
+const family = (n: string) => {
+  const base = n.replace(/\s*\([^)]*\)/g, "").replace(/^Revolutionary /i, "").replace(/ (Kings|War God)$/i, "").trim();
+  return ALIAS[base] ?? base;
+};
 
 function overlap(a: string[], b: string[]): CellState {
   const shared = a.filter((x) => b.includes(x)).length;

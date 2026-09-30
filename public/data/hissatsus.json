@@ -3277,7 +3277,7 @@
   "element": "Wind",
   "users": 1,
   "debut": "IE",
-  "tp": null,
+  "tp": 17,
   "characteristic": null,
   "exclusive": false,
   "image": "https://static.wikia.nocookie.net/inazuma-eleven/images/4/4c/%28IE%29_Tatsumaki_Senpuu_4.png/revision/latest?cb=20240516121935",
@@ -3490,7 +3490,7 @@
   "debut": "IE",
   "tp": 27,
   "characteristic": [
-   "Counter",
+   "Block",
    "Chain"
   ],
   "exclusive": false,
@@ -3520,7 +3520,7 @@
   "debut": "IE",
   "tp": 30,
   "characteristic": [
-   "Counter",
+   "Block",
    "Chain"
   ],
   "exclusive": false,
@@ -3928,7 +3928,7 @@
   "debut": "IE",
   "tp": 15,
   "characteristic": [
-   "Counter",
+   "Block",
    "Chain"
   ],
   "exclusive": false,
@@ -8583,14 +8583,15 @@
   },
   "type": "Dribble",
   "element": "Fire",
-  "users": 1,
+  "users": 2,
   "debut": "IE3",
   "tp": 48,
   "characteristic": null,
   "exclusive": false,
   "image": "https://static.wikia.nocookie.net/inazuma-eleven/images/f/f3/%28IE%29_Judge_Through_3_7.png/revision/latest?cb=20181112150853",
   "user": [
-   "Cecil Crowley"
+   "Cecil Crowley",
+   "Niccolo Mantegna"
   ],
   "user2": [],
   "description": {
