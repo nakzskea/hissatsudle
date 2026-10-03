@@ -1883,7 +1883,9 @@
   "users": 3,
   "debut": "IE3",
   "tp": 76,
-  "characteristic": null,
+  "characteristic": [ 
+    "Long" 
+    ],
   "exclusive": false,
   "image": "https://static.wikia.nocookie.net/inazuma-eleven/images/9/9d/%28IE%29_Grand_Fire_G2_4.png/revision/latest?cb=20170609112009",
   "user": [
