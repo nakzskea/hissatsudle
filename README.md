@@ -71,7 +71,8 @@ Une erreur dans les données ? [mremy.dev@gmail.com](mailto:mremy.dev@gmail.com)
 Développé par [Milan Remy](https://mremy-dev.fr).
 
 ## TODO :
-ajouter un lien vers le site lorsqu'il sera en ligne dans le bouton partager les résultats / changer en fonction de la langue aussi
+ajouter un lien vers le site lorsqu'il sera en ligne dans le bouton partager les résultats / changer en fonction de la langue aussi  
+ajouter toutes les réponses possibles lorsqu'on perd au hissatsudoku et qu'on clique sur l'item qu'on avait pas trouvé
 
 ### icones : 
 - logo du site (ballon avec un H?)
