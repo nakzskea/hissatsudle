@@ -7,8 +7,8 @@ import { COLUMNS, EMOJI, GAMES, type Cell, type Hissatsu, compare, desc, fold, l
 import { useData, useLang } from "@/lib/useData";
 import Confetti from "@/components/Confetti";
 
-const REVEAL_AFTER = 3; // révéler une catégorie au hasard
-const DESC_AFTER = 5; // dévoiler la description
+const REVEAL_AFTER = 5; // révéler une catégorie au hasard
+const DESC_AFTER = 7; // dévoiler la description
 
 const ITEM_W: Record<string, number> = { icons: 1.75, sprites: 4.35, emblems: 3.5, text: 2.2, game: 5.4 };
 
