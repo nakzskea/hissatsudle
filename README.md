@@ -45,7 +45,25 @@ Les JSON de `public/data/` sont la **source de vérité**. Ils ont été constit
 | `emblemes.json` | Les emblèmes d'équipe |
 | `equipes_fr.json` | Noms d'équipe en français et alias de recherche |
 | `icones.json` | Icônes officielles par type, élément, caractéristique et jeu (variantes `_fr`) |
-| `grilles.json` | 500 grilles 3×3 précalculées pour HissatsuDoku, dont chaque case a au moins 3 réponses valides |
+| `grilles.json` | 1398 grilles 3×3 précalculées pour HissatsuDoku, classées par difficulté |
+
+### Les grilles du HissatsuDoku
+
+Une grille, c'est 3 critères en lignes et 3 en colonnes ; chaque case attend une technique qui satisfait les deux. Les critères possibles : jeu de début, type, élément, caractéristique, équipe, utilisateur (principal **ou** secondaire), nombre de joueurs, exclusivité au jeu.
+
+Elles sont précalculées par un script qui tire des combinaisons au hasard et ne garde que les valides :
+
+- lignes et colonnes n'utilisent jamais la même famille de critère, sinon on pourrait tirer *Tir* × *Arrêt*, une case impossible ;
+- chaque case doit avoir au moins 2 réponses ;
+- les équipes et joueurs retenus comme critères sont ceux qui apparaissent assez souvent dans la base, pour éviter les intersections trop pauvres.
+
+La **difficulté** d'une grille, c'est sa case la plus serrée : 
+- facile ≥ 8 réponses 
+- moyenne entre 7 et 4 réponses
+- difficile < 4 
+
+Le script en génère autant de chaque (~500) puis les entrelace facile / moyenne / difficile dans le fichier. Comme le front pioche par date, la difficulté alterne d'un jour à l'autre sans aucune logique côté app.
+
 
 ## Structure
 
@@ -72,7 +90,6 @@ Développé par [Milan Remy](https://mremy-dev.fr).
 
 ## TODO :
 ajouter un lien vers le site lorsqu'il sera en ligne dans le bouton partager les résultats / changer en fonction de la langue aussi  
-ajouter toutes les réponses possibles lorsqu'on perd au hissatsudoku et qu'on clique sur l'item qu'on avait pas trouvé
 
 ### icones : 
 - logo du site (ballon avec un H?)

@@ -42,7 +42,8 @@ const FR: Record<string, string> = {
   try: "essai", tries: "essais", reveal: "Révéler une case", description: "Description",
   hideDescription: "Masquer la description", hints: "Indices", noUser2: "Pas de second utilisateur",
   gamesPicker: "Jeux inclus dans le tirage et la recherche :", found: "Trouvé en",
-  p1: "1 joueur", p2: "2 joueurs", p3: "3+ joueurs", excl: "Exclusif jeu", notExcl: "Vu dans l'anime", grid: "Grille", triesLeft: "essais restants", searchTech: "Nom de la technique", gridWin: "Grille parfaite !", gridOver: "Terminé",
+  p1: "1 joueur", p2: "2 joueurs", p3: "3+ joueurs", excl: "Exclusif jeu", notExcl: "Vu dans l'anime", grid: "Grille", triesLeft: "essais restants", searchTech: "Nom de la technique", gridWin: "Grille completée !", gridOver: "Game over",
+  answers: "réponses possibles",
 };
 const EN: Record<string, string> = {
   Shoot: "Shoot", Dribble: "Dribble", Block: "Block", Catch: "Catch",
@@ -54,7 +55,8 @@ const EN: Record<string, string> = {
   try: "try", tries: "tries", reveal: "Reveal a cell", description: "Description",
   hideDescription: "Hide description", hints: "Hints", noUser2: "No second user",
   gamesPicker: "Games included in the draw and the search:", found: "Found in",
-  p1: "1 user", p2: "2 users", p3: "3+ users", excl: "Game only", notExcl: "Seen in anime", grid: "Grid", triesLeft: "tries left", searchTech: "Hissatsu name", gridWin: "Perfect grid!", gridOver: "Game over", 
+  p1: "1 user", p2: "2 users", p3: "3+ users", excl: "Game only", notExcl: "Seen in anime", grid: "Grid", triesLeft: "tries left", searchTech: "Hissatsu name", gridWin: "Completed grid!", gridOver: "Game over", 
+  answers: "possible answers", 
 };
 const LABELS: Record<Lang, Record<string, string>> = { fr: FR, en: EN, jp: EN };
 

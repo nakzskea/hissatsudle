@@ -418,3 +418,13 @@ main { max-width: 84rem; margin: 1.5rem auto; padding: 0 1rem; }
 
 .grid-end { width: calc(4 * 8.5rem + 3 * 0.5rem); max-width: 100%; margin: 1.25rem auto; padding: 0.8rem 1rem; }
 .grid-end .win { font-size: 4rem; }
+
+.sol-count { margin: 0 0 0.6rem; font: 400 1.3rem var(--font-title), sans-serif; text-align: center; }
+
+.suggestions button:disabled { color: var(--ink); opacity: 1; cursor: default; }
+.suggestions button:disabled:hover { background: none; }
+.suggestions button.found, .suggestions button.found:hover {
+  background: linear-gradient(180deg, var(--gold), var(--gold2));
+  color: var(--ink);
+  font-weight: 600;
+}

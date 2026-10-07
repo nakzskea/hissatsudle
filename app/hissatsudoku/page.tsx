@@ -49,6 +49,15 @@ export default function Grille() {
       .slice(0, 40);
   }, [data, query, active, picks]);
 
+  // Partie finie : toutes les techniques qui auraient marché dans la case cliquée
+  const solutions = useMemo(() => {
+    if (active === null || !grid || !data) return [];
+    const mine = picks[active];
+    return data.list
+      .filter((h) => critTest(h, grid.rows[Math.floor(active / 3)]) && critTest(h, grid.cols[active % 3]))
+      .sort((a, b) => Number(b.name === mine) - Number(a.name === mine));
+  }, [active, grid, data, picks]);
+
   function play(h: Hissatsu) {
     if (active === null || !grid || done) return;
     const ok = critTest(h, grid.rows[Math.floor(active / 3)]) && critTest(h, grid.cols[active % 3]);
@@ -121,7 +130,7 @@ export default function Grille() {
                   <button
                     key={c}
                     className={`grid-cell ${h ? "ok" : ""}`}
-                    disabled={done || !!h}
+                    disabled={!done && !!h}
                     onClick={() => setActive(i)}
                     title={h ? label(h, lang) : ""}
                   >
@@ -146,37 +155,56 @@ export default function Grille() {
         )}
       </main>
 
-      {active !== null && !done && (
+      {active !== null && (
         <div className="modal" onClick={close}>
           <div className="modal-box" onClick={(e) => e.stopPropagation()}>
-            <form
-              className="guess"
-              onSubmit={(e) => {
-                e.preventDefault();
-                const exact = matches.find((h) => fold(label(h, lang)) === fold(query.trim()));
-                if (exact ?? matches[0]) play(exact ?? matches[0]);
-              }}
-            >
-              <input
-                value={query}
-                onChange={(e) => setQuery(e.target.value)}
-                onKeyDown={(e) => e.key === "Escape" && close()}
-                placeholder={t(lang, "searchTech")}
-                autoComplete="off"
-                autoFocus
-              />
-              <button className="go">{t(lang, "guess")}</button>
-            </form>
-            <ul className="suggestions" hidden={!matches.length}>
-              {matches.map((h) => (
-                <li key={h.name}>
-                  <button type="button" onClick={() => play(h)}>
-                    <img src={h.image} alt="" loading="lazy" />
-                    {label(h, lang)}
-                  </button>
-                </li>
-              ))}
-            </ul>
+            {done ? (
+              <>
+                <p className="sol-count">{solutions.length} {t(lang, "answers")}</p>
+                <ul className="suggestions">
+                  {solutions.map((h) => (
+                    <li key={h.name}>
+                      <button type="button" className={active !== null && picks[active] === h.name ? "found" : ""} disabled>
+                        <img src={h.image} alt="" loading="lazy" />
+                        {label(h, lang)}
+                      </button>
+                    </li>
+                  ))}
+                </ul>
+              </>
+            ) : (
+              <>
+                <p className="sol-count">{solutions.length} {t(lang, "answers")}</p>
+                <form
+                  className="guess"
+                  onSubmit={(e) => {
+                    e.preventDefault();
+                    const exact = matches.find((h) => fold(label(h, lang)) === fold(query.trim()));
+                    if (exact ?? matches[0]) play(exact ?? matches[0]);
+                  }}
+                >
+                  <input
+                    value={query}
+                    onChange={(e) => setQuery(e.target.value)}
+                    onKeyDown={(e) => e.key === "Escape" && close()}
+                    placeholder={t(lang, "searchTech")}
+                    autoComplete="off"
+                    autoFocus
+                  />
+                  <button className="go">{t(lang, "guess")}</button>
+                </form>
+                <ul className="suggestions" hidden={!matches.length}>
+                  {matches.map((h) => (
+                    <li key={h.name}>
+                      <button type="button" onClick={() => play(h)}>
+                        <img src={h.image} alt="" loading="lazy" />
+                        {label(h, lang)}
+                      </button>
+                    </li>
+                  ))}
+                </ul>
+              </>
+            )}
           </div>
         </div>
       )}
