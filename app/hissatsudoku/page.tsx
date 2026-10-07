@@ -18,6 +18,7 @@ export default function Grille() {
   const [active, setActive] = useState<number | null>(null); // case en cours de saisie
   const [query, setQuery] = useState("");
   const [copied, setCopied] = useState(false);
+  const [wrong, setWrong] = useState<number | null>(null);
 
   useEffect(() => {
     fetch("/data/grilles.json").then((r) => r.json()).then(setGrids);
@@ -63,6 +64,10 @@ export default function Grille() {
     const ok = critTest(h, grid.rows[Math.floor(active / 3)]) && critTest(h, grid.cols[active % 3]);
     const next = [...picks];
     if (ok) next[active] = h.name;
+    else {
+      setWrong(active);
+      setTimeout(() => setWrong(null), 600);
+    }
     const n = tries + 1;
     setPicks(next);
     setTries(n);
@@ -129,7 +134,7 @@ export default function Grille() {
                 return (
                   <button
                     key={c}
-                    className={`grid-cell ${h ? "ok" : ""}`}
+                    className={`grid-cell ${h ? "ok" : ""} ${wrong === i ? "wrong" : ""}`}
                     disabled={!done && !!h}
                     onClick={() => setActive(i)}
                     title={h ? label(h, lang) : ""}
