@@ -11307,9 +11307,7 @@
   "users": 1,
   "debut": "GO",
   "tp": 85,
-  "characteristic": [
-   "Block"
-  ],
+  "characteristic": null,
   "exclusive": false,
   "image": "https://static.wikia.nocookie.net/inazuma-eleven/images/5/5e/%28GO%29_Maou_no_Ono_8.png/revision/latest?cb=20160829123147",
   "user": [
