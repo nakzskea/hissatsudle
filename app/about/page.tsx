@@ -29,7 +29,7 @@ export default function Page() {
               Les techniques des anime Arès et Orion sont classés dans la catégorie &quot;Victory Road&quot; (VR) car elles sont apparues en premier dans ce jeu.
             </p>
             <p>
-              Le champ &quot;2nds&quot; indique les seconds utilisateurs de la technique. C&apos;est un indice en plus, mais il est basé principalement sur ma mémoire et mon interprétation, il peut donc être incomplet ou incorrect.
+              Le champ &quot;2nds&quot; indique les seconds utilisateurs de la technique. C&apos;est un indice en plus, mais il est basé principalement sur ma mémoire et mon interprétation, il peut donc être incomplet ou incorrect. Lorsque la case &quot;Joueurs&quot; ou &quot;2nds&quot; est orange, cela signifie que soit une partie des joueurs est bonne, soit le joueur est bien lié à la technique mais pas à ce rang-là.
             </p>
             <p>
               Projet personnel développé par <a href="https://mremy-dev.fr" target="_blank" rel="noopener">Milan Remy</a>. Le code est disponible sur <a href="https://github.com/nakzskea/hissatsudle" target="_blank" rel="noopener">GitHub</a>.
@@ -60,7 +60,7 @@ export default function Page() {
               Techniques from the Ares and Orion anime are listed under &quot;Victory Road&quot; (VR), since that is the game they first appeared in.
             </p>
             <p>
-              The &quot;2nd&quot; column lists a technique&apos;s secondary users. It is an extra hint, but it mostly relies on my own memory and interpretation, so it may be incomplete or wrong.
+              The &quot;2nd&quot; column lists a technique&apos;s secondary users. It is an extra hint, but it mostly relies on my own memory and interpretation, so it may be incomplete or wrong. If the &quot;Users&quot; or &quot;2nd&quot; cell is orange, it means that either some of the users are correct, or the user is indeed linked to the technique but not at that rank.
             </p>
             <p>
               A personal project by <a href="https://mremy-dev.fr" target="_blank" rel="noopener">Milan Remy</a>. The code is available on <a href="https://github.com/nakzskea/hissatsudle" target="_blank" rel="noopener">GitHub</a>.

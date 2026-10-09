@@ -146,14 +146,19 @@ export function compare(g: Hissatsu, target: Hissatsu, lang: Lang): Cell[] {
   const els = (h: Hissatsu) => h.element.split(" ");
   const u2 = (h: Hissatsu) => h.user2 ?? [];
   const chars = (h: Hissatsu) => h.characteristic ?? [];
+  // Un joueur présent dans l'autre colonne de la cible vaut un demi-point : orange, pas gris
+  const sprites = (mine: string[], theirs: string[], cross: string[]): Cell => {
+    const state = overlap(mine, theirs);
+    return { kind: "sprites", names: mine, state: state === "no" && mine.some((n) => cross.includes(n)) ? "part" : state };
+  };
   return [
     { kind: "icons", field: "type", values: [g.type], labels: [t(lang, g.type)], state: g.type === target.type ? "ok" : "no" },
     { kind: "icons", field: "element", values: els(g), labels: els(g).map((e) => t(lang, e)), state: overlap(els(g), els(target)) },
     { kind: "icons", field: "characteristic", values: chars(g), labels: chars(g).map((c) => t(lang, c === "Block" ? "cBlock" : c)),
       state: overlap(chars(g), chars(target)), fallback: t(lang, "none") },
     num(g.users, target.users),
-    { kind: "sprites", names: g.user, state: overlap(g.user, target.user) },
-    { kind: "sprites", names: u2(g), state: overlap(u2(g), u2(target)) },
+    sprites(g.user, target.user, u2(target)),
+    sprites(u2(g), u2(target), target.user),
     { kind: "emblems", names: g.teams, state: overlap(g.teams.map(family), target.teams.map(family)) },
     { kind: "text", text: g.exclusive ? "✔" : "✘", state: g.exclusive === target.exclusive ? "ok" : "no", big: true },
     { ...(num(GAMES.indexOf(g.debut), GAMES.indexOf(target.debut)) as { arrow?: string; state: CellState }),
