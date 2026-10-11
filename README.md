@@ -90,6 +90,7 @@ Développé par [Milan Remy](https://mremy-dev.fr).
 
 ## TODO :
 ajouter un lien vers le site lorsqu'il sera en ligne dans le bouton partager les résultats / changer en fonction de la langue aussi  
+rendre le jeu compatible mobile  
 
 ### icones : 
 - logo du site (ballon avec un H?)
