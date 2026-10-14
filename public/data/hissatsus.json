@@ -8761,7 +8761,9 @@
   "users": 1,
   "debut": "GO",
   "tp": 35,
-  "characteristic": null,
+  "characteristic": [
+    "Chain"
+  ],
   "exclusive": false,
   "image": "https://static.wikia.nocookie.net/inazuma-eleven/images/0/0e/%28GX%29_Shin_Mach_Wind_7.png/revision/latest?cb=20180606205834",
   "user": [
