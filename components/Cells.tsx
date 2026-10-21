@@ -72,8 +72,9 @@ export function Crit({ crit, data, lang }: { crit: string; data: Data; lang: Lan
   const i = crit.indexOf(":");
   const [fam, v] = [crit.slice(0, i), crit.slice(i + 1)];
   if (FIELD[fam])
-    return <Icon icons={data.icons} field={FIELD[fam]} value={v}
-      label={fam === "game" ? v : t(lang, fam === "char" && v === "Block" ? "cBlock" : v)} lang={lang} />;
+      return <Icon icons={data.icons} field={FIELD[fam]} value={v}
+      label={fam === "game" ? v : t(lang, fam === "char" && v === "Block" ? "cBlock" : v)}
+      lang={lang} className={fam === "game" ? "icon game-icon" : "icon"} />;
   if (fam === "team") return <Emblem name={v} data={data} lang={lang} />;
   if (fam === "user") return <Sprite name={v} chars={data.chars} />;
   return <span className="txt">{t(lang, fam === "players" ? `p${v}` : v === "yes" ? "excl" : "notExcl")}</span>;

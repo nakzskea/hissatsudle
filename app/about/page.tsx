@@ -34,6 +34,7 @@ export default function Page() {
             <p>
               Projet personnel développé par <a href="https://mremy-dev.fr" target="_blank" rel="noopener">Milan Remy</a>. Le code est disponible sur <a href="https://github.com/nakzskea/hissatsudle" target="_blank" rel="noopener">GitHub</a>.
             </p>
+            <img className="illus" src="/illustrations/about.webp" alt="" />
           </>
         ),
         en: (
@@ -65,6 +66,7 @@ export default function Page() {
             <p>
               A personal project by <a href="https://mremy-dev.fr" target="_blank" rel="noopener">Milan Remy</a>. The code is available on <a href="https://github.com/nakzskea/hissatsudle" target="_blank" rel="noopener">GitHub</a>.
             </p>
+            <img className="illus" src="/illustrations/about.webp" alt="" />
           </>
         ),
       }}

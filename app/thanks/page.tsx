@@ -22,6 +22,7 @@ export default function Page() {
               noms et les visuels des personnages.
             </p>
             <p>Et finalement, merci à tous ceux qui ont joué et qui joueront à ce jeu !</p>
+            <img className="illus" src="/illustrations/thanks.webp" alt="" />
           </>
         ),
         en: (
@@ -41,6 +42,7 @@ export default function Page() {
               character names and artwork.
             </p>
             <p>And finally, thanks to everyone who has played this game, and to everyone who will!</p>
+            <img className="illus" src="/illustrations/thanks.webp" alt="" />
           </>
         ),
       }}
