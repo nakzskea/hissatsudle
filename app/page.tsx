@@ -130,7 +130,7 @@ export default function Game() {
     <>
       {done && <Confetti />}    
       <Banner
-        title={<>Hissatsu<b>Dle</b></>}
+        title={<img src="/title/hissatsudle.webp" alt="HissatsuDle" />}
         lang={lang}
         setLang={setLang}
         left={

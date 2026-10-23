@@ -95,7 +95,7 @@ export default function Grille() {
     <>
       {perfect && <Confetti />}
       <Banner
-        title={<>Hissatsu<b>Doku</b></>}
+        title={<img src="/title/hissatsudoku.webp" alt="HissatsuDoku" />}
         lang={lang}
         setLang={setLang}
         left={

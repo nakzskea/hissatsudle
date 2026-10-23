@@ -37,7 +37,7 @@ body {
   flex-wrap: wrap;
   justify-content: space-between;
   padding: 0.9rem 1.25rem;
-  background: linear-gradient(180deg, #1b3c7d, #12224a);
+  background: linear-gradient(180deg, #1a4aa8 30%, #071c50 100%);
   border-bottom: 5px solid var(--gold);
   box-shadow: 0 6px 0 rgba(0, 0, 0, 0.2);
 }
@@ -447,3 +447,5 @@ main { max-width: 84rem; margin: 1.5rem auto; padding: 0 1rem; }
 @media (prefers-reduced-motion: reduce) { .grid-cell.wrong { animation: none; } }
 
 .prose .illus { display: block; margin: 2.5rem auto 0; max-width: min(100%, 18rem); height: auto; }
+
+.logo img { display: block; height: clamp(2.4rem, 6vw, 4rem); width: auto; }
