@@ -44,7 +44,7 @@ export default function Techniques() {
   return (
     <>
       <Banner 
-        title={t(lang, "techniques")} 
+        title={<img src="/title/hissatsudle.webp" alt="HissatsuDle" />}
         lang={lang} 
         setLang={setLang} 
         left={
