@@ -1,6 +1,6 @@
 # HissatsuDle
 
-Jeu de devinettes quotidien sur les *hissatsu* (techniques spéciales) d'Inazuma Eleven, dans l'esprit
+Jeu de devinettes quotidien sur les *hissatsu* (super techniques) d'Inazuma Eleven, dans l'esprit
 d'[InazumaDle](https://www.inazumadle.com/) et de [Gamedle](https://www.gamedle.wtf/).
 879 techniques issues des 7 jeux principaux : Inazuma Eleven, Inazuma Eleven 2, Inazuma Eleven 3, Inazuma Eleven : GO, Inazuma Eleven : Chrono Stones, Inazuma Eleven : Galaxy et Inazuma Eleven : Victory Road.
 
