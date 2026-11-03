@@ -18,7 +18,7 @@ Projet de fan, sans aucun lien avec Level-5.
 
 Chaque essai compare 10 critères (type, élément, caractéristique, nombre d'utilisateurs, joueurs,
 seconds joueurs, équipe, exclusivité, jeu, coût en PT/T).  
-Indices : une case révélée au bout de 3 essais, la description au bout de 5.
+Indices : une case révélée au bout de 5 essais, la description au bout de 7.
 
 Interface en français, anglais et techniques en japonais.
 
