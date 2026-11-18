@@ -99,8 +99,8 @@ export default function Grille() {
         lang={lang}
         setLang={setLang}
         left={
-          <Link className="badge" href="/">
-            <span>HissatsuDle</span>
+          <Link className="badge back" href="/" aria-label="HissatsuDle">
+            <img src="/icones/back.png" alt="" />
           </Link>
         }
         right={

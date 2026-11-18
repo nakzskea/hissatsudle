@@ -1,4 +1,5 @@
 "use client";
+import { useState } from "react";
 import Link from "next/link";
 import { LANGS, type Lang } from "@/lib/data";
 
@@ -8,16 +9,26 @@ export default function Banner({
   setLang,
   left,
   right,
+  menu = false,
 }: {
   title: React.ReactNode;
   lang: Lang;
   setLang: (l: Lang) => void;
   left?: React.ReactNode;
   right?: React.ReactNode;
+  menu?: boolean; // true quand il y a assez de modes pour mériter un burger en mobile
 }) {
+  const [open, setOpen] = useState(false);
   return (
-    <header className="banner">
-      <nav className="modes">{left}</nav>
+    <header className={`banner${menu ? " has-menu" : ""}${open ? " open" : ""}`}>
+      {menu && (
+        <button className="burger" aria-label="Menu" aria-expanded={open} onClick={() => setOpen(!open)}>
+          <span />
+        </button>
+      )}
+      <nav className="modes" onClick={() => setOpen(false)}>
+        {left}
+      </nav>
       <h1 className="logo">{title}</h1>
       <nav className="links">
         {right}

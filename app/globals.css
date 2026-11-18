@@ -16,6 +16,8 @@
 
 * { box-sizing: border-box; }
 
+button { color: var(--ink); }
+
 body {
   margin: 0;
   min-height: 100vh;
@@ -40,6 +42,7 @@ body {
   background: linear-gradient(180deg, #1a4aa8 30%, #071c50 100%);
   border-bottom: 5px solid var(--gold);
   box-shadow: 0 6px 0 rgba(0, 0, 0, 0.2);
+  padding: calc(0.9rem + env(safe-area-inset-top)) 1.25rem 0.9rem;
 }
 
 .logo {
@@ -449,3 +452,110 @@ main { max-width: 84rem; margin: 1.5rem auto; padding: 0 1rem; }
 .prose .illus { display: block; margin: 2.5rem auto 0; max-width: min(100%, 18rem); height: auto; }
 
 .logo img { display: block; height: clamp(2.4rem, 6vw, 4rem); width: auto; }
+
+body { padding-bottom: env(safe-area-inset-bottom); }
+
+.badge.back {
+  padding: 0.35rem 0.9rem;
+  line-height: 0;
+  background: linear-gradient(180deg, var(--gold), var(--gold2));
+  box-shadow: 0 4px 0 #8a5b00;
+}
+.badge.back img { display: block; width: 2rem; height: auto; }
+
+/* Le burger n'existe qu'en mobile, et seulement sur les pages à plusieurs modes */
+.burger { display: none; }
+
+/* ---------- mobile ---------- */
+@media (max-width: 760px) {
+  main { margin-top: 1rem; padding: 0 0.75rem; }
+
+  /* Bandeau : modes à gauche, logo au centre, Techniques + langue à droite.
+     Le padding haut suit la barre d'état iOS quand l'app tourne en plein écran. */
+  .banner { flex-wrap: wrap; gap: 0.35rem; padding: calc(0.5rem + env(safe-area-inset-top)) 0.6rem 0.5rem; }
+  .modes { flex: 0 0 auto; order: 1; gap: 0.35rem; }
+  .logo { flex: 1 1 auto; order: 2; text-align: center; }
+  .logo img { height: 1.9rem; margin: 0 auto; }
+  .links { flex: 0 0 auto; order: 3; gap: 0.35rem; justify-content: flex-end; }
+  .badge { padding: 0.25rem 0.55rem; font-size: 0.68rem; }
+  .langs { gap: 0.2rem; }
+  .langs button { width: 1.7rem; padding: 0.2rem 0; font-size: 0.62rem; border-width: 2px; }
+
+  /* Pages à plusieurs modes : les modes passent sous la barre, derrière le burger */
+  .banner.has-menu .burger {
+    display: inline-flex; align-items: center; justify-content: center; order: 0;
+    width: 2rem; height: 2rem; flex: 0 0 auto;
+    border: 3px solid var(--ink); border-radius: 12px;
+    background: linear-gradient(180deg, var(--gold), var(--gold2));
+    box-shadow: 0 4px 0 #8a5b00;
+    cursor: pointer;
+  }
+  .burger span {
+    --gap: 5px;                /* espacement entre les barres */
+    position: relative; display: block;
+    width: 1.1rem; height: 3px; border-radius: 3px; background: var(--ink);
+    transition: background 0.15s;
+  }
+  .burger span::before, .burger span::after {
+    content: ""; position: absolute; left: 0;
+    width: 100%; height: 3px; border-radius: 3px; background: var(--ink);
+    transition: transform 0.2s;
+  }
+  .burger span::before { top: calc(-1 * var(--gap)); }
+  .burger span::after { top: var(--gap); }
+  .banner.open .burger span { background: transparent; }
+  .banner.open .burger span::before { transform: translateY(var(--gap)) rotate(45deg); }
+  .banner.open .burger span::after { transform: translateY(calc(-1 * var(--gap))) rotate(-45deg); }
+  .burger:active { transform: translateY(3px); box-shadow: none; }
+  .banner.has-menu .modes {
+    order: 4; flex: 1 0 100%; justify-content: center; flex-wrap: wrap;
+    padding-top: 0.5rem; border-top: 2px solid rgba(255, 255, 255, 0.2);
+  }
+  .banner.has-menu:not(.open) .modes { display: none; }
+  .banner.has-menu:not(.open) .links > .badge { display: none; }
+
+  /* Panneau de jeu : tout était calibré pour un écran large */
+  .panel { padding: 0.7rem; }
+  .hint { font-size: 0.85rem; }
+  .hint-row { gap: 0.4rem; }
+  .hint-row .badge { font-size: 0.7rem; padding: 0.3rem 0.6rem; }
+  .guess { gap: 0.4rem; }
+  .guess input { font-size: 16px; padding: 0.55rem 0.7rem; } /* sous 16px, iOS zoome au focus */
+  .guess .go { font-size: 0.85rem; padding: 0.55rem 0.9rem; }
+  .suggestions button { font-size: 0.9rem; }
+
+  /* HissatsuDoku : la grille suit la largeur de l'écran au lieu d'une taille fixe */
+  .grid3 { grid-template-columns: 0.85fr repeat(3, 1fr); gap: 0.35rem; width: 100%; }
+  .grid-cell { width: 100%; height: auto; aspect-ratio: 4 / 3; border-width: 3px; }
+  .grid-head { padding: 0.15rem; border-width: 3px; }
+  .grid-head .icon { width: 1.8rem; height: 1.8rem; }
+  .grid-head .game-icon { width: 100%; height: auto; }
+  .grid-head .emblem { width: 2.4rem; height: 2.4rem; }
+  .grid-head .sprite { width: 2.6rem; }
+  .grid-head .txt { font-size: 0.72rem; }
+
+  .grid-score { width: 100%; gap: 1rem; padding: 0.4rem 0.8rem; }
+  .grid-score p { font-size: 1.2rem; }
+  .grid-end { width: 100%; padding: 0.8rem; }
+  .grid-end .win { font-size: 1.8rem; }
+
+  .modal { padding: 6vh 0.5rem 0; }
+  .modal-box { padding: 0.6rem; }
+
+  /* Le tableau des essais déborde des marges de main, pas de la fenêtre */
+  .scroller { margin: 1rem -0.75rem 0; padding: 0 0.75rem 0.75rem; }
+
+  /* Footer : une carte, pas une bande collée aux bords */
+  .site-footer {
+    margin: 1.25rem 0.75rem; padding: 0.9rem 1rem;
+    border-radius: 16px; font-size: 0.8rem;
+  }
+  .site-footer .brand { font-size: 1rem; }
+  .site-footer p { margin: 0.3rem 0; }
+
+  .prose .illus { max-width: 100%; }
+
+  .logo img { height: 2.4rem; margin: 0 auto; }
+  .badge.back { padding: 0.3rem 0.7rem; }
+  .badge.back img { width: 1.1rem; }
+}

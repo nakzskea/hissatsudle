@@ -133,6 +133,7 @@ export default function Game() {
         title={<img src="/title/hissatsudle.webp" alt="HissatsuDle" />}
         lang={lang}
         setLang={setLang}
+        menu
         left={
           <>
             <button className={`badge ${mode === "daily" ? "on" : ""}`} onClick={() => setMode("daily")}>
